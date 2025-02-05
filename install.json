@@ -1,6 +1,6 @@
 {
     "AppDes": "一款支持MicroSoft Office 和 WPS Offce三件套的高效办公插件。",
-    "AppName": "不坑盒子",
+    "AppName": "不坑盒子2025",
     "Files": [
         {
             "path": "\\AntdUI.dll",
@@ -315,36 +315,12 @@
             "url": "[host]\/[vision]\\en\\Library.resources.dll"
         },
         {
-            "path": "\\fonts\\GB-Pinyinok.fcp",
-            "url": "[host]\/[vision]\\fonts\\GB-Pinyinok.fcp"
-        },
-        {
-            "path": "\\fonts\\GB-Pinyinok.ttf",
-            "url": "[host]\/[vision]\\fonts\\GB-Pinyinok.ttf"
-        },
-        {
-            "path": "\\fonts\\Pinyinok.ttf",
-            "url": "[host]\/[vision]\\fonts\\Pinyinok.ttf"
-        },
-        {
-            "path": "\\fonts\\不坑盒子.old.ttf",
-            "url": "[host]\/[vision]\\fonts\\不坑盒子.old.ttf"
-        },
-        {
             "path": "\\fonts\\不坑盒子.ttf",
             "url": "[host]\/[vision]\\fonts\\不坑盒子.ttf"
         },
         {
-            "path": "\\fonts\\人教拼音体.old.ttf",
-            "url": "[host]\/[vision]\\fonts\\人教拼音体.old.ttf"
-        },
-        {
             "path": "\\fonts\\人教拼音体.ttf",
             "url": "[host]\/[vision]\\fonts\\人教拼音体.ttf"
-        },
-        {
-            "path": "\\fonts\\语文格子.ttf",
-            "url": "[host]\/[vision]\\fonts\\语文格子.ttf"
         },
         {
             "path": "\\pptxIcons\\ID_about.png",
