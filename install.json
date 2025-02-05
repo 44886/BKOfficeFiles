@@ -7,6 +7,42 @@
             "url": "[host]\/[vision]\\AntdUI.dll"
         },
         {
+            "path": "\\BKGreen.exe",
+            "url": "[host]\/[vision]\\BKGreen.exe"
+        },
+        {
+            "path": "\\BKOffice2025.Excel.dll",
+            "url": "[host]\/[vision]\\BKOffice2025.Excel.dll"
+        },
+        {
+            "path": "\\BKOffice2025.Excel.dll.manifest",
+            "url": "[host]\/[vision]\\BKOffice2025.Excel.dll.manifest"
+        },
+        {
+            "path": "\\BKOffice2025.Excel.vsto",
+            "url": "[host]\/[vision]\\BKOffice2025.Excel.vsto"
+        },
+        {
+            "path": "\\BKOffice2025.PPT.dll",
+            "url": "[host]\/[vision]\\BKOffice2025.PPT.dll"
+        },
+        {
+            "path": "\\BKOffice2025.PPT.dll.manifest",
+            "url": "[host]\/[vision]\\BKOffice2025.PPT.dll.manifest"
+        },
+        {
+            "path": "\\BKOffice2025.PPT.vsto",
+            "url": "[host]\/[vision]\\BKOffice2025.PPT.vsto"
+        },
+        {
+            "path": "\\BKOffice2025.Word.dll",
+            "url": "[host]\/[vision]\\BKOffice2025.Word.dll"
+        },
+        {
+            "path": "\\BKOffice2025.Word.dll.manifest",
+            "url": "[host]\/[vision]\\BKOffice2025.Word.dll.manifest"
+        },
+        {
             "path": "\\BKOffice2025.Word.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.Word.vsto"
         },
@@ -19,12 +55,52 @@
             "url": "[host]\/[vision]\\BKOfficeDNA-AddIn64-packed.xll"
         },
         {
+            "path": "\\BKOfficeDNA.dll",
+            "url": "[host]\/[vision]\\BKOfficeDNA.dll"
+        },
+        {
+            "path": "\\BKOfficeStart.docx",
+            "url": "[host]\/[vision]\\BKOfficeStart.docx"
+        },
+        {
+            "path": "\\BKOfficeWPF.exe",
+            "url": "[host]\/[vision]\\BKOfficeWPF.exe"
+        },
+        {
             "path": "\\BKRemote2.exe",
             "url": "[host]\/[vision]\\BKRemote2.exe"
         },
         {
+            "path": "\\BKRemote2.exe.config",
+            "url": "[host]\/[vision]\\BKRemote2.exe.config"
+        },
+        {
+            "path": "\\BKSpotLight.exe",
+            "url": "[host]\/[vision]\\BKSpotLight.exe"
+        },
+        {
+            "path": "\\BKWebView.exe",
+            "url": "[host]\/[vision]\\BKWebView.exe"
+        },
+        {
+            "path": "\\config.ini",
+            "url": "[host]\/[vision]\\config.ini"
+        },
+        {
+            "path": "\\Cookie.dat",
+            "url": "[host]\/[vision]\\Cookie.dat"
+        },
+        {
             "path": "\\DotNetZip.dll",
             "url": "[host]\/[vision]\\DotNetZip.dll"
+        },
+        {
+            "path": "\\error.log",
+            "url": "[host]\/[vision]\\error.log"
+        },
+        {
+            "path": "\\Fleck.dll",
+            "url": "[host]\/[vision]\\Fleck.dll"
         },
         {
             "path": "\\HotkeyListener.dll",
@@ -43,6 +119,14 @@
             "url": "[host]\/[vision]\\libwebp_x86.dll"
         },
         {
+            "path": "\\logo.ico",
+            "url": "[host]\/[vision]\\logo.ico"
+        },
+        {
+            "path": "\\logo.png",
+            "url": "[host]\/[vision]\\logo.png"
+        },
+        {
             "path": "\\Microsoft.CognitiveServices.Speech.core.32.dll",
             "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.core.32.dll"
         },
@@ -51,8 +135,56 @@
             "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.core.dll"
         },
         {
+            "path": "\\Microsoft.CognitiveServices.Speech.csharp.dll",
+            "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.csharp.dll"
+        },
+        {
+            "path": "\\Microsoft.CognitiveServices.Speech.extension.audio.sys.32.dll",
+            "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.extension.audio.sys.32.dll"
+        },
+        {
+            "path": "\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll",
+            "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll"
+        },
+        {
+            "path": "\\Microsoft.Extensions.Logging.Abstractions.dll",
+            "url": "[host]\/[vision]\\Microsoft.Extensions.Logging.Abstractions.dll"
+        },
+        {
+            "path": "\\Microsoft.Office.Tools.Common.dll",
+            "url": "[host]\/[vision]\\Microsoft.Office.Tools.Common.dll"
+        },
+        {
+            "path": "\\Microsoft.Office.Tools.Common.v4.0.Utilities.dll",
+            "url": "[host]\/[vision]\\Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
+        },
+        {
+            "path": "\\Microsoft.Office.Tools.dll",
+            "url": "[host]\/[vision]\\Microsoft.Office.Tools.dll"
+        },
+        {
+            "path": "\\Microsoft.Office.Tools.Excel.dll",
+            "url": "[host]\/[vision]\\Microsoft.Office.Tools.Excel.dll"
+        },
+        {
+            "path": "\\Microsoft.Office.Tools.Word.dll",
+            "url": "[host]\/[vision]\\Microsoft.Office.Tools.Word.dll"
+        },
+        {
+            "path": "\\Microsoft.VisualStudio.Tools.Applications.Runtime.dll",
+            "url": "[host]\/[vision]\\Microsoft.VisualStudio.Tools.Applications.Runtime.dll"
+        },
+        {
             "path": "\\Microsoft.Web.WebView2.Core.dll",
             "url": "[host]\/[vision]\\Microsoft.Web.WebView2.Core.dll"
+        },
+        {
+            "path": "\\Microsoft.Web.WebView2.WinForms.dll",
+            "url": "[host]\/[vision]\\Microsoft.Web.WebView2.WinForms.dll"
+        },
+        {
+            "path": "\\Microsoft.Web.WebView2.Wpf.dll",
+            "url": "[host]\/[vision]\\Microsoft.Web.WebView2.Wpf.dll"
         },
         {
             "path": "\\MicrosoftEdgeWebview2Setup.exe",
@@ -71,12 +203,72 @@
             "url": "[host]\/[vision]\\PdfSharp.dll"
         },
         {
+            "path": "\\PdfSharp.System.dll",
+            "url": "[host]\/[vision]\\PdfSharp.System.dll"
+        },
+        {
+            "path": "\\PPTNotes.db",
+            "url": "[host]\/[vision]\\PPTNotes.db"
+        },
+        {
+            "path": "\\Prototype.pptx",
+            "url": "[host]\/[vision]\\Prototype.pptx"
+        },
+        {
+            "path": "\\System.Buffers.dll",
+            "url": "[host]\/[vision]\\System.Buffers.dll"
+        },
+        {
+            "path": "\\System.Drawing.Common.dll",
+            "url": "[host]\/[vision]\\System.Drawing.Common.dll"
+        },
+        {
+            "path": "\\System.Memory.dll",
+            "url": "[host]\/[vision]\\System.Memory.dll"
+        },
+        {
+            "path": "\\System.Numerics.Vectors.dll",
+            "url": "[host]\/[vision]\\System.Numerics.Vectors.dll"
+        },
+        {
+            "path": "\\System.Runtime.CompilerServices.Unsafe.dll",
+            "url": "[host]\/[vision]\\System.Runtime.CompilerServices.Unsafe.dll"
+        },
+        {
+            "path": "\\template.dotx",
+            "url": "[host]\/[vision]\\template.dotx"
+        },
+        {
+            "path": "\\TencentCloudCommon.dll",
+            "url": "[host]\/[vision]\\TencentCloudCommon.dll"
+        },
+        {
             "path": "\\TencentCloudOcr.dll",
             "url": "[host]\/[vision]\\TencentCloudOcr.dll"
         },
         {
+            "path": "\\TencentCloudTmt.dll",
+            "url": "[host]\/[vision]\\TencentCloudTmt.dll"
+        },
+        {
             "path": "\\ticiqi.exe",
             "url": "[host]\/[vision]\\ticiqi.exe"
+        },
+        {
+            "path": "\\vstor_redist.exe",
+            "url": "[host]\/[vision]\\vstor_redist.exe"
+        },
+        {
+            "path": "\\WebViewScripts.json",
+            "url": "[host]\/[vision]\\WebViewScripts.json"
+        },
+        {
+            "path": "\\WindowsInput.dll",
+            "url": "[host]\/[vision]\\WindowsInput.dll"
+        },
+        {
+            "path": "\\Yoko.Images.Webp.dll",
+            "url": "[host]\/[vision]\\Yoko.Images.Webp.dll"
         },
         {
             "path": "\\zxing.dll",
@@ -101,6 +293,18 @@
         {
             "path": "\\_修复com注册错误.bat",
             "url": "[host]\/[vision]\\_修复com注册错误.bat"
+        },
+        {
+            "path": "\\不坑开发工具.exe",
+            "url": "[host]\/[vision]\\不坑开发工具.exe"
+        },
+        {
+            "path": "\\不坑盒子.exe",
+            "url": "[host]\/[vision]\\不坑盒子.exe"
+        },
+        {
+            "path": "\\不坑盒子.exe.config",
+            "url": "[host]\/[vision]\\不坑盒子.exe.config"
         },
         {
             "path": "\\de\\PdfSharp.Charting.resources.dll",
