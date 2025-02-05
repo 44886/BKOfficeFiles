@@ -1,11 +1,639 @@
 {
-    "AppName": "不坑盒子2025",
     "AppDes": "一款支持MicroSoft Office 和 WPS Offce三件套的高效办公插件。",
-    "Vison": "2025.02.06",
+    "AppName": "不坑盒子2025",
     "Files": [
         {
-            "url": "[host]/[vision]/_install.bat",
-            "path": "\\_install.bat"
+            "path": "\\AntdUI.dll",
+            "url": "[host]\/[vision]\\AntdUI.dll"
+        },
+        {
+            "path": "\\BKOffice2025.Word.vsto",
+            "url": "[host]\/[vision]\\BKOffice2025.Word.vsto"
+        },
+        {
+            "path": "\\BKOfficeDNA-AddIn-packed.xll",
+            "url": "[host]\/[vision]\\BKOfficeDNA-AddIn-packed.xll"
+        },
+        {
+            "path": "\\BKOfficeDNA-AddIn64-packed.xll",
+            "url": "[host]\/[vision]\\BKOfficeDNA-AddIn64-packed.xll"
+        },
+        {
+            "path": "\\BKRemote2.exe",
+            "url": "[host]\/[vision]\\BKRemote2.exe"
+        },
+        {
+            "path": "\\DotNetZip.dll",
+            "url": "[host]\/[vision]\\DotNetZip.dll"
+        },
+        {
+            "path": "\\HotkeyListener.dll",
+            "url": "[host]\/[vision]\\HotkeyListener.dll"
+        },
+        {
+            "path": "\\Library.dll",
+            "url": "[host]\/[vision]\\Library.dll"
+        },
+        {
+            "path": "\\libwebp_x64.dll",
+            "url": "[host]\/[vision]\\libwebp_x64.dll"
+        },
+        {
+            "path": "\\libwebp_x86.dll",
+            "url": "[host]\/[vision]\\libwebp_x86.dll"
+        },
+        {
+            "path": "\\Microsoft.CognitiveServices.Speech.core.32.dll",
+            "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.core.32.dll"
+        },
+        {
+            "path": "\\Microsoft.CognitiveServices.Speech.core.dll",
+            "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.core.dll"
+        },
+        {
+            "path": "\\Microsoft.Web.WebView2.Core.dll",
+            "url": "[host]\/[vision]\\Microsoft.Web.WebView2.Core.dll"
+        },
+        {
+            "path": "\\MicrosoftEdgeWebview2Setup.exe",
+            "url": "[host]\/[vision]\\MicrosoftEdgeWebview2Setup.exe"
+        },
+        {
+            "path": "\\ndp48-web.exe",
+            "url": "[host]\/[vision]\\ndp48-web.exe"
+        },
+        {
+            "path": "\\Newtonsoft.Json.dll",
+            "url": "[host]\/[vision]\\Newtonsoft.Json.dll"
+        },
+        {
+            "path": "\\PdfSharp.dll",
+            "url": "[host]\/[vision]\\PdfSharp.dll"
+        },
+        {
+            "path": "\\TencentCloudOcr.dll",
+            "url": "[host]\/[vision]\\TencentCloudOcr.dll"
+        },
+        {
+            "path": "\\ticiqi.exe",
+            "url": "[host]\/[vision]\\ticiqi.exe"
+        },
+        {
+            "path": "\\zxing.dll",
+            "url": "[host]\/[vision]\\zxing.dll"
+        },
+        {
+            "path": "\\_delete_edge_runtime.bat",
+            "url": "[host]\/[vision]\\_delete_edge_runtime.bat"
+        },
+        {
+            "path": "\\_install.bat",
+            "url": "[host]\/[vision]\\_install.bat"
+        },
+        {
+            "path": "\\_reg_machine.bat",
+            "url": "[host]\/[vision]\\_reg_machine.bat"
+        },
+        {
+            "path": "\\_uninstall.bat",
+            "url": "[host]\/[vision]\\_uninstall.bat"
+        },
+        {
+            "path": "\\_修复com注册错误.bat",
+            "url": "[host]\/[vision]\\_修复com注册错误.bat"
+        },
+        {
+            "path": "\\de\\PdfSharp.Charting.resources.dll",
+            "url": "[host]\/[vision]\\de\\PdfSharp.Charting.resources.dll"
+        },
+        {
+            "path": "\\de\\PdfSharp.resources.dll",
+            "url": "[host]\/[vision]\\de\\PdfSharp.resources.dll"
+        },
+        {
+            "path": "\\en\\Library.resources.dll",
+            "url": "[host]\/[vision]\\en\\Library.resources.dll"
+        },
+        {
+            "path": "\\fonts\\GB-Pinyinok.fcp",
+            "url": "[host]\/[vision]\\fonts\\GB-Pinyinok.fcp"
+        },
+        {
+            "path": "\\fonts\\GB-Pinyinok.ttf",
+            "url": "[host]\/[vision]\\fonts\\GB-Pinyinok.ttf"
+        },
+        {
+            "path": "\\fonts\\Pinyinok.ttf",
+            "url": "[host]\/[vision]\\fonts\\Pinyinok.ttf"
+        },
+        {
+            "path": "\\fonts\\不坑盒子.old.ttf",
+            "url": "[host]\/[vision]\\fonts\\不坑盒子.old.ttf"
+        },
+        {
+            "path": "\\fonts\\不坑盒子.ttf",
+            "url": "[host]\/[vision]\\fonts\\不坑盒子.ttf"
+        },
+        {
+            "path": "\\fonts\\人教拼音体.old.ttf",
+            "url": "[host]\/[vision]\\fonts\\人教拼音体.old.ttf"
+        },
+        {
+            "path": "\\fonts\\人教拼音体.ttf",
+            "url": "[host]\/[vision]\\fonts\\人教拼音体.ttf"
+        },
+        {
+            "path": "\\fonts\\语文格子.ttf",
+            "url": "[host]\/[vision]\\fonts\\语文格子.ttf"
+        },
+        {
+            "path": "\\pptxIcons\\ID_about.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_about.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_baocun.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_baocun.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_del_ani.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_del_ani.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_design.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_design.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_getfonts.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_getfonts.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_green.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_green.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_jiami.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_jiami.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_jinshu.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_jinshu.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_kuaye.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_kuaye.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_mengceng.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_mengceng.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_NAV.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_NAV.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_nav_1.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_nav_1.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_nav_2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_nav_2.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_nav_3.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_nav_3.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_network.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_network.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_pozhidu.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_pozhidu.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_ppt_exportimg.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_exportimg.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_ppt_image_clip.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_image_clip.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_ppt_image_clipout.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_image_clipout.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_ppt_prototype.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_prototype.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_ppt_word_split.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_word_split.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_remote.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_remote.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_Resource.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_Resource.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_setting.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_setting.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_setting2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_setting2.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_shanchu_ppt.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_ppt.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_talk.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_talk.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_ticiqi.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ticiqi.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_ticiqi2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ticiqi2.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_ticiqi3.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ticiqi3.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_timer.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_timer.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_tiqutupian.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tiqutupian.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_tools_1.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_1.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_tools_2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_2.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_tools_3.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_3.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_tools_4.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_4.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_tools_5.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_5.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_tools_6.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_6.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_tools_7.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_7.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_tools_8.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_8.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_trigger.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_trigger.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_tts.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tts.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_user.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_user.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_vbas.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_vbas.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_waci.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_waci.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_webbwoser.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_webbwoser.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_wens2wen.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_wens2wen.png"
+        },
+        {
+            "path": "\\pptxIcons\\ID_xingzhuangguodu.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_xingzhuangguodu.png"
+        },
+        {
+            "path": "\\runtimes\\win-arm64\\native\\WebView2Loader.dll",
+            "url": "[host]\/[vision]\\runtimes\\win-arm64\\native\\WebView2Loader.dll"
+        },
+        {
+            "path": "\\runtimes\\win-x64\\native\\WebView2Loader.dll",
+            "url": "[host]\/[vision]\\runtimes\\win-x64\\native\\WebView2Loader.dll"
+        },
+        {
+            "path": "\\runtimes\\win-x86\\native\\WebView2Loader.dll",
+            "url": "[host]\/[vision]\\runtimes\\win-x86\\native\\WebView2Loader.dll"
+        },
+        {
+            "path": "\\wordIcons\\ID_2228.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_2228.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_about.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_about.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_AES.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_AES.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_auto2.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_auto2.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_baocun.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_baocun.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_bianju.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_bianju.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_biaoge_1.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_1.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_biaoge_2.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_2.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_biaoge_3.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_3.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_biaoge_7.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_7.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_biaoge_jisuan.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_jisuan.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_chemistry.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_chemistry.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_code.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_code.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_document.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_document.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_fanyi.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_fanyi.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_fuhao.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_fuhao.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_GONGWENBUJIAN.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_GONGWENBUJIAN.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_h.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_h.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_h1.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_h1.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_h2.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_h2.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_h3.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_h3.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_hh.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_hh.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_h_downgrade.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_h_downgrade.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_h_repair.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_h_repair.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_h_upgrade.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_h_upgrade.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_insertdanwei.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_insertdanwei.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_insertdate.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_insertdate.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_jiami.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiami.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_jiaoshi_1.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_1.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_jiaoshi_2.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_2.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_jiaoshi_4.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_4.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_jiaoshi_5.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_5.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_jiaoshi_bujian.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_bujian.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_jiaoshi_pinyin.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_pinyin.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_jiouyema.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiouyema.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_NAV.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_NAV.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_nav_1.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_nav_1.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_nav_2.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_nav_2.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_nav_3.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_nav_3.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_network.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_network.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_ocr.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_ocr.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_p.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_p.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_pozhidu.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_pozhidu.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_renyiyema.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_renyiyema.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_Resource.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_Resource.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_setting.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_setting.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_setting2.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_setting2.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_shanchu.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_shouxie.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shouxie.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_speech.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_speech.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_superreplace.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_superreplace.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_SYSTEM.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_SYSTEM.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_TABLE.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_TABLE.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_tagzuo.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tagzuo.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_talk.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_talk.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_TEACHER.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_TEACHER.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_ticiqi.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_ticiqi.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_tihuan.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tihuan.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_tupian.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tupian.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_user.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_user.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_vbas.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_vbas.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_waci.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_waci.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_weibu.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_weibu.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_WOW.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_WOW.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_yemian.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_yemian.png"
+        },
+        {
+            "path": "\\wordIcons\\ID_ZhiNengXieZuo.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_ZhiNengXieZuo.png"
+        },
+        {
+            "path": "\\x64\\Microsoft.CognitiveServices.Speech.core.dll",
+            "url": "[host]\/[vision]\\x64\\Microsoft.CognitiveServices.Speech.core.dll"
+        },
+        {
+            "path": "\\x64\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll",
+            "url": "[host]\/[vision]\\x64\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll"
+        },
+        {
+            "path": "\\x86\\Microsoft.CognitiveServices.Speech.core.dll",
+            "url": "[host]\/[vision]\\x86\\Microsoft.CognitiveServices.Speech.core.dll"
+        },
+        {
+            "path": "\\x86\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll",
+            "url": "[host]\/[vision]\\x86\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll"
+        },
+        {
+            "path": "\\zh-CN\\Library.resources.dll",
+            "url": "[host]\/[vision]\\zh-CN\\Library.resources.dll"
         }
-    ]
+    ],
+    "Vison": "2025.02.06"
 }
