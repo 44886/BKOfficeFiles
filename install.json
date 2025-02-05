@@ -1,12 +1,11 @@
 {
     "AppName": "不坑盒子",
     "AppDes": "一款高效的Office办公插件",
-    "Vison": "2024.02.06",
+    "Vison": "2025.02.06",
     "Files": [
         {
             "url": "[host]/[vision]/_install.bat",
             "path": "\\_install.bat"
-        }
-        
+        }        
     ]
 }
