@@ -255,10 +255,6 @@
             "url": "[host]\/[vision]\\ticiqi.exe"
         },
         {
-            "path": "\\vstor_redist.exe",
-            "url": "[host]\/[vision]\\vstor_redist.exe"
-        },
-        {
             "path": "\\WebViewScripts.json",
             "url": "[host]\/[vision]\\WebViewScripts.json"
         },
