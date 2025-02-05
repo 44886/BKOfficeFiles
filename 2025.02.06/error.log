@@ -1,0 +1,649 @@
+
+
+2024-12-29 11:00:07,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: 与“BKCommon.BKMath.Str2D(string)”最匹配的重载方法具有一些无效参数 
+   在 CallSite.Target(Closure , CallSite , Type , Object ) 
+   在 System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1) 
+   在 Library.ExcelAction.Button_Score_1(IRibbonControl Control) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Excel\ExcelAction.cs:行号 1213
+
+
+2024-12-29 11:00:14,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: 与“BKCommon.BKMath.Str2D(string)”最匹配的重载方法具有一些无效参数 
+   在 CallSite.Target(Closure , CallSite , Type , Object ) 
+   在 Library.ExcelAction.Button_Score_1(IRibbonControl Control) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Excel\ExcelAction.cs:行号 1213
+
+
+2024-12-29 11:50:42,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Threading.ThreadStateException: 在可以调用 OLE 之前，必须将当前线程设置为单线程单元(STA)模式。请确保您的 Main 函数带有 STAThreadAttribute 标记。 
+   在 System.Windows.Forms.Clipboard.SetDataObject(Object data, Boolean copy, Int32 retryTimes, Int32 retryDelay) 
+   在 System.Windows.Forms.Clipboard.SetText(String text, TextDataFormat format) 
+   在 Library.WebScript.Excel.<MicroMsg>d__5.MoveNext() 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\WebScript\Excel.cs:行号 153
+
+
+2024-12-29 11:50:59,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Threading.ThreadStateException: 在可以调用 OLE 之前，必须将当前线程设置为单线程单元(STA)模式。请确保您的 Main 函数带有 STAThreadAttribute 标记。 
+   在 System.Windows.Forms.Clipboard.SetDataObject(Object data, Boolean copy, Int32 retryTimes, Int32 retryDelay) 
+   在 System.Windows.Forms.Clipboard.SetText(String text, TextDataFormat format) 
+   在 Library.WebScript.Excel.<MicroMsg>d__5.MoveNext() 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\WebScript\Excel.cs:行号 153
+
+
+2024-12-29 11:52:13,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Threading.ThreadStateException: 在可以调用 OLE 之前，必须将当前线程设置为单线程单元(STA)模式。请确保您的 Main 函数带有 STAThreadAttribute 标记。 
+   在 System.Windows.Forms.Clipboard.SetDataObject(Object data, Boolean copy, Int32 retryTimes, Int32 retryDelay) 
+   在 System.Windows.Forms.Clipboard.SetText(String text, TextDataFormat format) 
+   在 Library.WebScript.Excel.<MicroMsg>d__5.MoveNext() 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\WebScript\Excel.cs:行号 155
+
+
+2024-12-29 11:55:51,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Threading.ThreadStateException: 在可以调用 OLE 之前，必须将当前线程设置为单线程单元(STA)模式。请确保您的 Main 函数带有 STAThreadAttribute 标记。 
+   在 System.Windows.Forms.Clipboard.SetDataObject(Object data, Boolean copy, Int32 retryTimes, Int32 retryDelay) 
+   在 System.Windows.Forms.Clipboard.SetText(String text, TextDataFormat format) 
+   在 Library.WebScript.Excel.<MicroMsg>d__5.MoveNext() 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\WebScript\Excel.cs:行号 159
+
+
+2024-12-29 11:55:55,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Threading.ThreadStateException: 在可以调用 OLE 之前，必须将当前线程设置为单线程单元(STA)模式。请确保您的 Main 函数带有 STAThreadAttribute 标记。 
+   在 System.Windows.Forms.Clipboard.SetDataObject(Object data, Boolean copy, Int32 retryTimes, Int32 retryDelay) 
+   在 System.Windows.Forms.Clipboard.SetText(String text, TextDataFormat format) 
+   在 Library.WebScript.Excel.<MicroMsg>d__5.MoveNext() 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\WebScript\Excel.cs:行号 159
+
+
+2024-12-29 11:55:58,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Threading.ThreadStateException: 在可以调用 OLE 之前，必须将当前线程设置为单线程单元(STA)模式。请确保您的 Main 函数带有 STAThreadAttribute 标记。 
+   在 System.Windows.Forms.Clipboard.SetDataObject(Object data, Boolean copy, Int32 retryTimes, Int32 retryDelay) 
+   在 System.Windows.Forms.Clipboard.SetText(String text, TextDataFormat format) 
+   在 Library.WebScript.Excel.<MicroMsg>d__5.MoveNext() 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\WebScript\Excel.cs:行号 159
+
+
+2024-12-29 12:30:11,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: 与“BKCommon.BKMath.Str2D(string)”最匹配的重载方法具有一些无效参数 
+   在 CallSite.Target(Closure , CallSite , Type , Object ) 
+   在 System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1) 
+   在 Library.ExcelAction.Button_Score_1(IRibbonControl Control) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Excel\ExcelAction.cs:行号 1213
+
+
+2024-12-29 12:30:25,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: 与“BKCommon.BKMath.Str2D(string)”最匹配的重载方法具有一些无效参数 
+   在 CallSite.Target(Closure , CallSite , Type , Object ) 
+   在 System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1) 
+   在 Library.ExcelAction.Button_Score_2(IRibbonControl Control) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Excel\ExcelAction.cs:行号 1312
+
+
+2024-12-29 16:30:19,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。 
+   在 System.ThrowHelper.ThrowKeyNotFoundException() 
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key) 
+   在 Library.FontIcon.DrawImage(String id, String type) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\FontIcon.cs:行号 246
+
+
+2024-12-29 16:30:21,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。 
+   在 System.ThrowHelper.ThrowKeyNotFoundException() 
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key) 
+   在 Library.FontIcon.DrawImage(String id, String type) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\FontIcon.cs:行号 246
+
+
+2024-12-29 16:30:51,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。 
+   在 System.ThrowHelper.ThrowKeyNotFoundException() 
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key) 
+   在 Library.FontIcon.DrawImage(String id, String type) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\FontIcon.cs:行号 246
+
+
+2024-12-29 16:31:45,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: 无法将类型“bool”隐式转换为“Microsoft.Office.Interop.Excel.Range” 
+   在 CallSite.Target(Closure , CallSite , Object ) 
+   在 System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0) 
+   在 Library.Excel.ExcelFunction.MakeQR(String Type) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Excel\ExcelFunction.cs:行号 175
+
+
+2024-12-29 16:33:23,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: 无法将类型“bool”隐式转换为“Microsoft.Office.Interop.Excel.Range” 
+   在 CallSite.Target(Closure , CallSite , Object ) 
+   在 System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0) 
+   在 Library.Excel.ExcelFunction.MakeQR(String Type) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Excel\ExcelFunction.cs:行号 175
+
+
+2024-12-29 18:20:10,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentException: Requested contents should be 12 (without checksum digit) or 13 digits long, but got 6 
+   在 ZXing.OneD.EAN13Writer.encode(String contents) 
+   在 ZXing.OneD.OneDimensionalCodeWriter.encode(String contents, BarcodeFormat format, Int32 width, Int32 height, IDictionary`2 hints) 
+   在 ZXing.MultiFormatWriter.encode(String contents, BarcodeFormat format, Int32 width, Int32 height, IDictionary`2 hints) 
+   在 ZXing.BarcodeWriterGeneric.Encode(String contents) 
+   在 ZXing.BarcodeWriter`1.Write(String contents) 
+   在 Library.Common.QR.SaveBarEAN13ToFile(String str, String filePath) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Common\QR.cs:行号 109 
+   在 System.Dynamic.UpdateDelegates.UpdateAndExecute3[T0,T1,T2,TRet](CallSite site, T0 arg0, T1 arg1, T2 arg2) 
+   在 Library.Excel.ExcelFunction.MakeQR(String Type) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Excel\ExcelFunction.cs:行号 274
+
+
+2024-12-29 18:20:42,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentException: Contents do not pass checksum 
+   在 ZXing.OneD.EAN13Writer.encode(String contents) 
+   在 ZXing.OneD.OneDimensionalCodeWriter.encode(String contents, BarcodeFormat format, Int32 width, Int32 height, IDictionary`2 hints) 
+   在 ZXing.MultiFormatWriter.encode(String contents, BarcodeFormat format, Int32 width, Int32 height, IDictionary`2 hints) 
+   在 ZXing.BarcodeWriterGeneric.Encode(String contents) 
+   在 ZXing.BarcodeWriter`1.Write(String contents) 
+   在 Library.Common.QR.SaveBarEAN13ToFile(String str, String filePath) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Common\QR.cs:行号 109 
+   在 Library.Excel.ExcelFunction.MakeQR(String Type) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Excel\ExcelFunction.cs:行号 274
+
+
+2024-12-29 18:20:54,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentException: Contents do not pass checksum 
+   在 ZXing.OneD.EAN13Writer.encode(String contents) 
+   在 ZXing.OneD.OneDimensionalCodeWriter.encode(String contents, BarcodeFormat format, Int32 width, Int32 height, IDictionary`2 hints) 
+   在 ZXing.MultiFormatWriter.encode(String contents, BarcodeFormat format, Int32 width, Int32 height, IDictionary`2 hints) 
+   在 ZXing.BarcodeWriterGeneric.Encode(String contents) 
+   在 ZXing.BarcodeWriter`1.Write(String contents) 
+   在 Library.Common.QR.SaveBarEAN13ToFile(String str, String filePath) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Common\QR.cs:行号 109 
+   在 Library.Excel.ExcelFunction.MakeQR(String Type) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Excel\ExcelFunction.cs:行号 274
+
+
+2024-12-29 18:22:34,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentException: Contents do not pass checksum 
+   在 ZXing.OneD.EAN13Writer.encode(String contents) 
+   在 ZXing.OneD.OneDimensionalCodeWriter.encode(String contents, BarcodeFormat format, Int32 width, Int32 height, IDictionary`2 hints) 
+   在 ZXing.MultiFormatWriter.encode(String contents, BarcodeFormat format, Int32 width, Int32 height, IDictionary`2 hints) 
+   在 ZXing.BarcodeWriterGeneric.Encode(String contents) 
+   在 ZXing.BarcodeWriter`1.Write(String contents) 
+   在 Library.Common.QR.SaveBarEAN13ToFile(String str, String filePath) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Common\QR.cs:行号 109 
+   在 System.Dynamic.UpdateDelegates.UpdateAndExecute3[T0,T1,T2,TRet](CallSite site, T0 arg0, T1 arg1, T2 arg2) 
+   在 Library.Excel.ExcelFunction.MakeQR(String Type) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Excel\ExcelFunction.cs:行号 274
+
+
+2024-12-29 18:23:13,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentException: Contents do not pass checksum 
+   在 ZXing.OneD.EAN13Writer.encode(String contents) 
+   在 ZXing.OneD.OneDimensionalCodeWriter.encode(String contents, BarcodeFormat format, Int32 width, Int32 height, IDictionary`2 hints) 
+   在 ZXing.MultiFormatWriter.encode(String contents, BarcodeFormat format, Int32 width, Int32 height, IDictionary`2 hints) 
+   在 ZXing.BarcodeWriterGeneric.Encode(String contents) 
+   在 ZXing.BarcodeWriter`1.Write(String contents) 
+   在 Library.Common.QR.SaveBarEAN13ToFile(String str, String filePath) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Common\QR.cs:行号 109 
+   在 Library.Excel.ExcelFunction.MakeQR(String Type) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Excel\ExcelFunction.cs:行号 274
+
+
+2024-12-29 18:59:02,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentException: Requested contents should be 12 (without checksum digit) or 13 digits long, but got 4 
+   在 ZXing.OneD.EAN13Writer.encode(String contents) 
+   在 ZXing.OneD.OneDimensionalCodeWriter.encode(String contents, BarcodeFormat format, Int32 width, Int32 height, IDictionary`2 hints) 
+   在 ZXing.MultiFormatWriter.encode(String contents, BarcodeFormat format, Int32 width, Int32 height, IDictionary`2 hints) 
+   在 ZXing.BarcodeWriterGeneric.Encode(String contents) 
+   在 ZXing.BarcodeWriter`1.Write(String contents) 
+   在 Library.Common.QR.SaveBarEAN13ToFile(String str, String filePath) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Common\QR.cs:行号 109 
+   在 System.Dynamic.UpdateDelegates.UpdateAndExecute3[T0,T1,T2,TRet](CallSite site, T0 arg0, T1 arg1, T2 arg2) 
+   在 Library.Excel.ExcelFunction.MakeQR(String Type) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Excel\ExcelFunction.cs:行号 262
+
+
+2025-01-01 21:15:11,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-01 21:15:12,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-01 21:15:13,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-01 21:15:13,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-01 21:21:57,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.Panel.Show(IDocument doc, Form _form) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Panel.cs:行号 62 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 95
+
+
+2025-01-01 21:21:58,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.Panel.Show(IDocument doc, Form _form) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Panel.cs:行号 62 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 95
+
+
+2025-01-01 21:21:59,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.Panel.Show(IDocument doc, Form _form) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Panel.cs:行号 62 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 95
+
+
+2025-01-01 21:22:00,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.Panel.Show(IDocument doc, Form _form) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\Panel.cs:行号 62 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 95
+
+
+2025-01-02 08:22:30,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-02 08:22:32,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-02 08:22:33,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-02 08:22:34,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-02 08:22:34,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-02 08:22:35,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-02 08:22:35,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-02 08:22:35,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-02 08:22:36,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-02 08:22:36,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-02 08:22:36,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-02 08:22:37,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-02 08:22:37,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-02 08:22:37,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ArgumentNullException: 值不能为 null。 
+参数名: key 
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key) 
+   在 System.Collections.Generic.Dictionary`2.ContainsKey(TKey key) 
+   在 Library.G.ShowForm(Form _Form, Int32 Type, String Title, String Url) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\G.cs:行号 75
+
+
+2025-01-04 10:02:22,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800AC472): 异常来自 HRESULT:0x800AC472 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\AutoSaveManager.cs:行号 165 
+   在 Library.AutoSaveManager.SaveActiveDocument() 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\AutoSaveManager.cs:行号 73
+
+
+2025-01-04 10:05:30,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800401A8): 异常来自 HRESULT:0x800401A8 
+   在 Microsoft.Office.Interop.Excel._Workbook.get_FullName() 
+   在 Library.AutoSaveManager.SaveActiveDocument() 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\AutoSaveManager.cs:行号 109
+
+
+2025-01-04 10:05:50,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800AC472): 异常来自 HRESULT:0x800AC472 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\AutoSaveManager.cs:行号 169 
+   在 Library.AutoSaveManager.SaveActiveDocument() 位置 C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\Library\AutoSaveManager.cs:行号 73
+
+
+2025-01-04 23:58:40,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800A03EC): 异常来自 HRESULT:0x800A03EC 
+   在 System.Dynamic.ComRuntimeHelpers.CheckThrowException(Int32 hresult, ExcepInfo& excepInfo, UInt32 argErr, String message) 
+   在 CallSite.Target(Closure , CallSite , Object , String ) 
+   在 System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1) 
+   在 Library.ExcelAction.<Button_SheetSplit1>d__48.MoveNext()
+
+
+2025-01-04 23:58:46,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800A03EC): 异常来自 HRESULT:0x800A03EC 
+   在 System.Dynamic.ComRuntimeHelpers.CheckThrowException(Int32 hresult, ExcepInfo& excepInfo, UInt32 argErr, String message) 
+   在 CallSite.Target(Closure , CallSite , Object , String ) 
+   在 Library.ExcelAction.<Button_SheetSplit1>d__48.MoveNext()
+
+
+2025-01-04 23:59:06,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800A03EC): 异常来自 HRESULT:0x800A03EC 
+   在 System.Dynamic.ComRuntimeHelpers.CheckThrowException(Int32 hresult, ExcepInfo& excepInfo, UInt32 argErr, String message) 
+   在 CallSite.Target(Closure , CallSite , Object , String ) 
+   在 System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1) 
+   在 Library.ExcelAction.<Button_SheetSplit2>d__49.MoveNext()
+
+
+2025-01-04 23:59:10,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800A03EC): 异常来自 HRESULT:0x800A03EC 
+   在 Microsoft.Office.Interop.Excel._Worksheet.get_Range(Object Cell1, Object Cell2) 
+   在 Library.ExcelAction.<Button_SheetSplit3>d__50.MoveNext()
+
+
+2025-01-05 00:04:53,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800A03EC): 异常来自 HRESULT:0x800A03EC 
+   在 System.Dynamic.ComRuntimeHelpers.CheckThrowException(Int32 hresult, ExcepInfo& excepInfo, UInt32 argErr, String message) 
+   在 CallSite.Target(Closure , CallSite , Object , String ) 
+   在 System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1) 
+   在 Library.ExcelAction.<Button_SheetSplit1>d__48.MoveNext()
+
+
+2025-01-05 00:21:45,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800A03EC): 异常来自 HRESULT:0x800A03EC 
+   在 Microsoft.Office.Interop.Excel._Worksheet.get_Range(Object Cell1, Object Cell2) 
+   在 Library.ExcelAction.<Button_SheetSplit3>d__50.MoveNext()
+
+
+2025-01-05 00:22:15,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.NullReferenceException: 未将对象引用设置到对象的实例。 
+   在 Library.ExcelAction.<Button_SheetSplit2>d__49.MoveNext()
+
+
+2025-01-05 00:22:21,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800AC472): 异常来自 HRESULT:0x800AC472 
+   在 Microsoft.Office.Interop.Excel._Workbook.Save() 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:22:40,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800A03EC): 此名称已被使用。请尝试其他名称。 
+   在 System.Dynamic.ComRuntimeHelpers.CheckThrowException(Int32 hresult, ExcepInfo& excepInfo, UInt32 argErr, String message) 
+   在 CallSite.Target(Closure , CallSite , ComObject , String ) 
+   在 Library.ExcelAction.<Button_SheetSplit1>d__48.MoveNext()
+
+
+2025-01-05 00:23:02,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800AC472): 异常来自 HRESULT:0x800AC472 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:23:15,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800A03EC): 此名称已被使用。请尝试其他名称。 
+   在 System.Dynamic.ComRuntimeHelpers.CheckThrowException(Int32 hresult, ExcepInfo& excepInfo, UInt32 argErr, String message) 
+   在 CallSite.Target(Closure , CallSite , ComObject , String ) 
+   在 Library.ExcelAction.<Button_SheetSplit1>d__48.MoveNext()
+
+
+2025-01-05 00:23:32,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800AC472): 异常来自 HRESULT:0x800AC472 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:23:49,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ObjectDisposedException: 无法访问已释放的对象。 
+对象名:“Loading”。 
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous) 
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args) 
+   在 Library.Forms.Loading.Close2() 
+   在 Library.Forms.Loading.HideLoading()
+
+
+2025-01-05 00:25:08,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.NullReferenceException: 未将对象引用设置到对象的实例。 
+   在 Library.ExcelAction.<Button_SheetSplit2>d__49.MoveNext()
+
+
+2025-01-05 00:25:15,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800AC472): 异常来自 HRESULT:0x800AC472 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:25:55,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800AC472): 异常来自 HRESULT:0x800AC472 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:27:28,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.NullReferenceException: 未将对象引用设置到对象的实例。 
+   在 Library.ExcelAction.<Button_SheetSplit2>d__49.MoveNext()
+
+
+2025-01-05 00:27:41,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800A03EC): 此名称已被使用。请尝试其他名称。 
+   在 System.Dynamic.ComRuntimeHelpers.CheckThrowException(Int32 hresult, ExcepInfo& excepInfo, UInt32 argErr, String message) 
+   在 CallSite.Target(Closure , CallSite , ComObject , String ) 
+   在 Library.ExcelAction.<Button_SheetSplit1>d__48.MoveNext()
+
+
+2025-01-05 00:28:01,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.InvalidOperationException: 执行 CreateHandle() 时无法调用值 Dispose()。 
+   在 System.Windows.Forms.Control.Dispose(Boolean disposing) 
+   在 AntdUI.Input.Dispose(Boolean disposing) 
+   在 System.ComponentModel.Component.Dispose() 
+   在 System.Windows.Forms.Control.Dispose(Boolean disposing) 
+   在 System.Windows.Forms.Form.Dispose(Boolean disposing) 
+   在 Library.Forms.BKBaseWindow.Dispose(Boolean disposing) 
+   在 BKInput.Dispose(Boolean disposing) 
+   在 System.ComponentModel.Component.Dispose() 
+   在 BKInput.ShowInput(String Prompt, String Title, String DefaultValue) 
+   在 Library.ExcelAction.<Button_SheetSplit1>d__48.MoveNext()
+
+
+2025-01-05 00:29:32,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800A03EC): 异常来自 HRESULT:0x800A03EC 
+   在 Microsoft.Office.Interop.Excel._Worksheet.set_Name(String RHS) 
+   在 Library.ExcelAction.<Button_SheetSplit3>d__50.MoveNext()
+
+
+2025-01-05 00:29:32,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.ObjectDisposedException: 无法访问已释放的对象。 
+对象名:“Loading”。 
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous) 
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args) 
+   在 Library.Forms.Loading.Close2() 
+   在 Library.Forms.Loading.HideLoading()
+
+
+2025-01-05 00:32:04,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:34:02,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:34:13,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:34:23,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:34:33,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:34:44,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:34:54,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:35:04,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:35:15,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:35:25,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:35:35,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:35:46,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:35:56,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:36:07,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:36:17,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:36:27,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:36:38,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:36:48,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:36:58,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-05 00:37:09,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-06 08:43:27,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800AC472): 异常来自 HRESULT:0x800AC472 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-06 08:44:48,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800AC472): 异常来自 HRESULT:0x800AC472 
+   在 Microsoft.Office.Interop.Excel._Application.set_StatusBar(Object RHS) 
+   在 Library.AutoSaveManager.ShowStatusBar(String text) 
+   在 Library.AutoSaveManager.SaveActiveDocument()
+
+
+2025-01-06 09:47:29,UID=0,Pro=0,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800A03EC): 异常来自 HRESULT:0x800A03EC 
+   在 Microsoft.Office.Interop.Excel._Application.get_Worksheets() 
+   在 Library.ExcelAction.Button_jiemi_sheet(IRibbonControl Control)
+
+
+2025-01-06 09:47:31,UID=0,Pro=0,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x800A03EC): 异常来自 HRESULT:0x800A03EC 
+   在 Microsoft.Office.Interop.Excel._Application.get_Worksheets() 
+   在 Library.ExcelAction.Button_jiemi_sheet(IRibbonControl Control)
+
+
+2025-01-06 09:47:33,UID=0,Pro=0,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.NullReferenceException: 未将对象引用设置到对象的实例。 
+   在 Library.ExcelAction.Button_jiemi(IRibbonControl Control)
+
+
+2025-01-06 15:15:10,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0Newtonsoft.Json.JsonReaderException: Bad JSON escape sequence: \.. Path 'autoSet[0].rule[5].reg', line 6, position 233. 
+   在 Newtonsoft.Json.JsonTextReader.ReadStringIntoBuffer(Char quote) 
+   在 Newtonsoft.Json.JsonTextReader.ParseValue() 
+   在 Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Boolean writeChildren, Boolean writeDateConstructorAsDate, Boolean writeComments) 
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateJObject(JsonReader reader) 
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue) 
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue) 
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent) 
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType) 
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) 
+   在 Library.Word.Auto2Real.Auto2(Int32 id)
+
+
+2025-01-06 15:19:57,UID=0,Pro=0,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0Newtonsoft.Json.JsonReaderException: Bad JSON escape sequence: \.. Path 'autoSet[0].rule[5].reg', line 6, position 233. 
+   在 Newtonsoft.Json.JsonTextReader.ReadStringIntoBuffer(Char quote) 
+   在 Newtonsoft.Json.JsonTextReader.ParseValue() 
+   在 Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Boolean writeChildren, Boolean writeDateConstructorAsDate, Boolean writeComments) 
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateJObject(JsonReader reader) 
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue) 
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue) 
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent) 
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType) 
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) 
+   在 Library.Word.Auto2Real.Auto2(Int32 id)
+
+
+2025-02-04 23:56:47,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.IO.FileNotFoundException: 未能找到文件“C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\不坑盒子\Resources\Cookie.dat”。 
+文件名:“C:\Users\boy\Nutstore\1\dev_lite\vs\BKOfficeChild\不坑盒子\Resources\Cookie.dat” 
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath) 
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost) 
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost) 
+   在 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost) 
+   在 Library.Common.Ini.GetCookie() 
+--- 引发异常的上一位置中堆栈跟踪的末尾 --- 
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw() 
+   在 #=qvsyd2wkFyIsaYT9G3_DFAelHatgh3UCos16bKiR8C_w=.#=zJ$KUbmWc99vZ9SCP5Zb54CDWL6JZ(Object #=zqbAG3fc=) 
+   在 #=qvsyd2wkFyIsaYT9G3_DFAelHatgh3UCos16bKiR8C_w=.#=zM2p6RjHf0C$EyjZNn7OrIFk=(MethodBase #=zqbAG3fc=, Boolean #=zmPcUb6w=) 
+   在 #=qvsyd2wkFyIsaYT9G3_DFAelHatgh3UCos16bKiR8C_w=.#=zgEDxCYWt71gccZXsdkxfEqpnIFfA() 
+   在 #=qvsyd2wkFyIsaYT9G3_DFAelHatgh3UCos16bKiR8C_w=.#=zGN2ok3_8ISRkMiNvFzcCb92_6GdQ(Boolean #=zqbAG3fc=)
+
+
+2025-02-05 00:02:21,UID=1,Pro=1,Ultra=0,v=2025.0101OS:Microsoft Windows NT 10.0.26100.0System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER)) 
+   在 Microsoft.Office.Interop.Word.DocumentClass.get_FullName() 
+   在 Library.AutoSaveManager.#=zYAtedzHwCANy()
