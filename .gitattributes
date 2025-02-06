@@ -1,0 +1,38 @@
+# Office VSTO files
+*.vsto binary
+*.manifest binary
+*.dll binary
+*.dll.manifest binary
+
+# Office files
+*.docx binary
+*.xlsx binary
+*.pptx binary
+
+# Executable files
+*.exe binary
+*.msi binary
+*.bat text eol=crlf
+
+# Visual Studio files
+*.sln text eol=crlf
+*.csproj text eol=crlf
+*.vbproj text eol=crlf
+*.cs text eol=crlf
+*.vb text eol=crlf
+
+# Common binary files
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.zip binary
+*.7z binary
+*.pdf binary
+
+# Common text files
+*.txt text
+*.xml text
+*.json text
+*.config text
+*.md text
