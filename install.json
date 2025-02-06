@@ -1,7 +1,7 @@
 {
-    "AppDes": "一款支持MicroSoft Office 和 WPS Offce三件套的高效办公插件。",
+    "AppDes": "一款支持MicroSoft Office 和 WPS Offce三件套的高效办公插件，为你的Office增加数百功能。",
     "AppName": "不坑盒子",
-    "Cmd": "_uninstall.bat",
+    "Cmd": "",
     "Files": [
         {
             "path": "\\AntdUI.dll",

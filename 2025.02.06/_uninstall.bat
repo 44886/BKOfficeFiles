@@ -47,8 +47,8 @@ reg delete "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstal
 
 echo 删快捷方式...
 echo:
-del "%APPDATA%\Microsoft\Windows\Start Menu\Programs\不坑盒子说明书.exe"
-del "%USERPROFILE%\Desktop\不坑盒子说明书.exe"
+del "%APPDATA%\Microsoft\Windows\Start Menu\Programs\不坑盒子说明书.lnk"
+del "%USERPROFILE%\Desktop\不坑盒子说明书.lnk"
 
 echo 清空插件目录
 
