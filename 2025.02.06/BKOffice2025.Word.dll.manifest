@@ -219,14 +219,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BKOffice2025.Word.dll" size="254976">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BKOffice2025.Word.dll" size="255488">
       <assemblyIdentity name="BKOffice2025.Word" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>zbJxqNDmaD1Fl8WQtKQQgBpeUTe9cyCJGgg+KrX4bxk=</dsig:DigestValue>
+        <dsig:DigestValue>h2PJl7Yhh3VNArrFqVLKsW1+5H2+r8j5TArI+eFAJ6c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -250,7 +250,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>QmYKZHUmLtf0m7WlgkhHsTALfcMyI7/nUVCHypK4QkM=</dsig:DigestValue>
+        <dsig:DigestValue>a6Yj92bXRKBxGl3O104NPlHAf2Ma0oTj2f41df5zfuA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -262,7 +262,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2bIxGat1YKNr/jPEYIsYLaA0yX7xtBTjQYQuOB3xwKA=</dsig:DigestValue>
+        <dsig:DigestValue>QzQEZMyddqP9YWnqO1B7NZiPH9sfv6kyG7UX3fedmHI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -274,7 +274,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>bdIGu0q+bcQPgwCtUXqElHjupuyeOx5CG/4MyP24864=</dsig:DigestValue>
+        <dsig:DigestValue>TZv4Z4yD8U2189pNmvYTnbBSgImWCshcwIbuOUQit/A=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -551,4 +551,4 @@
     </vstav3:application>
   </vstav3:addIn>
   
-<publisherIdentity name="CN=BOY\boy" issuerKeyHash="d51201dc64a8f4ef0b0b6b6ef79551aafa7a8b95" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>nxhced5TZJX6D80tYP6IBX+4GH1vyY5o1+ALuWMhqlQ=</DigestValue></Reference></SignedInfo><SignatureValue>Q8rfOIsHQdaSYS4B9tUDhTQ6R5H1Wo2cfTHfPdepL7ws5FsH5X2ID6uqUL0gelxT6JKwoqJqUs9vyyVjOzpk7pFPxlkQPgx7F5XeIWAKBglwi01qyMqMJODnVkbF/nY8H2fdyilDRLea8Vviri8nub4fgFeckSJlEjk5eEGHQaY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sMZtCmBcXMjz3n3mlvTarSRAP535Bo3O5i1cEGX0PeSZouoyEgHQ0qfN9QG9xsaYH/ozYggOeuoXuKDGLWRV/GRTJdYh0TfUm8JSUE5P/g9Zz/J/O5x+M97lnX3oyqKA9JnceU+nXW5jVFJJ2103QJsByzpQVs2Xba3GHjJm5tk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="54aa2163b90be0d7688ec96f7d18b87f0588fe602dcd0ffa956453de795c189f" Description="" Url=""><as:assemblyIdentity name="BKOffice2025.Word.dll" version="1.0.0.0" publicKeyToken="49704046ec57f57b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=BOY\boy</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2PNxq7b6FIUtmEJLKRwGigwEiLErCU6NjH24VdXRuck=</DigestValue></Reference></SignedInfo><SignatureValue>QqZtWzbVf+3GUrJS0D2wBf436vnwmwnuddWjHVb3fvq7tjXYsz3y7O0ZGWghBHvc152YtJTGlRRtno1gM38+cNBnlmnSVfj0SmImRjFr2V87xQXcOuEJL5MZlW2DJgFYF4ovXZhr4wzhbgeU5pgQVBVUzCyOEJw/GFLBbFUZe2Y=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sMZtCmBcXMjz3n3mlvTarSRAP535Bo3O5i1cEGX0PeSZouoyEgHQ0qfN9QG9xsaYH/ozYggOeuoXuKDGLWRV/GRTJdYh0TfUm8JSUE5P/g9Zz/J/O5x+M97lnX3oyqKA9JnceU+nXW5jVFJJ2103QJsByzpQVs2Xba3GHjJm5tk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBtTCCAR6gAwIBAgIQEkqRgxBHp51LWBFeIPcKhTANBgkqhkiG9w0BAQsFADAZMRcwFQYDVQQDHg4AQgBPAFkAXABiAG8AeTAeFw0yNDEyMTYxNTA1MDVaFw0yNTEyMTYyMTA1MDVaMBkxFzAVBgNVBAMeDgBCAE8AWQBcAGIAbwB5MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwxm0KYFxcyPPefeaW9NqtJEA/nfkGjc7mLVwQZfQ95Jmi6jISAdDSp831Ab3Gxpgf+jNiCA566he4oMYtZFX8ZFMl1iHRN9SbwlJQTk/+D1nP8n87nH4z3uWdfejKooD0mdx5T6ddbmNUUknbXTdAmwHLOlBWzZdtrcYeMmbm2QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJGyNYADXZlem2GHVZHVmCunGsdYGeZesbHouPb8l+DDE+WyztfG5OyTfnPhOL4jK/x0rgLif56NnYVtfbeYDKzhjmoun4LUgeDf6f01z8fUoDgevkVMyKTJ4L1UYhkSeZ5vjFAmIAgUNcoF6+NdTlK1QxD3kwKc9fx4F1qYgAa6</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=BOY\boy" issuerKeyHash="d51201dc64a8f4ef0b0b6b6ef79551aafa7a8b95" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>vTepBuYLZH1ofs46w/CxUVlflWrZ/W4qbS4FUZLbQos=</DigestValue></Reference></SignedInfo><SignatureValue>fqT3Rfbjb3OHRW8MKm57oiPeD1kpiygL1io+yLN+Gcltx931/tmUfATvkUw2TrYW4ZZfFSPTjEcebqLDvgI6Yo4LOMCJbtsNWeg3NZCA3SUo8RQC0nN7zCwtpY6+F7S9vT6enlIY3gyV9+d1cft8nlp63mqed5Q8cXOcSqggNQQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sMZtCmBcXMjz3n3mlvTarSRAP535Bo3O5i1cEGX0PeSZouoyEgHQ0qfN9QG9xsaYH/ozYggOeuoXuKDGLWRV/GRTJdYh0TfUm8JSUE5P/g9Zz/J/O5x+M97lnX3oyqKA9JnceU+nXW5jVFJJ2103QJsByzpQVs2Xba3GHjJm5tk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8b42db9251052e6d2a6efdd96a955f5951b1f0c33ace7e687d640be606a937bd" Description="" Url=""><as:assemblyIdentity name="BKOffice2025.Word.dll" version="1.0.0.0" publicKeyToken="49704046ec57f57b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=BOY\boy</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>u3rvhUDd5I+mKT71YM1WbMyrunP8y+OQlqbbewXI1AM=</DigestValue></Reference></SignedInfo><SignatureValue>TUxTNcI4nklwqcPmY8WjrxIdB0UUdhyNebJk0QTOlW6/7YYVfzujmPJKOsO1el9SV/NJ41IrUlBH7SbAv+Feuc/Yti7x09xC2n/VrfIauNZq2WmEUNBBcYZyeW7xZKyffHzEPRon9nCg5WmbtNUzTVYm1qdeHdk2+RMJM/6Zp1k=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sMZtCmBcXMjz3n3mlvTarSRAP535Bo3O5i1cEGX0PeSZouoyEgHQ0qfN9QG9xsaYH/ozYggOeuoXuKDGLWRV/GRTJdYh0TfUm8JSUE5P/g9Zz/J/O5x+M97lnX3oyqKA9JnceU+nXW5jVFJJ2103QJsByzpQVs2Xba3GHjJm5tk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBtTCCAR6gAwIBAgIQEkqRgxBHp51LWBFeIPcKhTANBgkqhkiG9w0BAQsFADAZMRcwFQYDVQQDHg4AQgBPAFkAXABiAG8AeTAeFw0yNDEyMTYxNTA1MDVaFw0yNTEyMTYyMTA1MDVaMBkxFzAVBgNVBAMeDgBCAE8AWQBcAGIAbwB5MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwxm0KYFxcyPPefeaW9NqtJEA/nfkGjc7mLVwQZfQ95Jmi6jISAdDSp831Ab3Gxpgf+jNiCA566he4oMYtZFX8ZFMl1iHRN9SbwlJQTk/+D1nP8n87nH4z3uWdfejKooD0mdx5T6ddbmNUUknbXTdAmwHLOlBWzZdtrcYeMmbm2QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJGyNYADXZlem2GHVZHVmCunGsdYGeZesbHouPb8l+DDE+WyztfG5OyTfnPhOL4jK/x0rgLif56NnYVtfbeYDKzhjmoun4LUgeDf6f01z8fUoDgevkVMyKTJ4L1UYhkSeZ5vjFAmIAgUNcoF6+NdTlK1QxD3kwKc9fx4F1qYgAa6</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
