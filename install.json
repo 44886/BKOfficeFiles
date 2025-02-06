@@ -12,6 +12,14 @@
             "url": "[host]\/[vision]\\BKGreen.exe"
         },
         {
+            "path": "\\BKOffice.exe",
+            "url": "[host]\/[vision]\\BKOffice.exe"
+        },
+        {
+            "path": "\\BKOffice.exe.config",
+            "url": "[host]\/[vision]\\BKOffice.exe.config"
+        },
+        {
             "path": "\\BKOffice2025.Excel.dll",
             "url": "[host]\/[vision]\\BKOffice2025.Excel.dll"
         },
@@ -80,18 +88,6 @@
             "url": "[host]\/[vision]\\BKWebView.exe"
         },
         {
-            "path": "\\config.ini",
-            "url": "[host]\/[vision]\\config.ini"
-        },
-        {
-            "path": "\\Cookie.dat",
-            "url": "[host]\/[vision]\\Cookie.dat"
-        },
-        {
-            "path": "\\DotNetZip.dll",
-            "url": "[host]\/[vision]\\DotNetZip.dll"
-        },
-        {
             "path": "\\Fleck.dll",
             "url": "[host]\/[vision]\\Fleck.dll"
         },
@@ -120,20 +116,12 @@
             "url": "[host]\/[vision]\\logo.png"
         },
         {
-            "path": "\\Microsoft.CognitiveServices.Speech.core.32.dll",
-            "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.core.32.dll"
-        },
-        {
             "path": "\\Microsoft.CognitiveServices.Speech.core.dll",
             "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.core.dll"
         },
         {
             "path": "\\Microsoft.CognitiveServices.Speech.csharp.dll",
             "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.csharp.dll"
-        },
-        {
-            "path": "\\Microsoft.CognitiveServices.Speech.extension.audio.sys.32.dll",
-            "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.extension.audio.sys.32.dll"
         },
         {
             "path": "\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll",
@@ -200,10 +188,6 @@
             "url": "[host]\/[vision]\\PdfSharp.System.dll"
         },
         {
-            "path": "\\PPTNotes.db",
-            "url": "[host]\/[vision]\\PPTNotes.db"
-        },
-        {
             "path": "\\Prototype.pptx",
             "url": "[host]\/[vision]\\Prototype.pptx"
         },
@@ -248,6 +232,10 @@
             "url": "[host]\/[vision]\\ticiqi.exe"
         },
         {
+            "path": "\\Update.exe",
+            "url": "[host]\/[vision]\\Update.exe"
+        },
+        {
             "path": "\\WebViewScripts.json",
             "url": "[host]\/[vision]\\WebViewScripts.json"
         },
@@ -282,14 +270,6 @@
         {
             "path": "\\_修复com注册错误.bat",
             "url": "[host]\/[vision]\\_修复com注册错误.bat"
-        },
-        {
-            "path": "\\不坑开发工具.exe",
-            "url": "[host]\/[vision]\\不坑开发工具.exe"
-        },
-        {
-            "path": "\\不坑盒子.exe",
-            "url": "[host]\/[vision]\\不坑盒子.exe"
         },
         {
             "path": "\\不坑盒子.exe.config",
