@@ -1,9 +1,7 @@
 {
     "AppDes": "一款支持MicroSoft Office 和 WPS Offce三件套的高效办公插件。",
-    "AppName": "不坑盒子",
-    "VSTO":"https://download.microsoft.com/download/7/A/F/7AFA5695-2B52-44AA-9A2D-FC431C231EDC/vstor_redist.exe",
-    "Cmd":"",
-    "Vison": "2025.02.06",
+    "AppName": "不坑盒子2025",
+    "Cmd": "",
     "Files": [
         {
             "path": "\\AntdUI.dll",
@@ -74,10 +72,6 @@
             "url": "[host]\/[vision]\\BKRemote2.exe"
         },
         {
-            "path": "\\BKRemote2.exe.config",
-            "url": "[host]\/[vision]\\BKRemote2.exe.config"
-        },
-        {
             "path": "\\BKSpotLight.exe",
             "url": "[host]\/[vision]\\BKSpotLight.exe"
         },
@@ -96,10 +90,6 @@
         {
             "path": "\\DotNetZip.dll",
             "url": "[host]\/[vision]\\DotNetZip.dll"
-        },
-        {
-            "path": "\\error.log",
-            "url": "[host]\/[vision]\\error.log"
         },
         {
             "path": "\\Fleck.dll",
@@ -312,6 +302,1094 @@
         {
             "path": "\\de\\PdfSharp.resources.dll",
             "url": "[host]\/[vision]\\de\\PdfSharp.resources.dll"
+        },
+        {
+            "path": "\\EBWebView\\CrashpadMetrics-active.pma",
+            "url": "[host]\/[vision]\\EBWebView\\CrashpadMetrics-active.pma"
+        },
+        {
+            "path": "\\EBWebView\\CrashpadMetrics.pma",
+            "url": "[host]\/[vision]\\EBWebView\\CrashpadMetrics.pma"
+        },
+        {
+            "path": "\\EBWebView\\Last Version",
+            "url": "[host]\/[vision]\\EBWebView\\Last Version"
+        },
+        {
+            "path": "\\EBWebView\\Local State",
+            "url": "[host]\/[vision]\\EBWebView\\Local State"
+        },
+        {
+            "path": "\\EBWebView\\Variations",
+            "url": "[host]\/[vision]\\EBWebView\\Variations"
+        },
+        {
+            "path": "\\EBWebView\\BrowserMetrics\\BrowserMetrics-67A447B3-6E00.pma",
+            "url": "[host]\/[vision]\\EBWebView\\BrowserMetrics\\BrowserMetrics-67A447B3-6E00.pma"
+        },
+        {
+            "path": "\\EBWebView\\BrowserMetrics\\BrowserMetrics-67A447C0-C20C.pma",
+            "url": "[host]\/[vision]\\EBWebView\\BrowserMetrics\\BrowserMetrics-67A447C0-C20C.pma"
+        },
+        {
+            "path": "\\EBWebView\\Crashpad\\metadata",
+            "url": "[host]\/[vision]\\EBWebView\\Crashpad\\metadata"
+        },
+        {
+            "path": "\\EBWebView\\Crashpad\\settings.dat",
+            "url": "[host]\/[vision]\\EBWebView\\Crashpad\\settings.dat"
+        },
+        {
+            "path": "\\EBWebView\\Crashpad\\throttle_store.dat",
+            "url": "[host]\/[vision]\\EBWebView\\Crashpad\\throttle_store.dat"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Favicons",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Favicons"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Favicons-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Favicons-journal"
+        },
+        {
+            "path": "\\EBWebView\\Default\\History",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\History"
+        },
+        {
+            "path": "\\EBWebView\\Default\\History-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\History-journal"
+        },
+        {
+            "path": "\\EBWebView\\Default\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\LOG.old"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Login Data",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Login Data"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Login Data-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Login Data-journal"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Preferences",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Preferences"
+        },
+        {
+            "path": "\\EBWebView\\Default\\README",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\README"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Secure Preferences",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Secure Preferences"
+        },
+        {
+            "path": "\\EBWebView\\Default\\SharedStorage",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\SharedStorage"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Visited Links",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Visited Links"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Web Data",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Web Data"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Web Data-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Web Data-journal"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\data_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\data_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\data_1",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\data_1"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\data_2",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\data_2"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\data_3",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\data_3"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000001"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000002",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000002"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000003",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000003"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000004",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000004"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000005",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000005"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000006",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000006"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000007",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000007"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000008",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000008"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000009",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000009"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000a",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000a"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000b",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000b"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000c",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000c"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000d",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000d"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000e",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000e"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000f",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000f"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000010",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000010"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000011",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000011"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000012",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000012"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000013",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000013"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000014",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000014"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000015",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000015"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000016",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000016"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000017",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000017"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000018",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000018"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000019",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000019"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001a",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001a"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001b",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001b"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001c",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001c"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001d",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001d"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001e",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001e"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001f",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001f"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000020",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000020"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000021",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000021"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000022",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000022"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000023",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000023"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000024",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000024"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000025",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000025"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\index"
+        },
+        {
+            "path": "\\EBWebView\\Default\\ClientCertificates\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\ClientCertificates\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\ClientCertificates\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\ClientCertificates\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\ClientCertificates\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\ClientCertificates\\LOG.old"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\016b307ac2f3bddf_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\016b307ac2f3bddf_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\06022d71631ee8d1_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\06022d71631ee8d1_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\0cb2894c577ef5b1_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\0cb2894c577ef5b1_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\165db63203e3f546_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\165db63203e3f546_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\1a41f5509c98a9dd_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\1a41f5509c98a9dd_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\1f8d82a53b0ff12b_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\1f8d82a53b0ff12b_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\20af807e28afa6c7_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\20af807e28afa6c7_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\23f616a04401cbb6_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\23f616a04401cbb6_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\2dca2c534c77c14c_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\2dca2c534c77c14c_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\341dee9b6fcaa40c_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\341dee9b6fcaa40c_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\3a3057583aaf8d07_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\3a3057583aaf8d07_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\3d7d4c4b19a07243_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\3d7d4c4b19a07243_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\3e475e8661208b45_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\3e475e8661208b45_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\428594fab0a67607_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\428594fab0a67607_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\440fb8ff308bba78_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\440fb8ff308bba78_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\4455ea582ad78b8f_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\4455ea582ad78b8f_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\4606649a8457dfef_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\4606649a8457dfef_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\49694206196cbc21_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\49694206196cbc21_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\4dd35fd7ada41877_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\4dd35fd7ada41877_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\4f59b7377d72b150_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\4f59b7377d72b150_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\509160546a6a1a53_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\509160546a6a1a53_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\5252f79886a6a727_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\5252f79886a6a727_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\55621b61568a8085_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\55621b61568a8085_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\5596471abc2cae72_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\5596471abc2cae72_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\56720e4a95795a2e_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\56720e4a95795a2e_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\574e0dc3885713bd_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\574e0dc3885713bd_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\6330139d1bb3e610_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\6330139d1bb3e610_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\6a077873f2e922f6_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\6a077873f2e922f6_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\6b208ce617728e31_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\6b208ce617728e31_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\6b9e49a9bf5a1d9d_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\6b9e49a9bf5a1d9d_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\71f4a0bbbc40cc57_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\71f4a0bbbc40cc57_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\73391af616b65e25_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\73391af616b65e25_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\758d523797434ba9_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\758d523797434ba9_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\788a4841f9b8b092_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\788a4841f9b8b092_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\8c5693cd3ff7cedb_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\8c5693cd3ff7cedb_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\90fe1ef2967d81a9_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\90fe1ef2967d81a9_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\968e0fc73e8a440f_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\968e0fc73e8a440f_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\99213e98ad84220f_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\99213e98ad84220f_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\9977cdf882495c90_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\9977cdf882495c90_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\9a50ede21ef3e3a7_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\9a50ede21ef3e3a7_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\9d30044397101985_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\9d30044397101985_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\9f5212b707cab06c_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\9f5212b707cab06c_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\a21f5f68f60e802b_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\a21f5f68f60e802b_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\a91c2043f4e5ce49_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\a91c2043f4e5ce49_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\a951049dbdf57952_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\a951049dbdf57952_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\ad56a32c9bf384c5_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\ad56a32c9bf384c5_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\ada812ec8a3759fa_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\ada812ec8a3759fa_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\b3f565f801014080_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\b3f565f801014080_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\b44f6791422b76cb_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\b44f6791422b76cb_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\b95910e7bc0b7f0f_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\b95910e7bc0b7f0f_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\ba57355f0079f12a_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\ba57355f0079f12a_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\bd03026a5269f2e6_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\bd03026a5269f2e6_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\bf063db59280de79_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\bf063db59280de79_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\c4045d2cee143f6a_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\c4045d2cee143f6a_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\c474b255c6629d54_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\c474b255c6629d54_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\c4eb746cbedc9ec1_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\c4eb746cbedc9ec1_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\cc5bd7489d1527be_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\cc5bd7489d1527be_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\cca05f1a09af3706_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\cca05f1a09af3706_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\d46b83ab1262897b_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\d46b83ab1262897b_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\d5d13952acd84a52_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\d5d13952acd84a52_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\db8fc04ac6a1abdc_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\db8fc04ac6a1abdc_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\e4527ec40d78dc3d_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\e4527ec40d78dc3d_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\eaf015b7218d2cb8_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\eaf015b7218d2cb8_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\f566fd24691743a1_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\f566fd24691743a1_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\f9382d45c522cad6_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\f9382d45c522cad6_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\fb3f672b6b547282_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\fb3f672b6b547282_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\fd49801430f24a85_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\fd49801430f24a85_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\ff0f63f5600230da_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\ff0f63f5600230da_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\index"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\index-dir\\the-real-index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\index-dir\\the-real-index"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\wasm\\index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\wasm\\index"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Code Cache\\wasm\\index-dir\\the-real-index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\wasm\\index-dir\\the-real-index"
+        },
+        {
+            "path": "\\EBWebView\\Default\\commerce_subscription_db\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\commerce_subscription_db\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\commerce_subscription_db\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\commerce_subscription_db\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\commerce_subscription_db\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\commerce_subscription_db\\LOG.old"
+        },
+        {
+            "path": "\\EBWebView\\Default\\DawnGraphiteCache\\data_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnGraphiteCache\\data_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\DawnGraphiteCache\\data_1",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnGraphiteCache\\data_1"
+        },
+        {
+            "path": "\\EBWebView\\Default\\DawnGraphiteCache\\data_2",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnGraphiteCache\\data_2"
+        },
+        {
+            "path": "\\EBWebView\\Default\\DawnGraphiteCache\\data_3",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnGraphiteCache\\data_3"
+        },
+        {
+            "path": "\\EBWebView\\Default\\DawnGraphiteCache\\index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnGraphiteCache\\index"
+        },
+        {
+            "path": "\\EBWebView\\Default\\DawnWebGPUCache\\data_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnWebGPUCache\\data_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\DawnWebGPUCache\\data_1",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnWebGPUCache\\data_1"
+        },
+        {
+            "path": "\\EBWebView\\Default\\DawnWebGPUCache\\data_2",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnWebGPUCache\\data_2"
+        },
+        {
+            "path": "\\EBWebView\\Default\\DawnWebGPUCache\\data_3",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnWebGPUCache\\data_3"
+        },
+        {
+            "path": "\\EBWebView\\Default\\DawnWebGPUCache\\index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnWebGPUCache\\index"
+        },
+        {
+            "path": "\\EBWebView\\Default\\discounts_db\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\discounts_db\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\discounts_db\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\discounts_db\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\discounts_db\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\discounts_db\\LOG.old"
+        },
+        {
+            "path": "\\EBWebView\\Default\\EdgeHubAppUsage\\EdgeHubAppUsageSQLite.db",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\EdgeHubAppUsage\\EdgeHubAppUsageSQLite.db"
+        },
+        {
+            "path": "\\EBWebView\\Default\\EdgeHubAppUsage\\EdgeHubAppUsageSQLite.db-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\EdgeHubAppUsage\\EdgeHubAppUsageSQLite.db-journal"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension Rules\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Rules\\000003.log"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension Rules\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Rules\\CURRENT"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension Rules\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Rules\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension Rules\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Rules\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension Rules\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Rules\\MANIFEST-000001"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension Scripts\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Scripts\\000003.log"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension Scripts\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Scripts\\CURRENT"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension Scripts\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Scripts\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension Scripts\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Scripts\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension Scripts\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Scripts\\MANIFEST-000001"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension State\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension State\\000003.log"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension State\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension State\\CURRENT"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension State\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension State\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension State\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension State\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension State\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension State\\LOG.old"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Extension State\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension State\\MANIFEST-000001"
+        },
+        {
+            "path": "\\EBWebView\\Default\\GPUCache\\data_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\GPUCache\\data_0"
+        },
+        {
+            "path": "\\EBWebView\\Default\\GPUCache\\data_1",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\GPUCache\\data_1"
+        },
+        {
+            "path": "\\EBWebView\\Default\\GPUCache\\data_2",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\GPUCache\\data_2"
+        },
+        {
+            "path": "\\EBWebView\\Default\\GPUCache\\data_3",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\GPUCache\\data_3"
+        },
+        {
+            "path": "\\EBWebView\\Default\\GPUCache\\index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\GPUCache\\index"
+        },
+        {
+            "path": "\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\000003.log"
+        },
+        {
+            "path": "\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\CURRENT"
+        },
+        {
+            "path": "\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\MANIFEST-000001"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Local Storage\\leveldb\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Local Storage\\leveldb\\000003.log"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Local Storage\\leveldb\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Local Storage\\leveldb\\CURRENT"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Local Storage\\leveldb\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Local Storage\\leveldb\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Local Storage\\leveldb\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Local Storage\\leveldb\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Local Storage\\leveldb\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Local Storage\\leveldb\\LOG.old"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Local Storage\\leveldb\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Local Storage\\leveldb\\MANIFEST-000001"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Network\\Cookies",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Cookies"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Network\\Cookies-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Cookies-journal"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Network\\Network Persistent State",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Network Persistent State"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Network\\NetworkDataMigrated",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\NetworkDataMigrated"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Network\\Reporting and NEL",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Reporting and NEL"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Network\\Reporting and NEL-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Reporting and NEL-journal"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Network\\SCT Auditing Pending Reports",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\SCT Auditing Pending Reports"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Network\\Sdch Dictionaries",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Sdch Dictionaries"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Network\\TransportSecurity",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\TransportSecurity"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Network\\Trust Tokens",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Trust Tokens"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Network\\Trust Tokens-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Trust Tokens-journal"
+        },
+        {
+            "path": "\\EBWebView\\Default\\parcel_tracking_db\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\parcel_tracking_db\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\parcel_tracking_db\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\parcel_tracking_db\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\parcel_tracking_db\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\parcel_tracking_db\\LOG.old"
+        },
+        {
+            "path": "\\EBWebView\\Default\\PersistentOriginTrials\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\PersistentOriginTrials\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\PersistentOriginTrials\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\PersistentOriginTrials\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\PersistentOriginTrials\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\PersistentOriginTrials\\LOG.old"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Safe Browsing Network\\NetworkDataMigrated",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Safe Browsing Network\\NetworkDataMigrated"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Safe Browsing Network\\Safe Browsing Cookies",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Safe Browsing Network\\Safe Browsing Cookies"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Safe Browsing Network\\Safe Browsing Cookies-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Safe Browsing Network\\Safe Browsing Cookies-journal"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Session Storage\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Session Storage\\000003.log"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Session Storage\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Session Storage\\CURRENT"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Session Storage\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Session Storage\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Session Storage\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Session Storage\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Session Storage\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Session Storage\\LOG.old"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Session Storage\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Session Storage\\MANIFEST-000001"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Shared Dictionary\\db",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Shared Dictionary\\db"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Shared Dictionary\\db-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Shared Dictionary\\db-journal"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Shared Dictionary\\cache\\index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Shared Dictionary\\cache\\index"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Shared Dictionary\\cache\\index-dir\\the-real-index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Shared Dictionary\\cache\\index-dir\\the-real-index"
+        },
+        {
+            "path": "\\EBWebView\\Default\\shared_proto_db\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\000003.log"
+        },
+        {
+            "path": "\\EBWebView\\Default\\shared_proto_db\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\CURRENT"
+        },
+        {
+            "path": "\\EBWebView\\Default\\shared_proto_db\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\shared_proto_db\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\shared_proto_db\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\LOG.old"
+        },
+        {
+            "path": "\\EBWebView\\Default\\shared_proto_db\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\MANIFEST-000001"
+        },
+        {
+            "path": "\\EBWebView\\Default\\shared_proto_db\\metadata\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\metadata\\000003.log"
+        },
+        {
+            "path": "\\EBWebView\\Default\\shared_proto_db\\metadata\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\metadata\\CURRENT"
+        },
+        {
+            "path": "\\EBWebView\\Default\\shared_proto_db\\metadata\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\metadata\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\shared_proto_db\\metadata\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\metadata\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\shared_proto_db\\metadata\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\metadata\\LOG.old"
+        },
+        {
+            "path": "\\EBWebView\\Default\\shared_proto_db\\metadata\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\metadata\\MANIFEST-000001"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Site Characteristics Database\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Site Characteristics Database\\000003.log"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Site Characteristics Database\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Site Characteristics Database\\CURRENT"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Site Characteristics Database\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Site Characteristics Database\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Site Characteristics Database\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Site Characteristics Database\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Site Characteristics Database\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Site Characteristics Database\\LOG.old"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Site Characteristics Database\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Site Characteristics Database\\MANIFEST-000001"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Sync Data\\LevelDB\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Sync Data\\LevelDB\\000003.log"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Sync Data\\LevelDB\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Sync Data\\LevelDB\\CURRENT"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Sync Data\\LevelDB\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Sync Data\\LevelDB\\LOCK"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Sync Data\\LevelDB\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Sync Data\\LevelDB\\LOG"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Sync Data\\LevelDB\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Sync Data\\LevelDB\\LOG.old"
+        },
+        {
+            "path": "\\EBWebView\\Default\\Sync Data\\LevelDB\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Sync Data\\LevelDB\\MANIFEST-000001"
+        },
+        {
+            "path": "\\EBWebView\\Default\\WebStorage\\QuotaManager",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\WebStorage\\QuotaManager"
+        },
+        {
+            "path": "\\EBWebView\\Default\\WebStorage\\QuotaManager-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\WebStorage\\QuotaManager-journal"
+        },
+        {
+            "path": "\\EBWebView\\GraphiteDawnCache\\data_0",
+            "url": "[host]\/[vision]\\EBWebView\\GraphiteDawnCache\\data_0"
+        },
+        {
+            "path": "\\EBWebView\\GraphiteDawnCache\\data_1",
+            "url": "[host]\/[vision]\\EBWebView\\GraphiteDawnCache\\data_1"
+        },
+        {
+            "path": "\\EBWebView\\GraphiteDawnCache\\data_2",
+            "url": "[host]\/[vision]\\EBWebView\\GraphiteDawnCache\\data_2"
+        },
+        {
+            "path": "\\EBWebView\\GraphiteDawnCache\\data_3",
+            "url": "[host]\/[vision]\\EBWebView\\GraphiteDawnCache\\data_3"
+        },
+        {
+            "path": "\\EBWebView\\GraphiteDawnCache\\index",
+            "url": "[host]\/[vision]\\EBWebView\\GraphiteDawnCache\\index"
+        },
+        {
+            "path": "\\EBWebView\\GrShaderCache\\data_0",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\data_0"
+        },
+        {
+            "path": "\\EBWebView\\GrShaderCache\\data_1",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\data_1"
+        },
+        {
+            "path": "\\EBWebView\\GrShaderCache\\data_2",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\data_2"
+        },
+        {
+            "path": "\\EBWebView\\GrShaderCache\\data_3",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\data_3"
+        },
+        {
+            "path": "\\EBWebView\\GrShaderCache\\f_000001",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000001"
+        },
+        {
+            "path": "\\EBWebView\\GrShaderCache\\f_000002",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000002"
+        },
+        {
+            "path": "\\EBWebView\\GrShaderCache\\f_000003",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000003"
+        },
+        {
+            "path": "\\EBWebView\\GrShaderCache\\f_000004",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000004"
+        },
+        {
+            "path": "\\EBWebView\\GrShaderCache\\f_000005",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000005"
+        },
+        {
+            "path": "\\EBWebView\\GrShaderCache\\f_000006",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000006"
+        },
+        {
+            "path": "\\EBWebView\\GrShaderCache\\f_000007",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000007"
+        },
+        {
+            "path": "\\EBWebView\\GrShaderCache\\f_000008",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000008"
+        },
+        {
+            "path": "\\EBWebView\\GrShaderCache\\index",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\index"
+        },
+        {
+            "path": "\\EBWebView\\ShaderCache\\data_0",
+            "url": "[host]\/[vision]\\EBWebView\\ShaderCache\\data_0"
+        },
+        {
+            "path": "\\EBWebView\\ShaderCache\\data_1",
+            "url": "[host]\/[vision]\\EBWebView\\ShaderCache\\data_1"
+        },
+        {
+            "path": "\\EBWebView\\ShaderCache\\data_2",
+            "url": "[host]\/[vision]\\EBWebView\\ShaderCache\\data_2"
+        },
+        {
+            "path": "\\EBWebView\\ShaderCache\\data_3",
+            "url": "[host]\/[vision]\\EBWebView\\ShaderCache\\data_3"
+        },
+        {
+            "path": "\\EBWebView\\ShaderCache\\index",
+            "url": "[host]\/[vision]\\EBWebView\\ShaderCache\\index"
         },
         {
             "path": "\\en\\Library.resources.dll",
@@ -813,5 +1891,7 @@
             "path": "\\zh-CN\\Library.resources.dll",
             "url": "[host]\/[vision]\\zh-CN\\Library.resources.dll"
         }
-    ]
+    ],
+    "VSTO": "https:\/\/download.microsoft.com\/download\/7\/A\/F\/7AFA5695-2B52-44AA-9A2D-FC431C231EDC\/vstor_redist.exe",
+    "Vison": "2025.02.06"
 }
