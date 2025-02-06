@@ -1,787 +1,787 @@
 {
-    "AppDes": "一款支持MicroSoft Office 和 WPS Offce三件套的高效办公插件，为你的Office增加数百功能。",
+    "AppDes": "一款支持MicroSoft Office 和 WPS Offce三件套的高效办公插件，为你的Office增加数百实用功能。",
     "AppName": "不坑盒子",
     "Cmd": "",
     "Files": [
         {
             "path": "\\AntdUI.dll",
-            "url": "[host]\/[vision]\\AntdUI.dll"
+            "url": "[host]\/[vision]\\AntdUI.dll?[rand]"
         },
         {
             "path": "\\BKGreen.exe",
-            "url": "[host]\/[vision]\\BKGreen.exe"
+            "url": "[host]\/[vision]\\BKGreen.exe?[rand]"
         },
         {
             "path": "\\BKOffice.exe",
-            "url": "[host]\/[vision]\\BKOffice.exe"
+            "url": "[host]\/[vision]\\BKOffice.exe?[rand]"
         },
         {
             "path": "\\BKOffice.exe.config",
-            "url": "[host]\/[vision]\\BKOffice.exe.config"
+            "url": "[host]\/[vision]\\BKOffice.exe.config?[rand]"
         },
         {
             "path": "\\BKOffice2025.Excel.dll",
-            "url": "[host]\/[vision]\\BKOffice2025.Excel.dll"
+            "url": "[host]\/[vision]\\BKOffice2025.Excel.dll?[rand]"
         },
         {
             "path": "\\BKOffice2025.Excel.dll.manifest",
-            "url": "[host]\/[vision]\\BKOffice2025.Excel.dll.manifest"
+            "url": "[host]\/[vision]\\BKOffice2025.Excel.dll.manifest?[rand]"
         },
         {
             "path": "\\BKOffice2025.Excel.vsto",
-            "url": "[host]\/[vision]\\BKOffice2025.Excel.vsto"
+            "url": "[host]\/[vision]\\BKOffice2025.Excel.vsto?[rand]"
         },
         {
             "path": "\\BKOffice2025.PPT.dll",
-            "url": "[host]\/[vision]\\BKOffice2025.PPT.dll"
+            "url": "[host]\/[vision]\\BKOffice2025.PPT.dll?[rand]"
         },
         {
             "path": "\\BKOffice2025.PPT.dll.manifest",
-            "url": "[host]\/[vision]\\BKOffice2025.PPT.dll.manifest"
+            "url": "[host]\/[vision]\\BKOffice2025.PPT.dll.manifest?[rand]"
         },
         {
             "path": "\\BKOffice2025.PPT.vsto",
-            "url": "[host]\/[vision]\\BKOffice2025.PPT.vsto"
+            "url": "[host]\/[vision]\\BKOffice2025.PPT.vsto?[rand]"
         },
         {
             "path": "\\BKOffice2025.Word.dll",
-            "url": "[host]\/[vision]\\BKOffice2025.Word.dll"
+            "url": "[host]\/[vision]\\BKOffice2025.Word.dll?[rand]"
         },
         {
             "path": "\\BKOffice2025.Word.dll.manifest",
-            "url": "[host]\/[vision]\\BKOffice2025.Word.dll.manifest"
+            "url": "[host]\/[vision]\\BKOffice2025.Word.dll.manifest?[rand]"
         },
         {
             "path": "\\BKOffice2025.Word.vsto",
-            "url": "[host]\/[vision]\\BKOffice2025.Word.vsto"
+            "url": "[host]\/[vision]\\BKOffice2025.Word.vsto?[rand]"
         },
         {
             "path": "\\BKOfficeDNA-AddIn-packed.xll",
-            "url": "[host]\/[vision]\\BKOfficeDNA-AddIn-packed.xll"
+            "url": "[host]\/[vision]\\BKOfficeDNA-AddIn-packed.xll?[rand]"
         },
         {
             "path": "\\BKOfficeDNA-AddIn64-packed.xll",
-            "url": "[host]\/[vision]\\BKOfficeDNA-AddIn64-packed.xll"
+            "url": "[host]\/[vision]\\BKOfficeDNA-AddIn64-packed.xll?[rand]"
         },
         {
             "path": "\\BKOfficeDNA.dll",
-            "url": "[host]\/[vision]\\BKOfficeDNA.dll"
+            "url": "[host]\/[vision]\\BKOfficeDNA.dll?[rand]"
         },
         {
             "path": "\\BKOfficeStart.docx",
-            "url": "[host]\/[vision]\\BKOfficeStart.docx"
+            "url": "[host]\/[vision]\\BKOfficeStart.docx?[rand]"
         },
         {
             "path": "\\BKOfficeWPF.exe",
-            "url": "[host]\/[vision]\\BKOfficeWPF.exe"
+            "url": "[host]\/[vision]\\BKOfficeWPF.exe?[rand]"
         },
         {
             "path": "\\BKRemote2.exe",
-            "url": "[host]\/[vision]\\BKRemote2.exe"
+            "url": "[host]\/[vision]\\BKRemote2.exe?[rand]"
         },
         {
             "path": "\\BKSpotLight.exe",
-            "url": "[host]\/[vision]\\BKSpotLight.exe"
+            "url": "[host]\/[vision]\\BKSpotLight.exe?[rand]"
         },
         {
             "path": "\\BKWebView.exe",
-            "url": "[host]\/[vision]\\BKWebView.exe"
+            "url": "[host]\/[vision]\\BKWebView.exe?[rand]"
         },
         {
             "path": "\\Fleck.dll",
-            "url": "[host]\/[vision]\\Fleck.dll"
+            "url": "[host]\/[vision]\\Fleck.dll?[rand]"
         },
         {
             "path": "\\HotkeyListener.dll",
-            "url": "[host]\/[vision]\\HotkeyListener.dll"
+            "url": "[host]\/[vision]\\HotkeyListener.dll?[rand]"
         },
         {
             "path": "\\Library.dll",
-            "url": "[host]\/[vision]\\Library.dll"
+            "url": "[host]\/[vision]\\Library.dll?[rand]"
         },
         {
             "path": "\\libwebp_x64.dll",
-            "url": "[host]\/[vision]\\libwebp_x64.dll"
+            "url": "[host]\/[vision]\\libwebp_x64.dll?[rand]"
         },
         {
             "path": "\\libwebp_x86.dll",
-            "url": "[host]\/[vision]\\libwebp_x86.dll"
+            "url": "[host]\/[vision]\\libwebp_x86.dll?[rand]"
         },
         {
             "path": "\\logo.ico",
-            "url": "[host]\/[vision]\\logo.ico"
+            "url": "[host]\/[vision]\\logo.ico?[rand]"
         },
         {
             "path": "\\logo.png",
-            "url": "[host]\/[vision]\\logo.png"
+            "url": "[host]\/[vision]\\logo.png?[rand]"
         },
         {
             "path": "\\Microsoft.CognitiveServices.Speech.core.dll",
-            "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.core.dll"
+            "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.core.dll?[rand]"
         },
         {
             "path": "\\Microsoft.CognitiveServices.Speech.csharp.dll",
-            "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.csharp.dll"
+            "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.csharp.dll?[rand]"
         },
         {
             "path": "\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll",
-            "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll"
+            "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll?[rand]"
         },
         {
             "path": "\\Microsoft.Extensions.Logging.Abstractions.dll",
-            "url": "[host]\/[vision]\\Microsoft.Extensions.Logging.Abstractions.dll"
+            "url": "[host]\/[vision]\\Microsoft.Extensions.Logging.Abstractions.dll?[rand]"
         },
         {
             "path": "\\Microsoft.Office.Tools.Common.dll",
-            "url": "[host]\/[vision]\\Microsoft.Office.Tools.Common.dll"
+            "url": "[host]\/[vision]\\Microsoft.Office.Tools.Common.dll?[rand]"
         },
         {
             "path": "\\Microsoft.Office.Tools.Common.v4.0.Utilities.dll",
-            "url": "[host]\/[vision]\\Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
+            "url": "[host]\/[vision]\\Microsoft.Office.Tools.Common.v4.0.Utilities.dll?[rand]"
         },
         {
             "path": "\\Microsoft.Office.Tools.dll",
-            "url": "[host]\/[vision]\\Microsoft.Office.Tools.dll"
+            "url": "[host]\/[vision]\\Microsoft.Office.Tools.dll?[rand]"
         },
         {
             "path": "\\Microsoft.Office.Tools.Excel.dll",
-            "url": "[host]\/[vision]\\Microsoft.Office.Tools.Excel.dll"
+            "url": "[host]\/[vision]\\Microsoft.Office.Tools.Excel.dll?[rand]"
         },
         {
             "path": "\\Microsoft.Office.Tools.Word.dll",
-            "url": "[host]\/[vision]\\Microsoft.Office.Tools.Word.dll"
+            "url": "[host]\/[vision]\\Microsoft.Office.Tools.Word.dll?[rand]"
         },
         {
             "path": "\\Microsoft.VisualStudio.Tools.Applications.Runtime.dll",
-            "url": "[host]\/[vision]\\Microsoft.VisualStudio.Tools.Applications.Runtime.dll"
+            "url": "[host]\/[vision]\\Microsoft.VisualStudio.Tools.Applications.Runtime.dll?[rand]"
         },
         {
             "path": "\\Microsoft.Web.WebView2.Core.dll",
-            "url": "[host]\/[vision]\\Microsoft.Web.WebView2.Core.dll"
+            "url": "[host]\/[vision]\\Microsoft.Web.WebView2.Core.dll?[rand]"
         },
         {
             "path": "\\Microsoft.Web.WebView2.WinForms.dll",
-            "url": "[host]\/[vision]\\Microsoft.Web.WebView2.WinForms.dll"
+            "url": "[host]\/[vision]\\Microsoft.Web.WebView2.WinForms.dll?[rand]"
         },
         {
             "path": "\\Microsoft.Web.WebView2.Wpf.dll",
-            "url": "[host]\/[vision]\\Microsoft.Web.WebView2.Wpf.dll"
+            "url": "[host]\/[vision]\\Microsoft.Web.WebView2.Wpf.dll?[rand]"
         },
         {
             "path": "\\MicrosoftEdgeWebview2Setup.exe",
-            "url": "[host]\/[vision]\\MicrosoftEdgeWebview2Setup.exe"
+            "url": "[host]\/[vision]\\MicrosoftEdgeWebview2Setup.exe?[rand]"
         },
         {
             "path": "\\ndp48-web.exe",
-            "url": "[host]\/[vision]\\ndp48-web.exe"
+            "url": "[host]\/[vision]\\ndp48-web.exe?[rand]"
         },
         {
             "path": "\\Newtonsoft.Json.dll",
-            "url": "[host]\/[vision]\\Newtonsoft.Json.dll"
+            "url": "[host]\/[vision]\\Newtonsoft.Json.dll?[rand]"
         },
         {
             "path": "\\PdfSharp.dll",
-            "url": "[host]\/[vision]\\PdfSharp.dll"
+            "url": "[host]\/[vision]\\PdfSharp.dll?[rand]"
         },
         {
             "path": "\\PdfSharp.System.dll",
-            "url": "[host]\/[vision]\\PdfSharp.System.dll"
+            "url": "[host]\/[vision]\\PdfSharp.System.dll?[rand]"
         },
         {
             "path": "\\Prototype.pptx",
-            "url": "[host]\/[vision]\\Prototype.pptx"
+            "url": "[host]\/[vision]\\Prototype.pptx?[rand]"
         },
         {
             "path": "\\System.Buffers.dll",
-            "url": "[host]\/[vision]\\System.Buffers.dll"
+            "url": "[host]\/[vision]\\System.Buffers.dll?[rand]"
         },
         {
             "path": "\\System.Drawing.Common.dll",
-            "url": "[host]\/[vision]\\System.Drawing.Common.dll"
+            "url": "[host]\/[vision]\\System.Drawing.Common.dll?[rand]"
         },
         {
             "path": "\\System.Memory.dll",
-            "url": "[host]\/[vision]\\System.Memory.dll"
+            "url": "[host]\/[vision]\\System.Memory.dll?[rand]"
         },
         {
             "path": "\\System.Numerics.Vectors.dll",
-            "url": "[host]\/[vision]\\System.Numerics.Vectors.dll"
+            "url": "[host]\/[vision]\\System.Numerics.Vectors.dll?[rand]"
         },
         {
             "path": "\\System.Runtime.CompilerServices.Unsafe.dll",
-            "url": "[host]\/[vision]\\System.Runtime.CompilerServices.Unsafe.dll"
+            "url": "[host]\/[vision]\\System.Runtime.CompilerServices.Unsafe.dll?[rand]"
         },
         {
             "path": "\\template.dotx",
-            "url": "[host]\/[vision]\\template.dotx"
+            "url": "[host]\/[vision]\\template.dotx?[rand]"
         },
         {
             "path": "\\TencentCloudCommon.dll",
-            "url": "[host]\/[vision]\\TencentCloudCommon.dll"
+            "url": "[host]\/[vision]\\TencentCloudCommon.dll?[rand]"
         },
         {
             "path": "\\TencentCloudOcr.dll",
-            "url": "[host]\/[vision]\\TencentCloudOcr.dll"
+            "url": "[host]\/[vision]\\TencentCloudOcr.dll?[rand]"
         },
         {
             "path": "\\TencentCloudTmt.dll",
-            "url": "[host]\/[vision]\\TencentCloudTmt.dll"
+            "url": "[host]\/[vision]\\TencentCloudTmt.dll?[rand]"
         },
         {
             "path": "\\ticiqi.exe",
-            "url": "[host]\/[vision]\\ticiqi.exe"
+            "url": "[host]\/[vision]\\ticiqi.exe?[rand]"
         },
         {
             "path": "\\Update.exe",
-            "url": "[host]\/[vision]\\Update.exe"
+            "url": "[host]\/[vision]\\Update.exe?[rand]"
         },
         {
             "path": "\\WebViewScripts.json",
-            "url": "[host]\/[vision]\\WebViewScripts.json"
+            "url": "[host]\/[vision]\\WebViewScripts.json?[rand]"
         },
         {
             "path": "\\WindowsInput.dll",
-            "url": "[host]\/[vision]\\WindowsInput.dll"
+            "url": "[host]\/[vision]\\WindowsInput.dll?[rand]"
         },
         {
             "path": "\\Yoko.Images.Webp.dll",
-            "url": "[host]\/[vision]\\Yoko.Images.Webp.dll"
+            "url": "[host]\/[vision]\\Yoko.Images.Webp.dll?[rand]"
         },
         {
             "path": "\\zxing.dll",
-            "url": "[host]\/[vision]\\zxing.dll"
+            "url": "[host]\/[vision]\\zxing.dll?[rand]"
         },
         {
             "path": "\\_delete_edge_runtime.bat",
-            "url": "[host]\/[vision]\\_delete_edge_runtime.bat"
+            "url": "[host]\/[vision]\\_delete_edge_runtime.bat?[rand]"
         },
         {
             "path": "\\_install.bat",
-            "url": "[host]\/[vision]\\_install.bat"
+            "url": "[host]\/[vision]\\_install.bat?[rand]"
         },
         {
             "path": "\\_reg_machine.bat",
-            "url": "[host]\/[vision]\\_reg_machine.bat"
+            "url": "[host]\/[vision]\\_reg_machine.bat?[rand]"
         },
         {
             "path": "\\_uninstall.bat",
-            "url": "[host]\/[vision]\\_uninstall.bat"
+            "url": "[host]\/[vision]\\_uninstall.bat?[rand]"
         },
         {
             "path": "\\_修复com注册错误.bat",
-            "url": "[host]\/[vision]\\_修复com注册错误.bat"
+            "url": "[host]\/[vision]\\_修复com注册错误.bat?[rand]"
         },
         {
             "path": "\\不坑盒子.exe.config",
-            "url": "[host]\/[vision]\\不坑盒子.exe.config"
+            "url": "[host]\/[vision]\\不坑盒子.exe.config?[rand]"
         },
         {
             "path": "\\de\\PdfSharp.Charting.resources.dll",
-            "url": "[host]\/[vision]\\de\\PdfSharp.Charting.resources.dll"
+            "url": "[host]\/[vision]\\de\\PdfSharp.Charting.resources.dll?[rand]"
         },
         {
             "path": "\\de\\PdfSharp.resources.dll",
-            "url": "[host]\/[vision]\\de\\PdfSharp.resources.dll"
+            "url": "[host]\/[vision]\\de\\PdfSharp.resources.dll?[rand]"
         },
         {
             "path": "\\en\\Library.resources.dll",
-            "url": "[host]\/[vision]\\en\\Library.resources.dll"
+            "url": "[host]\/[vision]\\en\\Library.resources.dll?[rand]"
         },
         {
             "path": "\\fonts\\不坑盒子.ttf",
-            "url": "[host]\/[vision]\\fonts\\不坑盒子.ttf"
+            "url": "[host]\/[vision]\\fonts\\不坑盒子.ttf?[rand]"
         },
         {
             "path": "\\fonts\\人教拼音体.ttf",
-            "url": "[host]\/[vision]\\fonts\\人教拼音体.ttf"
+            "url": "[host]\/[vision]\\fonts\\人教拼音体.ttf?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_about.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_about.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_about.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_baocun.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_baocun.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_baocun.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_del_ani.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_del_ani.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_del_ani.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_design.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_design.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_design.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_getfonts.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_getfonts.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_getfonts.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_green.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_green.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_green.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_jiami.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_jiami.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_jiami.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_jinshu.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_jinshu.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_jinshu.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_kuaye.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_kuaye.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_kuaye.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_mengceng.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_mengceng.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_mengceng.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_NAV.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_NAV.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_NAV.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_nav_1.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_nav_1.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_nav_1.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_nav_2.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_nav_2.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_nav_2.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_nav_3.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_nav_3.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_nav_3.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_network.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_network.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_network.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_pozhidu.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_pozhidu.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_pozhidu.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_ppt_exportimg.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_exportimg.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_exportimg.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_ppt_image_clip.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_image_clip.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_image_clip.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_ppt_image_clipout.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_image_clipout.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_image_clipout.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_ppt_prototype.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_prototype.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_prototype.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_ppt_word_split.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_word_split.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_word_split.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_remote.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_remote.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_remote.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_Resource.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_Resource.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_Resource.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_setting.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_setting.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_setting.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_setting2.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_setting2.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_setting2.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_shanchu_ppt.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_ppt.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_ppt.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_talk.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_talk.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_talk.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_ticiqi.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_ticiqi.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ticiqi.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_ticiqi2.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_ticiqi2.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ticiqi2.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_ticiqi3.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_ticiqi3.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ticiqi3.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_timer.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_timer.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_timer.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_tiqutupian.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_tiqutupian.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tiqutupian.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_tools_1.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_1.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_1.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_tools_2.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_2.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_2.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_tools_3.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_3.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_3.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_tools_4.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_4.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_4.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_tools_5.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_5.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_5.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_tools_6.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_6.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_6.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_tools_7.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_7.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_7.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_tools_8.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_8.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tools_8.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_trigger.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_trigger.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_trigger.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_tts.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_tts.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tts.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_user.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_user.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_user.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_vbas.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_vbas.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_vbas.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_waci.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_waci.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_waci.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_webbwoser.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_webbwoser.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_webbwoser.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_wens2wen.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_wens2wen.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_wens2wen.png?[rand]"
         },
         {
             "path": "\\pptxIcons\\ID_xingzhuangguodu.png",
-            "url": "[host]\/[vision]\\pptxIcons\\ID_xingzhuangguodu.png"
+            "url": "[host]\/[vision]\\pptxIcons\\ID_xingzhuangguodu.png?[rand]"
         },
         {
             "path": "\\runtimes\\win-arm64\\native\\WebView2Loader.dll",
-            "url": "[host]\/[vision]\\runtimes\\win-arm64\\native\\WebView2Loader.dll"
+            "url": "[host]\/[vision]\\runtimes\\win-arm64\\native\\WebView2Loader.dll?[rand]"
         },
         {
             "path": "\\runtimes\\win-x64\\native\\WebView2Loader.dll",
-            "url": "[host]\/[vision]\\runtimes\\win-x64\\native\\WebView2Loader.dll"
+            "url": "[host]\/[vision]\\runtimes\\win-x64\\native\\WebView2Loader.dll?[rand]"
         },
         {
             "path": "\\runtimes\\win-x86\\native\\WebView2Loader.dll",
-            "url": "[host]\/[vision]\\runtimes\\win-x86\\native\\WebView2Loader.dll"
+            "url": "[host]\/[vision]\\runtimes\\win-x86\\native\\WebView2Loader.dll?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_2228.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_2228.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_2228.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_about.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_about.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_about.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_AES.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_AES.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_AES.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_auto2.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_auto2.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_auto2.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_baocun.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_baocun.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_baocun.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_bianju.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_bianju.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_bianju.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_biaoge_1.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_1.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_1.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_biaoge_2.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_2.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_2.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_biaoge_3.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_3.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_3.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_biaoge_7.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_7.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_7.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_biaoge_jisuan.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_jisuan.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_jisuan.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_chemistry.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_chemistry.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_chemistry.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_code.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_code.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_code.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_document.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_document.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_document.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_fanyi.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_fanyi.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_fanyi.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_fuhao.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_fuhao.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_fuhao.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_GONGWENBUJIAN.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_GONGWENBUJIAN.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_GONGWENBUJIAN.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_h.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_h.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_h.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_h1.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_h1.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_h1.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_h2.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_h2.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_h2.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_h3.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_h3.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_h3.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_hh.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_hh.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_hh.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_h_downgrade.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_h_downgrade.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_h_downgrade.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_h_repair.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_h_repair.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_h_repair.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_h_upgrade.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_h_upgrade.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_h_upgrade.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_insertdanwei.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_insertdanwei.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_insertdanwei.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_insertdate.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_insertdate.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_insertdate.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_jiami.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_jiami.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiami.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_jiaoshi_1.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_1.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_1.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_jiaoshi_2.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_2.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_2.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_jiaoshi_4.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_4.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_4.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_jiaoshi_5.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_5.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_5.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_jiaoshi_bujian.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_bujian.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_bujian.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_jiaoshi_pinyin.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_pinyin.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_pinyin.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_jiouyema.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_jiouyema.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiouyema.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_NAV.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_NAV.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_NAV.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_nav_1.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_nav_1.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_nav_1.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_nav_2.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_nav_2.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_nav_2.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_nav_3.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_nav_3.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_nav_3.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_network.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_network.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_network.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_ocr.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_ocr.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_ocr.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_p.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_p.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_p.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_pozhidu.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_pozhidu.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_pozhidu.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_renyiyema.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_renyiyema.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_renyiyema.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_Resource.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_Resource.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_Resource.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_setting.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_setting.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_setting.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_setting2.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_setting2.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_setting2.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_shanchu.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_shouxie.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_shouxie.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_shouxie.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_speech.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_speech.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_speech.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_superreplace.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_superreplace.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_superreplace.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_SYSTEM.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_SYSTEM.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_SYSTEM.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_TABLE.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_TABLE.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_TABLE.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_tagzuo.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_tagzuo.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_tagzuo.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_talk.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_talk.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_talk.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_TEACHER.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_TEACHER.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_TEACHER.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_ticiqi.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_ticiqi.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_ticiqi.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_tihuan.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_tihuan.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_tihuan.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_tupian.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_tupian.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_tupian.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_user.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_user.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_user.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_vbas.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_vbas.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_vbas.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_waci.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_waci.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_waci.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_weibu.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_weibu.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_weibu.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_WOW.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_WOW.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_WOW.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_yemian.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_yemian.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_yemian.png?[rand]"
         },
         {
             "path": "\\wordIcons\\ID_ZhiNengXieZuo.png",
-            "url": "[host]\/[vision]\\wordIcons\\ID_ZhiNengXieZuo.png"
+            "url": "[host]\/[vision]\\wordIcons\\ID_ZhiNengXieZuo.png?[rand]"
         },
         {
             "path": "\\x64\\Microsoft.CognitiveServices.Speech.core.dll",
-            "url": "[host]\/[vision]\\x64\\Microsoft.CognitiveServices.Speech.core.dll"
+            "url": "[host]\/[vision]\\x64\\Microsoft.CognitiveServices.Speech.core.dll?[rand]"
         },
         {
             "path": "\\x64\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll",
-            "url": "[host]\/[vision]\\x64\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll"
+            "url": "[host]\/[vision]\\x64\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll?[rand]"
         },
         {
             "path": "\\x86\\Microsoft.CognitiveServices.Speech.core.dll",
-            "url": "[host]\/[vision]\\x86\\Microsoft.CognitiveServices.Speech.core.dll"
+            "url": "[host]\/[vision]\\x86\\Microsoft.CognitiveServices.Speech.core.dll?[rand]"
         },
         {
             "path": "\\x86\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll",
-            "url": "[host]\/[vision]\\x86\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll"
+            "url": "[host]\/[vision]\\x86\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll?[rand]"
         },
         {
             "path": "\\zh-CN\\Library.resources.dll",
-            "url": "[host]\/[vision]\\zh-CN\\Library.resources.dll"
+            "url": "[host]\/[vision]\\zh-CN\\Library.resources.dll?[rand]"
         }
     ],
     "VSTO": "https:\/\/download.microsoft.com\/download\/7\/A\/F\/7AFA5695-2B52-44AA-9A2D-FC431C231EDC\/vstor_redist.exe",
