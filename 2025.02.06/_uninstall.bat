@@ -22,6 +22,10 @@ reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\Excel\Addins\BKOffice20
 reg delete "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\PowerPoint\Addins\BKOffice2025.PPT" /f
 reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\PowerPoint\Addins\BKOffice2025.PPT" /f
 
+reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Office\Word\Addins\BKOffice2025.Word" /f
+reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Office\Excel\Addins\BKOffice2025.Excel" /f
+reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Office\PowerPoint\Addins\BKOffice2025.PPT" /f
+
 echo:
 echo 正在移除WPS注册表...
 echo:
@@ -31,6 +35,11 @@ reg delete HKEY_CURRENT_USER\Software\Kingsoft\Office\WPP\AddinsWL\ /v BKOffice2
 reg delete HKEY_LOCAL_MACHINE\Software\Kingsoft\Office\WPS\AddinsWL\  /v BKOffice2025.Word /f
 reg delete HKEY_LOCAL_MACHINE\Software\Kingsoft\Office\ET\AddinsWL\ /v BKOffice2025.Excel /f
 reg delete HKEY_LOCAL_MACHINE\Software\Kingsoft\Office\WPP\AddinsWL\ /v BKOffice2025.PPT /f
+
+reg delete HKEY_LOCAL_MACHINE\Software\WOW6432Node\Kingsoft\Office\WPS\AddinsWL\  /v BKOffice2025.Word /f
+reg delete HKEY_LOCAL_MACHINE\Software\WOW6432Node\Kingsoft\Office\ET\AddinsWL\ /v BKOffice2025.Excel /f
+reg delete HKEY_LOCAL_MACHINE\Software\WOW6432Node\Kingsoft\Office\WPP\AddinsWL\ /v BKOffice2025.PPT /f
+
 echo:
 echo 移除程序列表...
 echo:

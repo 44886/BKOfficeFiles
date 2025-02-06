@@ -2,7 +2,8 @@
     "AppDes": "一款支持MicroSoft Office 和 WPS Offce三件套的高效办公插件。",
     "AppName": "不坑盒子",
     "VSTO":"https://download.microsoft.com/download/7/A/F/7AFA5695-2B52-44AA-9A2D-FC431C231EDC/vstor_redist.exe",
-    "CMD":"_install.bat",
+    "Cmd":"",
+    "Vison": "2025.02.06",
     "Files": [
         {
             "path": "\\AntdUI.dll",
@@ -812,6 +813,5 @@
             "path": "\\zh-CN\\Library.resources.dll",
             "url": "[host]\/[vision]\\zh-CN\\Library.resources.dll"
         }
-    ],
-    "Vison": "2025.02.06"
+    ]
 }
