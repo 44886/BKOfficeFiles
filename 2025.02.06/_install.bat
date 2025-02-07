@@ -60,6 +60,7 @@ reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Word\Addins\BKOffice2025.Wo
 reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Word\Addins\BKOffice2025.Word" /v "CommandLineSafe" /t REG_DWORD /d "1" /f
 reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Word\Addins\BKOffice2025.Word" /v "Manifest" /t REG_SZ /d "file:///%~dp0BKOffice2025.Word.vsto|vstolocal" /f
 reg copy "HKEY_CURRENT_USER\Software\Microsoft\Office\Word\Addins\BKOffice2025.Word" "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\Word\Addins\BKOffice2025.Word" /s /f
+reg copy "HKEY_CURRENT_USER\Software\Microsoft\Office\Word\Addins\BKOffice2025.Word" "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Office\Word\Addins\BKOffice2025.Word" /s /f
 echo:
 echo 注册Excel插件...
 reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Excel\Addins\BKOffice2025.Excel" /f
@@ -69,6 +70,7 @@ reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Excel\Addins\BKOffice2025.E
 reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Excel\Addins\BKOffice2025.Excel" /v "CommandLineSafe" /t REG_DWORD /d "1" /f
 reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Excel\Addins\BKOffice2025.Excel" /v "Manifest" /t REG_SZ /d "file:///%~dp0BKOffice2025.Excel.vsto|vstolocal" /f
 reg copy "HKEY_CURRENT_USER\Software\Microsoft\Office\Excel\Addins\BKOffice2025.Excel" "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\Excel\Addins\BKOffice2025.Excel" /s /f
+reg copy "HKEY_CURRENT_USER\Software\Microsoft\Office\Excel\Addins\BKOffice2025.Excel" "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Office\Excel\Addins\BKOffice2025.Excel" /s /f
 echo:
 echo 注册PPT插件...
 reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\PowerPoint\Addins\BKOffice2025.PPT" /f
@@ -78,20 +80,24 @@ reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\PowerPoint\Addins\BKOffice2
 reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\PowerPoint\Addins\BKOffice2025.PPT" /v "CommandLineSafe" /t REG_DWORD /d "1" /f
 reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\PowerPoint\Addins\BKOffice2025.PPT" /v "Manifest" /t REG_SZ /d "file:///%~dp0BKOffice2025.PPT.vsto|vstolocal" /f
 reg copy "HKEY_CURRENT_USER\Software\Microsoft\Office\PowerPoint\Addins\BKOffice2025.PPT" "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\PowerPoint\Addins\BKOffice2025.PPT" /s /f
+reg copy "HKEY_CURRENT_USER\Software\Microsoft\Office\PowerPoint\Addins\BKOffice2025.PPT" "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Office\PowerPoint\Addins\BKOffice2025.PPT" /s /f
 
 echo:
 echo 正在添加WPS注册表...
 reg add "HKEY_CURRENT_USER\Software\Kingsoft\Office\WPS\AddinsWL" /f
 reg add "HKEY_CURRENT_USER\Software\Kingsoft\Office\WPS\AddinsWL" /v "BKOffice2025.Word" /t REG_SZ /d "" /f
 reg copy "HKEY_CURRENT_USER\Software\Kingsoft\Office\WPS\AddinsWL" "HKEY_LOCAL_MACHINE\Software\Kingsoft\Office\WPS\AddinsWL" /s /f
+reg copy "HKEY_CURRENT_USER\Software\Kingsoft\Office\WPS\AddinsWL" "HKEY_LOCAL_MACHINE\Software\WOW6432Node\Kingsoft\Office\WPS\AddinsWL" /s /f
 
 reg add "HKEY_CURRENT_USER\Software\Kingsoft\Office\ET\AddinsWL" /f
 reg add "HKEY_CURRENT_USER\Software\Kingsoft\Office\ET\AddinsWL" /v "BKOffice2025.Excel" /t REG_SZ /d "" /f
 reg copy "HKEY_CURRENT_USER\Software\Kingsoft\Office\ET\AddinsWL" "HKEY_LOCAL_MACHINE\Software\Kingsoft\Office\ET\AddinsWL" /s /f
+reg copy "HKEY_CURRENT_USER\Software\Kingsoft\Office\ET\AddinsWL" "HKEY_LOCAL_MACHINE\Software\WOW6432Node\Kingsoft\Office\ET\AddinsWL" /s /f
 
 reg add "HKEY_CURRENT_USER\Software\Kingsoft\Office\WPP\AddinsWL" /f
 reg add "HKEY_CURRENT_USER\Software\Kingsoft\Office\WPP\AddinsWL" /v "BKOffice2025.PPT" /t REG_SZ /d "" /f
 reg copy "HKEY_CURRENT_USER\Software\Kingsoft\Office\WPP\AddinsWL" "HKEY_LOCAL_MACHINE\Software\Kingsoft\Office\WPP\AddinsWL" /s /f
+reg copy "HKEY_CURRENT_USER\Software\Kingsoft\Office\WPP\AddinsWL" "HKEY_LOCAL_MACHINE\Software\WOW6432Node\Kingsoft\Office\WPP\AddinsWL" /s /f
 
 echo:
 echo 添加在程序列表...
