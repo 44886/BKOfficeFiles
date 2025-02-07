@@ -1,7 +1,6 @@
 {
-    "AppDes": "一款支持MicroSoft Office 和 WPS Offce三件套的高效办公插件，为Office增加数百实用功能。",
+    "AppDes": "一款支持MicroSoft Office 和 WPS Offce三件套的高效办公插件，为你的Office增加数百实用功能。",
     "AppName": "不坑盒子",
-    "UpdateDes": "一款支持MicroSoft Office 和 WPS Offce三件套的高效办公插件，为Office增加数百实用功能。",
     "Cmd": "",
     "Files": [
         {
@@ -273,8 +272,8 @@
             "url": "[host]\/[vision]\\_修复com注册错误.bat?[rand]"
         },
         {
-            "path": "\\不坑盒子.exe.config",
-            "url": "[host]\/[vision]\\不坑盒子.exe.config?[rand]"
+            "path": "\\一键卸载老版.bat",
+            "url": "[host]\/[vision]\\一键卸载老版.bat?[rand]"
         },
         {
             "path": "\\de\\PdfSharp.Charting.resources.dll",
@@ -786,5 +785,5 @@
         }
     ],
     "VSTO": "https:\/\/download.microsoft.com\/download\/7\/A\/F\/7AFA5695-2B52-44AA-9A2D-FC431C231EDC\/vstor_redist.exe",
-    "Vison": "2025.02.06"
+    "Vison": "2025.02.08"
 }
