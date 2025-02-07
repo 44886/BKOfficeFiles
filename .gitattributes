@@ -31,8 +31,8 @@
 *.pdf binary
 
 # Common text files
-*.txt text
-*.xml text
-*.json text
-*.config text
-*.md text
+*.txt binary
+*.xml binary
+*.json binary
+*.config binary
+*.md binary
