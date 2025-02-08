@@ -1,787 +1,1210 @@
 {
     "AppDes": "一款支持MicroSoft Office 和 WPS Offce三件套的高效办公插件，为你的Office增加数百实用功能。",
-    "UpdateDes": "一款支持MicroSoft Office 和 WPS Offce三件套的高效办公插件，为你的Office增加数百实用功能。",
-    "Test":"Test",
     "AppName": "不坑盒子",
     "Cmd": "",
     "Files": [
         {
+            "hash": "0957abd2452c868693c325369ccbb608469c3ffc1c3c11b973a29d47486eced3",
             "path": "\\AntdUI.dll",
             "url": "[host]\/[vision]\\AntdUI.dll?[rand]"
         },
         {
+            "hash": "72cabd6893c6fb58cc51ac03a1e7adc8a381aaac41ab73ac771091517ba11cf4",
             "path": "\\BKGreen.exe",
             "url": "[host]\/[vision]\\BKGreen.exe?[rand]"
         },
         {
+            "hash": "6ae4a797eaba91ba3541342e5ba626f868212aa4a51ee41cab89e6f06a0e00eb",
             "path": "\\BKOffice.exe",
             "url": "[host]\/[vision]\\BKOffice.exe?[rand]"
         },
         {
+            "hash": "ac17f719761e2b256342e9f6cfee4e02dfa53fd36e23936a0c36b00aafb77b86",
             "path": "\\BKOffice.exe.config",
             "url": "[host]\/[vision]\\BKOffice.exe.config?[rand]"
         },
         {
+            "hash": "539e15366b14099df72702efeda71de9a986294156c491172387777c7d5d6cfa",
             "path": "\\BKOffice2025.Excel.dll",
             "url": "[host]\/[vision]\\BKOffice2025.Excel.dll?[rand]"
         },
         {
+            "hash": "acf7214e2af2cbf84e843dd9776d74041cb9a083477108fcdd5e5a9ef6ee82ae",
+            "path": "\\BKOffice2025.Excel.dll.config",
+            "url": "[host]\/[vision]\\BKOffice2025.Excel.dll.config?[rand]"
+        },
+        {
+            "hash": "2533bb53251942f7dc88c2fea26abb572f56594cf447845cd1d201a3e09a8eab",
             "path": "\\BKOffice2025.Excel.dll.manifest",
             "url": "[host]\/[vision]\\BKOffice2025.Excel.dll.manifest?[rand]"
         },
         {
+            "hash": "ae7b60bbe608e42918f03ac9f2e8a8734ddd404ba7d8998ad32e06d65f12642c",
             "path": "\\BKOffice2025.Excel.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.Excel.vsto?[rand]"
         },
         {
+            "hash": "ec77c8a473ecbddb7529d641a7195968eb2cdf63825da763967f253a23252c3a",
             "path": "\\BKOffice2025.PPT.dll",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.dll?[rand]"
         },
         {
+            "hash": "524dabae33cfe3bc38eec7388a345d7ba3e313ec5f78cfdfed20744f7adec538",
             "path": "\\BKOffice2025.PPT.dll.manifest",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.dll.manifest?[rand]"
         },
         {
+            "hash": "8d109d2a0fa8ce4366fc609ccdb60955fd24cd615d834aefc03938cb73cab28e",
             "path": "\\BKOffice2025.PPT.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.vsto?[rand]"
         },
         {
+            "hash": "9993dea82b1afc0593e6f7ac139a09eb3a492bc6d91235ed695104129c18c901",
             "path": "\\BKOffice2025.Word.dll",
             "url": "[host]\/[vision]\\BKOffice2025.Word.dll?[rand]"
         },
         {
+            "hash": "b826c043709797dd3f8031fb04ea4688fadc10cbae68181305eddc9bc3ef9db6",
             "path": "\\BKOffice2025.Word.dll.manifest",
             "url": "[host]\/[vision]\\BKOffice2025.Word.dll.manifest?[rand]"
         },
         {
+            "hash": "a9f3ac5826b325e03f7ceb617675e6f8cd62cb32eda4a230f96f64639f1c0777",
             "path": "\\BKOffice2025.Word.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.Word.vsto?[rand]"
         },
         {
+            "hash": "1eeef1e0e8fd482dc3363162a903c15eb7d9484448d7dbd720a2b85c0228b1fd",
             "path": "\\BKOfficeDNA-AddIn-packed.xll",
             "url": "[host]\/[vision]\\BKOfficeDNA-AddIn-packed.xll?[rand]"
         },
         {
+            "hash": "b16ebd58a94b7a1d30c56467ac865c9211c67fa3831debfbacdbfeb4b06fbf92",
             "path": "\\BKOfficeDNA-AddIn64-packed.xll",
             "url": "[host]\/[vision]\\BKOfficeDNA-AddIn64-packed.xll?[rand]"
         },
         {
+            "hash": "ab9e07b37587c3e66c4c5ab884a49aae44026ab46bd3fc8802b1410d02121e41",
             "path": "\\BKOfficeDNA.dll",
             "url": "[host]\/[vision]\\BKOfficeDNA.dll?[rand]"
         },
         {
+            "hash": "66deba3c83a4fc496439cbd3d7856a4a8021be708ddddea7998145486e112849",
             "path": "\\BKOfficeStart.docx",
             "url": "[host]\/[vision]\\BKOfficeStart.docx?[rand]"
         },
         {
+            "hash": "9a8595f8e3c3adc607d9db411cec8a683d771a7606341e7947cc50caea857191",
             "path": "\\BKOfficeWPF.exe",
             "url": "[host]\/[vision]\\BKOfficeWPF.exe?[rand]"
         },
         {
+            "hash": "888f96ea0951430760f884bc6131c743ead59c1f1c666c8a776fa0bb0912abce",
             "path": "\\BKRemote2.exe",
             "url": "[host]\/[vision]\\BKRemote2.exe?[rand]"
         },
         {
+            "hash": "5f66c69203a16be396f644be5dfe39b40d1c78bd1d9eb5d1ee92d9ed0adf0b96",
             "path": "\\BKSpotLight.exe",
             "url": "[host]\/[vision]\\BKSpotLight.exe?[rand]"
         },
         {
+            "hash": "bb4a00eb6ab1a0bed7712a5adfc5883dc34c65513e9466e8fd93b0d540fee001",
             "path": "\\BKWebView.exe",
             "url": "[host]\/[vision]\\BKWebView.exe?[rand]"
         },
         {
+            "hash": "cb7a00483b356751e4722471b770294be03aec809d4af7a7a0b2dc1fca289937",
             "path": "\\Fleck.dll",
             "url": "[host]\/[vision]\\Fleck.dll?[rand]"
         },
         {
+            "hash": "a1afaa189aa7bfecb779abdfd26ef4463d6f08453ffb867dcdded259db0f1558",
             "path": "\\HotkeyListener.dll",
             "url": "[host]\/[vision]\\HotkeyListener.dll?[rand]"
         },
         {
+            "hash": "b026f401f59d21967fd541bbc5a5480efa2ebdda32fd08260d9d48a950d7ed2a",
             "path": "\\Library.dll",
             "url": "[host]\/[vision]\\Library.dll?[rand]"
         },
         {
+            "hash": "cccbfd879cb8dc1cc2b34b7a122b9d12294c522472181435872cd37d13ce27d7",
             "path": "\\libwebp_x64.dll",
             "url": "[host]\/[vision]\\libwebp_x64.dll?[rand]"
         },
         {
+            "hash": "22efc2bc9edf0bf8a30263c41b04dbde4097e51e354285b8ab7e13a48964d1ef",
             "path": "\\libwebp_x86.dll",
             "url": "[host]\/[vision]\\libwebp_x86.dll?[rand]"
         },
         {
+            "hash": "aaf03894a883cec3cb61a59cfd8d2b5c153b8c46bb62800413bb4e6d8f6a79b1",
             "path": "\\logo.ico",
             "url": "[host]\/[vision]\\logo.ico?[rand]"
         },
         {
+            "hash": "d7f2400921edd445ad91a54ee6c6795405c27f18cb9829623fc050db67df0199",
             "path": "\\logo.png",
             "url": "[host]\/[vision]\\logo.png?[rand]"
         },
         {
+            "hash": "78a3c67d36929e736e298510a4aa74a4bb1fcf7cb086fe4968af3e4a94057cde",
             "path": "\\Microsoft.CognitiveServices.Speech.core.dll",
             "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.core.dll?[rand]"
         },
         {
+            "hash": "7796348e9232851bb53490105e457596fe04a05e881cb0cd1bfc9fdf9a2b09ce",
             "path": "\\Microsoft.CognitiveServices.Speech.csharp.dll",
             "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.csharp.dll?[rand]"
         },
         {
+            "hash": "ccb3fc07d8fb7074ac88abc58a76ef108bfe126630e53236a6a37432730cc144",
             "path": "\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll",
             "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll?[rand]"
         },
         {
+            "hash": "050405babe5276f1b2e405809c46847da2b4a7cb005a976c58949ed68d9ff37a",
             "path": "\\Microsoft.Extensions.Logging.Abstractions.dll",
             "url": "[host]\/[vision]\\Microsoft.Extensions.Logging.Abstractions.dll?[rand]"
         },
         {
+            "hash": "6370e60adc74ac1c8ae7987c8f059f1069f4d8a24725886a87ea75fd3a1f8951",
             "path": "\\Microsoft.Office.Tools.Common.dll",
             "url": "[host]\/[vision]\\Microsoft.Office.Tools.Common.dll?[rand]"
         },
         {
+            "hash": "8cb09317c326e9b0f83c337eae7ccdeaad3e45e5da3603e1ebc90c5a06ad1702",
             "path": "\\Microsoft.Office.Tools.Common.v4.0.Utilities.dll",
             "url": "[host]\/[vision]\\Microsoft.Office.Tools.Common.v4.0.Utilities.dll?[rand]"
         },
         {
+            "hash": "2f7532355034da667c0df7ca5d54b24601074346b9ea2d2305b2676d9e577c7a",
             "path": "\\Microsoft.Office.Tools.dll",
             "url": "[host]\/[vision]\\Microsoft.Office.Tools.dll?[rand]"
         },
         {
+            "hash": "21f3ca5b68423c5134bfc2300eedc89e94f219ce9b9414fa6c8c8fbbd3c003d9",
             "path": "\\Microsoft.Office.Tools.Excel.dll",
             "url": "[host]\/[vision]\\Microsoft.Office.Tools.Excel.dll?[rand]"
         },
         {
+            "hash": "37cbcee1ab36849e8f26ebafe7b712bfcfd01d07fd8688bf85e53f4ab6e91ac8",
             "path": "\\Microsoft.Office.Tools.Word.dll",
             "url": "[host]\/[vision]\\Microsoft.Office.Tools.Word.dll?[rand]"
         },
         {
+            "hash": "77d99747306a8546e7e5abbb0cd251552995f6b97acf508b090cd5ce2577d0a7",
             "path": "\\Microsoft.VisualStudio.Tools.Applications.Runtime.dll",
             "url": "[host]\/[vision]\\Microsoft.VisualStudio.Tools.Applications.Runtime.dll?[rand]"
         },
         {
+            "hash": "cb8c852fcc4ef55d630b64d171dc11538bb25258041ed22cf31735982a2e09e3",
             "path": "\\Microsoft.Web.WebView2.Core.dll",
             "url": "[host]\/[vision]\\Microsoft.Web.WebView2.Core.dll?[rand]"
         },
         {
+            "hash": "e62056bee28ab094071144b47371009a6fbc162f9aea184719f2e86ed515f7f8",
             "path": "\\Microsoft.Web.WebView2.WinForms.dll",
             "url": "[host]\/[vision]\\Microsoft.Web.WebView2.WinForms.dll?[rand]"
         },
         {
+            "hash": "867cde5b6019ac3ca5649e07cfdb85633fd726391752b2a9761b625c40f4f799",
             "path": "\\Microsoft.Web.WebView2.Wpf.dll",
             "url": "[host]\/[vision]\\Microsoft.Web.WebView2.Wpf.dll?[rand]"
         },
         {
+            "hash": "ed544bb542723f729e9873f37f9ae440a57136d0c429d47f83ff494164ef42d9",
             "path": "\\MicrosoftEdgeWebview2Setup.exe",
             "url": "[host]\/[vision]\\MicrosoftEdgeWebview2Setup.exe?[rand]"
         },
         {
+            "hash": "0bba3094588c4bfec301939985222a20b340bf03431563dec8b2b4478b06fffa",
             "path": "\\ndp48-web.exe",
             "url": "[host]\/[vision]\\ndp48-web.exe?[rand]"
         },
         {
+            "hash": "b624949df8b0e3a6153fdfb730a7c6f4990b6592ee0d922e1788433d276610f3",
             "path": "\\Newtonsoft.Json.dll",
             "url": "[host]\/[vision]\\Newtonsoft.Json.dll?[rand]"
         },
         {
+            "hash": "6ab52dd47537fdef8ae376df5a5c0514fad984f1c08f7b2b7459d216195de4f8",
             "path": "\\PdfSharp.dll",
             "url": "[host]\/[vision]\\PdfSharp.dll?[rand]"
         },
         {
+            "hash": "d8b8426655d22c1328e054a3f56342b44020778057b007872dd416387d2a1767",
             "path": "\\PdfSharp.System.dll",
             "url": "[host]\/[vision]\\PdfSharp.System.dll?[rand]"
         },
         {
+            "hash": "6faba603875b6d13debfb7e26e72a8255f06ccaab416d567cc83f5e4e7201d98",
             "path": "\\Prototype.pptx",
             "url": "[host]\/[vision]\\Prototype.pptx?[rand]"
         },
         {
+            "hash": "3af1e07305bed0abe0cf32d9854e0a7f5f470216adee1b87d02350be09d31b35",
             "path": "\\System.Buffers.dll",
             "url": "[host]\/[vision]\\System.Buffers.dll?[rand]"
         },
         {
+            "hash": "327286913706fa99dfe9cef8dfa462b78d90d4a67b22ab5536c77289f5cd7350",
             "path": "\\System.Drawing.Common.dll",
             "url": "[host]\/[vision]\\System.Drawing.Common.dll?[rand]"
         },
         {
+            "hash": "b8fe216aff0f6d162f8eefe7be1712162b7d8199e20ce2e70ffac36c7ce20a4c",
             "path": "\\System.Memory.dll",
             "url": "[host]\/[vision]\\System.Memory.dll?[rand]"
         },
         {
+            "hash": "22c84be385fe8ba6d0e0138952748f28d781fce36078b5a7aed91a6104bcd99b",
             "path": "\\System.Numerics.Vectors.dll",
             "url": "[host]\/[vision]\\System.Numerics.Vectors.dll?[rand]"
         },
         {
+            "hash": "2d6f419d641682d8efc4a40e850d2e85de519d6823b93daf2aeee63206d4e32d",
             "path": "\\System.Runtime.CompilerServices.Unsafe.dll",
             "url": "[host]\/[vision]\\System.Runtime.CompilerServices.Unsafe.dll?[rand]"
         },
         {
+            "hash": "1c0011fa250860226b88c0811767b4ef8ee8d55d712a69792b380c78c9f2f606",
             "path": "\\template.dotx",
             "url": "[host]\/[vision]\\template.dotx?[rand]"
         },
         {
+            "hash": "cef6246c727c9505b5e68a4330965fa97db44639a257f11d6529b36bbd4812bf",
             "path": "\\TencentCloudCommon.dll",
             "url": "[host]\/[vision]\\TencentCloudCommon.dll?[rand]"
         },
         {
+            "hash": "4e87a1f372edd4bf4cd41c64943850bf686953269a2a693d2d425bb1d29a2889",
             "path": "\\TencentCloudOcr.dll",
             "url": "[host]\/[vision]\\TencentCloudOcr.dll?[rand]"
         },
         {
+            "hash": "6c2beb8a04409aefcd465a3eeb3059912c3d895c1f8e2430fe3503f4d24cbb77",
             "path": "\\TencentCloudTmt.dll",
             "url": "[host]\/[vision]\\TencentCloudTmt.dll?[rand]"
         },
         {
+            "hash": "70c2ec3d6678faa967b7b30beb37248191368f91284d158ec0bac2d1c4216b72",
             "path": "\\ticiqi.exe",
             "url": "[host]\/[vision]\\ticiqi.exe?[rand]"
         },
         {
+            "hash": "47845927f2a8fa7c24cdd7b69ab2827f9dafa2ac4ac830f6536bf9b29fe8684f",
             "path": "\\Update.exe",
             "url": "[host]\/[vision]\\Update.exe?[rand]"
         },
         {
+            "hash": "b423bb45501e0fa49d3b77e635f800a29f1fdcf5a58e00c7e04a7ff7833045f2",
             "path": "\\WebViewScripts.json",
             "url": "[host]\/[vision]\\WebViewScripts.json?[rand]"
         },
         {
+            "hash": "81110d44256397f0f3c572a20ca94bb4c669e5de89f9348abad263fbd81c54b9",
             "path": "\\WindowsInput.dll",
             "url": "[host]\/[vision]\\WindowsInput.dll?[rand]"
         },
         {
+            "hash": "09ca8e7ad13a6f523712c7a3e669ac108e739aa6da340d1b14742867d7092c83",
             "path": "\\Yoko.Images.Webp.dll",
             "url": "[host]\/[vision]\\Yoko.Images.Webp.dll?[rand]"
         },
         {
+            "hash": "7852a69a2da81ca676c92ab2e6ad354ca0ef97de94e52ad43801a0c8c7acbb62",
             "path": "\\zxing.dll",
             "url": "[host]\/[vision]\\zxing.dll?[rand]"
         },
         {
+            "hash": "fdaafb1b31d3df0d0e3ef1a058920519c8eeb851aa38c7aefbc8050a3481c305",
             "path": "\\_delete_edge_runtime.bat",
             "url": "[host]\/[vision]\\_delete_edge_runtime.bat?[rand]"
         },
         {
+            "hash": "c4ed8f1988ee6cd5d9901446ed84033714d220291b72d377a9b3933d8e629d91",
             "path": "\\_install.bat",
             "url": "[host]\/[vision]\\_install.bat?[rand]"
         },
         {
+            "hash": "278a226dfc4ed3dc9a0223ef715100c27af5ecb852cad6bb1e5477fc9b3d89af",
             "path": "\\_reg_machine.bat",
             "url": "[host]\/[vision]\\_reg_machine.bat?[rand]"
         },
         {
+            "hash": "07c86b4212751cdb5d4dc77ce3f76cf1a1bec9ca02931e9258eb32a1c9dc82ab",
             "path": "\\_uninstall.bat",
             "url": "[host]\/[vision]\\_uninstall.bat?[rand]"
         },
         {
+            "hash": "4b0200fcdfa5515433beff9e5f94d750331d0cb35b774380fb6dea1544e9beee",
             "path": "\\_修复com注册错误.bat",
             "url": "[host]\/[vision]\\_修复com注册错误.bat?[rand]"
         },
         {
+            "hash": "bde347c5cd0c75b279c6f84a04d18927729a29ccb0de6b01a0a24caf622ff1ef",
             "path": "\\一键卸载老版.bat",
             "url": "[host]\/[vision]\\一键卸载老版.bat?[rand]"
         },
         {
+            "hash": "776071943b67c9d54d1bb6f9641b5817f36d0eb0f925017e4e2450f32f9eeb3d",
             "path": "\\de\\PdfSharp.Charting.resources.dll",
             "url": "[host]\/[vision]\\de\\PdfSharp.Charting.resources.dll?[rand]"
         },
         {
+            "hash": "5b8933f9a9e0c347d48a1311b71fc0c9d808e2bb45f3ed8f3de0848ba13b5812",
             "path": "\\de\\PdfSharp.resources.dll",
             "url": "[host]\/[vision]\\de\\PdfSharp.resources.dll?[rand]"
         },
         {
+            "hash": "4705cfbf59f51000d9d09aa96fa348e8efca6f6c7fbd82e9bf8e00f1657cc341",
             "path": "\\en\\Library.resources.dll",
             "url": "[host]\/[vision]\\en\\Library.resources.dll?[rand]"
         },
         {
+            "hash": "f025f47aef650716bfa99585c500453d992630ab45715a50908340d908c4645e",
             "path": "\\fonts\\不坑盒子.ttf",
             "url": "[host]\/[vision]\\fonts\\不坑盒子.ttf?[rand]"
         },
         {
+            "hash": "ddf5a310e6532ff77b99420536540f9e1f46cf31ec1d05d15c5ef1cfc2243a69",
             "path": "\\fonts\\人教拼音体.ttf",
             "url": "[host]\/[vision]\\fonts\\人教拼音体.ttf?[rand]"
         },
         {
+            "hash": "1cf593f0b83f033aa65b8a96206e99ef9191f1a17484169e3c2c65ffe1f7d6ad",
             "path": "\\pptxIcons\\ID_about.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_about.png?[rand]"
         },
         {
+            "hash": "b0827f04a477608299e3b4264deb4ed790dcef5e89d94bc32842cc852e896515",
             "path": "\\pptxIcons\\ID_baocun.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_baocun.png?[rand]"
         },
         {
+            "hash": "88f1f1abb2c1e1f1e15d1e5877077018c6ab266c1b4c8cd0490d35690ef3619a",
             "path": "\\pptxIcons\\ID_del_ani.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_del_ani.png?[rand]"
         },
         {
+            "hash": "b0728d5bd20f9a7b3010d93ef146e7a797feba7d5a240c5ac5bd2239a7c97343",
             "path": "\\pptxIcons\\ID_design.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_design.png?[rand]"
         },
         {
+            "hash": "271cb030b6b9a971082cc92ca54b4935e8d4ccb441ff2bc03353fbecf183277b",
             "path": "\\pptxIcons\\ID_getfonts.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_getfonts.png?[rand]"
         },
         {
+            "hash": "973d761e17bc56c7fc59152a68c8aea778bb0aace9cf7a5fd0f2ec30ef03043f",
             "path": "\\pptxIcons\\ID_green.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_green.png?[rand]"
         },
         {
+            "hash": "a81e7a3ad898a08407f42c4ec98f8c58b53cb8b628116f418ca5d60374bd92e8",
             "path": "\\pptxIcons\\ID_jiami.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_jiami.png?[rand]"
         },
         {
+            "hash": "637b01156e6ae0a3c139e884343f003ad43beb8e3e5e91cd90f147528d7ee6a9",
             "path": "\\pptxIcons\\ID_jinshu.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_jinshu.png?[rand]"
         },
         {
+            "hash": "ce313fd13a2c7cd78de2bc08c026f78c5fe1c127fcdd256850936e6e15ed7801",
             "path": "\\pptxIcons\\ID_kuaye.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_kuaye.png?[rand]"
         },
         {
+            "hash": "cf52c90a7ef994c9b20c22b93073aa027140ece9fd4fa2bb2f292ce11ad29212",
             "path": "\\pptxIcons\\ID_mengceng.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_mengceng.png?[rand]"
         },
         {
+            "hash": "20f581cb847a543e10a5f6f8b9de4e653d26f5fd819eca2c3c966b5d9a6908c9",
             "path": "\\pptxIcons\\ID_NAV.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_NAV.png?[rand]"
         },
         {
+            "hash": "6a6bec90011b5a46ad7cd17e42f3df0f17e000c461cbd619bce904aac65f8f6d",
             "path": "\\pptxIcons\\ID_nav_1.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_nav_1.png?[rand]"
         },
         {
+            "hash": "a05cceb2c27d3868f597eec5cac87aa08ebd861cc8328b69a6848c7ebace1eac",
             "path": "\\pptxIcons\\ID_nav_2.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_nav_2.png?[rand]"
         },
         {
+            "hash": "5552fd2bdd88085754e4ef9e798a5cd07575d0327307ab3112c6def1162d7cf0",
             "path": "\\pptxIcons\\ID_nav_3.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_nav_3.png?[rand]"
         },
         {
+            "hash": "ed81ef2388c4ce40f493d3858faa61a7ab83904fc0a42344d4b47b3fe2e699fd",
             "path": "\\pptxIcons\\ID_network.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_network.png?[rand]"
         },
         {
+            "hash": "4eac13162cc87e088b51c58f227cd242dca1575806fc5c94c482f65b87bc396e",
             "path": "\\pptxIcons\\ID_pozhidu.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_pozhidu.png?[rand]"
         },
         {
+            "hash": "0b24eb7955270a79167c78968caef95b74441ca5cecdda85f706cf0bd73e9a82",
             "path": "\\pptxIcons\\ID_ppt_exportimg.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_exportimg.png?[rand]"
         },
         {
+            "hash": "0b704211b6145b1addefdae42c5c28a10145e43945fe729ffa73b4581ccd0615",
             "path": "\\pptxIcons\\ID_ppt_image_clip.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_image_clip.png?[rand]"
         },
         {
+            "hash": "7d68a78ee48a1a73ebc58feeabd9339518a3f450fddd71532fc88fd9bc6e608d",
             "path": "\\pptxIcons\\ID_ppt_image_clipout.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_image_clipout.png?[rand]"
         },
         {
+            "hash": "6e1980dd76aad71e9f8b02569cd86abeb6fb0faac21c55e6dbbb8b5ad9bb7433",
             "path": "\\pptxIcons\\ID_ppt_prototype.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_prototype.png?[rand]"
         },
         {
+            "hash": "9f0d1328a4451d093968e8621eb72321f079a5f35faa9ea5afcb7483959d4acb",
             "path": "\\pptxIcons\\ID_ppt_word_split.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_word_split.png?[rand]"
         },
         {
+            "hash": "c1ed402d479cfdd3d9e04a72e86f6bedc5feb7a8d94bb99dad351ebbaf29cabd",
             "path": "\\pptxIcons\\ID_remote.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_remote.png?[rand]"
         },
         {
+            "hash": "1a00addfa51d097a42997075375e11377be96902e83d9f636a70e2d130043b82",
             "path": "\\pptxIcons\\ID_Resource.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_Resource.png?[rand]"
         },
         {
+            "hash": "30cf170358d43693ce0e2e00a9b58901544953bb7fb35e5de1a3c5c15c03f9f8",
             "path": "\\pptxIcons\\ID_setting.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_setting.png?[rand]"
         },
         {
+            "hash": "25669f40a35136b110bd04d76cd0a110de25bffcad1dfd31240f9936aa8d41d6",
             "path": "\\pptxIcons\\ID_setting2.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_setting2.png?[rand]"
         },
         {
+            "hash": "d3e4b8d1c93ae878e818c5dd5e9e20f64b1bf990f153aa480530049b581e7012",
             "path": "\\pptxIcons\\ID_shanchu_ppt.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_ppt.png?[rand]"
         },
         {
+            "hash": "ded01143ec86cb2dfb7ee3e26e302749591b26f0aba10a62e6ad63cdd6f47464",
             "path": "\\pptxIcons\\ID_talk.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_talk.png?[rand]"
         },
         {
+            "hash": "1ad0ff3212f3aacfdcec3200c2dfdc431c073dc3cdc4b830f1ac4b026aaf08ff",
             "path": "\\pptxIcons\\ID_ticiqi.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_ticiqi.png?[rand]"
         },
         {
+            "hash": "1ad0ff3212f3aacfdcec3200c2dfdc431c073dc3cdc4b830f1ac4b026aaf08ff",
             "path": "\\pptxIcons\\ID_ticiqi2.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_ticiqi2.png?[rand]"
         },
         {
+            "hash": "1ad0ff3212f3aacfdcec3200c2dfdc431c073dc3cdc4b830f1ac4b026aaf08ff",
             "path": "\\pptxIcons\\ID_ticiqi3.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_ticiqi3.png?[rand]"
         },
         {
+            "hash": "f4943b642f5b0d211175600e09567f4b37210b3778218c3788697abff21b18a1",
             "path": "\\pptxIcons\\ID_timer.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_timer.png?[rand]"
         },
         {
+            "hash": "e088e73def7e16f757a2631b6f64ff91bd6e33537e523384d0695e2a18f0aa98",
             "path": "\\pptxIcons\\ID_tiqutupian.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_tiqutupian.png?[rand]"
         },
         {
+            "hash": "8ca82555ffc4b8ab4763f3f001fde0e1402e43bced26148565dfe576732bf56e",
             "path": "\\pptxIcons\\ID_tools_1.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_tools_1.png?[rand]"
         },
         {
+            "hash": "1c77ede8255b1705f46dc744d64d3f067cb3c796e8cfbf0f3db69684752b9588",
             "path": "\\pptxIcons\\ID_tools_2.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_tools_2.png?[rand]"
         },
         {
+            "hash": "9358a759371ba24ccbca05e9b6da57ed4671501a124c695902aa23787c23088f",
             "path": "\\pptxIcons\\ID_tools_3.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_tools_3.png?[rand]"
         },
         {
+            "hash": "347f63c00904c20b45e0851482280a25a6a6897d74d0a66bcbf49dfb33f6b7c9",
             "path": "\\pptxIcons\\ID_tools_4.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_tools_4.png?[rand]"
         },
         {
+            "hash": "c7ed3fae1b7c51cf259c0c3b3d8e2564b5123d37918344b63f914e102cdd4523",
             "path": "\\pptxIcons\\ID_tools_5.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_tools_5.png?[rand]"
         },
         {
+            "hash": "cd79f8a4aa603e04ee95efa7c7764cd811a767f33cf0d4f728d31ba87c0038fc",
             "path": "\\pptxIcons\\ID_tools_6.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_tools_6.png?[rand]"
         },
         {
+            "hash": "b1716b7e3de0271f694b0401413af19696c0922d176c04ca94e1b7f0486b1d96",
             "path": "\\pptxIcons\\ID_tools_7.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_tools_7.png?[rand]"
         },
         {
+            "hash": "47b6185f681004f3ecc0ffcb88012d48d2dbef846e8d445a02228d0a744a1426",
             "path": "\\pptxIcons\\ID_tools_8.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_tools_8.png?[rand]"
         },
         {
+            "hash": "6d23ca287fb8cf46d175e5dc57717f2b2d17671008ec631d4856d435d3c46d4e",
             "path": "\\pptxIcons\\ID_trigger.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_trigger.png?[rand]"
         },
         {
+            "hash": "3fcabff3ad558b75390ae30e32c2e589e0312c89899acecb420b0769953dddd3",
             "path": "\\pptxIcons\\ID_tts.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_tts.png?[rand]"
         },
         {
+            "hash": "1aaa5dacc2510c3f9e72b6a5c573f31c1c79629b09f0579547de882221e83d5a",
             "path": "\\pptxIcons\\ID_user.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_user.png?[rand]"
         },
         {
+            "hash": "9488e96ed99a2500bede066bebbb1f192c4cfff3af7a8023947194c5adf7912a",
             "path": "\\pptxIcons\\ID_vbas.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_vbas.png?[rand]"
         },
         {
+            "hash": "e56155eebebc37e31f256afa8fc759351c86142cf813bd2c94413c18a563da9b",
             "path": "\\pptxIcons\\ID_waci.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_waci.png?[rand]"
         },
         {
+            "hash": "bafe96aeffc8f836a8bf6d74c742b6735a068d155c21af940e84953fb7e81abe",
             "path": "\\pptxIcons\\ID_webbwoser.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_webbwoser.png?[rand]"
         },
         {
+            "hash": "4b1ca745bf47b852f4d259f298ec8bd9219fb1d6e70524d808de2277d92f0b3d",
             "path": "\\pptxIcons\\ID_wens2wen.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_wens2wen.png?[rand]"
         },
         {
+            "hash": "bd404236dd063b455fc11e9c975d831e1f42e928fe9fcb7f6f77326ec209cbf9",
             "path": "\\pptxIcons\\ID_xingzhuangguodu.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_xingzhuangguodu.png?[rand]"
         },
         {
+            "hash": "277e84cd9474ef6302ff3bc91706ccac9bc709cd226de4dbd7dad28571b2bc05",
             "path": "\\runtimes\\win-arm64\\native\\WebView2Loader.dll",
             "url": "[host]\/[vision]\\runtimes\\win-arm64\\native\\WebView2Loader.dll?[rand]"
         },
         {
+            "hash": "271b57e3ec03c436a15d80cafeb9fd1618a43793233d8b05c9446f8de0a51be4",
             "path": "\\runtimes\\win-x64\\native\\WebView2Loader.dll",
             "url": "[host]\/[vision]\\runtimes\\win-x64\\native\\WebView2Loader.dll?[rand]"
         },
         {
+            "hash": "7f362fd98cc243ad620f2d0a4a6c223df80f960c4e19a2d9972f4af7938565cf",
             "path": "\\runtimes\\win-x86\\native\\WebView2Loader.dll",
             "url": "[host]\/[vision]\\runtimes\\win-x86\\native\\WebView2Loader.dll?[rand]"
         },
         {
+            "hash": "0b704211b6145b1addefdae42c5c28a10145e43945fe729ffa73b4581ccd0615",
             "path": "\\wordIcons\\ID_2228.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_2228.png?[rand]"
         },
         {
+            "hash": "1cf593f0b83f033aa65b8a96206e99ef9191f1a17484169e3c2c65ffe1f7d6ad",
             "path": "\\wordIcons\\ID_about.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_about.png?[rand]"
         },
         {
+            "hash": "e3ededee97fe45676a68816278d7a831b03779e3d320ec54a51df882d2c5e7e5",
             "path": "\\wordIcons\\ID_AES.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_AES.png?[rand]"
         },
         {
+            "hash": "437a1f1237afef08757ef3042c0e83fb32a6c22ef6abad8e64ba11c88cab063a",
             "path": "\\wordIcons\\ID_auto2.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_auto2.png?[rand]"
         },
         {
+            "hash": "b0827f04a477608299e3b4264deb4ed790dcef5e89d94bc32842cc852e896515",
             "path": "\\wordIcons\\ID_baocun.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_baocun.png?[rand]"
         },
         {
+            "hash": "f3ddfa94aa99c43225e32a638de03190bf798794f1b29c42aee6f4ccaac4bb4f",
             "path": "\\wordIcons\\ID_bianju.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_bianju.png?[rand]"
         },
         {
+            "hash": "721c7c570b12ad6e0256454468a12d144430afde6052d644285c7206cc652f39",
             "path": "\\wordIcons\\ID_biaoge_1.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_1.png?[rand]"
         },
         {
+            "hash": "89c7594495679c781331a4db0336a24a73b893e458d3b28df2473f93720083d6",
             "path": "\\wordIcons\\ID_biaoge_2.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_2.png?[rand]"
         },
         {
+            "hash": "a36017ac51735565b209f5fd0042462707d04ae24a0283847cd127da05d6b115",
             "path": "\\wordIcons\\ID_biaoge_3.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_3.png?[rand]"
         },
         {
+            "hash": "89c7594495679c781331a4db0336a24a73b893e458d3b28df2473f93720083d6",
             "path": "\\wordIcons\\ID_biaoge_7.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_7.png?[rand]"
         },
         {
+            "hash": "124ec0798f75bbdf905fb48c1dd4d6e60bbcb5e626518840bd840f9cad3cf0a6",
             "path": "\\wordIcons\\ID_biaoge_jisuan.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_jisuan.png?[rand]"
         },
         {
+            "hash": "16e2bf692d99731a979c60fa66264aecc47d2f8a02e40141fc63f40e50d7c25b",
             "path": "\\wordIcons\\ID_chemistry.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_chemistry.png?[rand]"
         },
         {
+            "hash": "24f62644048259efbc3dd0a069bc0c7328ae68f60c102feb45cb8bed98517ea2",
             "path": "\\wordIcons\\ID_code.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_code.png?[rand]"
         },
         {
+            "hash": "9f4ece108df1c045ac8fa7d155fb3690a31d5a30c447827f3dc9fa709406ec2b",
             "path": "\\wordIcons\\ID_document.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_document.png?[rand]"
         },
         {
+            "hash": "271cb030b6b9a971082cc92ca54b4935e8d4ccb441ff2bc03353fbecf183277b",
             "path": "\\wordIcons\\ID_fanyi.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_fanyi.png?[rand]"
         },
         {
+            "hash": "874975b79bc4d7c95a8e43f9251ff608b64a51a576577851de77e335080d5ad9",
             "path": "\\wordIcons\\ID_fuhao.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_fuhao.png?[rand]"
         },
         {
+            "hash": "4326d689182576053fb96fc43d03101533e9da675d7eef40870905e0295497aa",
             "path": "\\wordIcons\\ID_GONGWENBUJIAN.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_GONGWENBUJIAN.png?[rand]"
         },
         {
+            "hash": "9719a76c2675fddcf9b5ebbaeeb4387f2ed1206bb9b77c8cd006791e89a0a040",
             "path": "\\wordIcons\\ID_h.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_h.png?[rand]"
         },
         {
+            "hash": "d982d1688f656bf2ab2af17c14fbf9346011934e7781446c44f03b8f2dd77051",
             "path": "\\wordIcons\\ID_h1.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_h1.png?[rand]"
         },
         {
+            "hash": "e23ac7dab0e86272164b7cc8d2b03a5b56c8df5f5a2769b50e5c3b31307b2ba8",
             "path": "\\wordIcons\\ID_h2.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_h2.png?[rand]"
         },
         {
+            "hash": "ea48708306dd53f26af0bf03b4330811e954a49a42e2558e4a35721423291d78",
             "path": "\\wordIcons\\ID_h3.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_h3.png?[rand]"
         },
         {
+            "hash": "15bde04ebf2912cda913f9d17d6bc6c35d5d84a547177cd17e6b21439336f41e",
             "path": "\\wordIcons\\ID_hh.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_hh.png?[rand]"
         },
         {
+            "hash": "53c29355d94d7fde0d3a093e80ba5aee683a8a9b3237239e1d0b3a946f23fe4d",
             "path": "\\wordIcons\\ID_h_downgrade.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_h_downgrade.png?[rand]"
         },
         {
+            "hash": "a31b2ae22a3c33cbcf1e3add0d4d15bd5a52aed02c42a49669e9dc11a9075761",
             "path": "\\wordIcons\\ID_h_repair.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_h_repair.png?[rand]"
         },
         {
+            "hash": "bb978c6ea065a638ff1a2b32744620d2fb210948889f8a848188f87e16468e32",
             "path": "\\wordIcons\\ID_h_upgrade.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_h_upgrade.png?[rand]"
         },
         {
+            "hash": "b34d8d5467cde8b8fc9a4c7180d9c1cc040d4d9de77c814613439cdd559374f2",
             "path": "\\wordIcons\\ID_insertdanwei.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_insertdanwei.png?[rand]"
         },
         {
+            "hash": "c3ffe5fd226f30faecda1a5f2b8a79057410190c45685ab238620d0a5804b35f",
             "path": "\\wordIcons\\ID_insertdate.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_insertdate.png?[rand]"
         },
         {
+            "hash": "a81e7a3ad898a08407f42c4ec98f8c58b53cb8b628116f418ca5d60374bd92e8",
             "path": "\\wordIcons\\ID_jiami.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiami.png?[rand]"
         },
         {
+            "hash": "63528d57ba1f6865fb6b21ba788b4216380016f31ad7ee3050b12c52baae2fad",
             "path": "\\wordIcons\\ID_jiaoshi_1.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_1.png?[rand]"
         },
         {
+            "hash": "0b24eb7955270a79167c78968caef95b74441ca5cecdda85f706cf0bd73e9a82",
             "path": "\\wordIcons\\ID_jiaoshi_2.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_2.png?[rand]"
         },
         {
+            "hash": "1f9a5f79cf1b90b7c92155d214ea86ab40edd7b7994a36e8180ee3bbed7791b8",
             "path": "\\wordIcons\\ID_jiaoshi_4.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_4.png?[rand]"
         },
         {
+            "hash": "95318f6d86964fd71eabda85f1362b38a28802b7e5d388eab2d10f7b2880423e",
             "path": "\\wordIcons\\ID_jiaoshi_5.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_5.png?[rand]"
         },
         {
+            "hash": "cf6a660a4db360fe52198f60440f55940b71616f0e8e9299b4ff569c0940ae96",
             "path": "\\wordIcons\\ID_jiaoshi_bujian.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_bujian.png?[rand]"
         },
         {
+            "hash": "800250097c642bfea3f5b16e284e397e5e459aab1282902a2d369fdedac67036",
             "path": "\\wordIcons\\ID_jiaoshi_pinyin.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_pinyin.png?[rand]"
         },
         {
+            "hash": "547600aa25ee780968805a02387a9bb6d50f770a3a1d1dd20a00ace4a55a33a1",
             "path": "\\wordIcons\\ID_jiouyema.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiouyema.png?[rand]"
         },
         {
+            "hash": "20f581cb847a543e10a5f6f8b9de4e653d26f5fd819eca2c3c966b5d9a6908c9",
             "path": "\\wordIcons\\ID_NAV.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_NAV.png?[rand]"
         },
         {
+            "hash": "6a6bec90011b5a46ad7cd17e42f3df0f17e000c461cbd619bce904aac65f8f6d",
             "path": "\\wordIcons\\ID_nav_1.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_nav_1.png?[rand]"
         },
         {
+            "hash": "a05cceb2c27d3868f597eec5cac87aa08ebd861cc8328b69a6848c7ebace1eac",
             "path": "\\wordIcons\\ID_nav_2.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_nav_2.png?[rand]"
         },
         {
+            "hash": "5552fd2bdd88085754e4ef9e798a5cd07575d0327307ab3112c6def1162d7cf0",
             "path": "\\wordIcons\\ID_nav_3.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_nav_3.png?[rand]"
         },
         {
+            "hash": "ed81ef2388c4ce40f493d3858faa61a7ab83904fc0a42344d4b47b3fe2e699fd",
             "path": "\\wordIcons\\ID_network.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_network.png?[rand]"
         },
         {
+            "hash": "27122f406804d35d87541a1dd590ae51727672baf6f2b640700323df92969fea",
             "path": "\\wordIcons\\ID_ocr.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_ocr.png?[rand]"
         },
         {
+            "hash": "04f7b79f2351ad42734f956ab292511af8059ebc2f1cb904c06b8bcc6f9fd713",
             "path": "\\wordIcons\\ID_p.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_p.png?[rand]"
         },
         {
+            "hash": "4eac13162cc87e088b51c58f227cd242dca1575806fc5c94c482f65b87bc396e",
             "path": "\\wordIcons\\ID_pozhidu.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_pozhidu.png?[rand]"
         },
         {
+            "hash": "728d442e5dc71242c2897f45a7fb4daccc967e74debcb605814ccc7025e650e2",
             "path": "\\wordIcons\\ID_renyiyema.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_renyiyema.png?[rand]"
         },
         {
+            "hash": "1a00addfa51d097a42997075375e11377be96902e83d9f636a70e2d130043b82",
             "path": "\\wordIcons\\ID_Resource.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_Resource.png?[rand]"
         },
         {
+            "hash": "30cf170358d43693ce0e2e00a9b58901544953bb7fb35e5de1a3c5c15c03f9f8",
             "path": "\\wordIcons\\ID_setting.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_setting.png?[rand]"
         },
         {
+            "hash": "25669f40a35136b110bd04d76cd0a110de25bffcad1dfd31240f9936aa8d41d6",
             "path": "\\wordIcons\\ID_setting2.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_setting2.png?[rand]"
         },
         {
+            "hash": "d3e4b8d1c93ae878e818c5dd5e9e20f64b1bf990f153aa480530049b581e7012",
             "path": "\\wordIcons\\ID_shanchu.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_shanchu.png?[rand]"
         },
         {
+            "hash": "1b7a56ada6c7718572f3ea2071db57fd0801835602d94adf15c30460f77c5297",
             "path": "\\wordIcons\\ID_shouxie.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_shouxie.png?[rand]"
         },
         {
+            "hash": "3fcabff3ad558b75390ae30e32c2e589e0312c89899acecb420b0769953dddd3",
             "path": "\\wordIcons\\ID_speech.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_speech.png?[rand]"
         },
         {
+            "hash": "56b9d072ecc7f02877adebff334120b2f9a614adf55b33049732916e4f124521",
             "path": "\\wordIcons\\ID_superreplace.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_superreplace.png?[rand]"
         },
         {
+            "hash": "24c3ccc48fe4a5919ab82a61436ac38bc5f6f67ed62b466d2d55536bab2259dc",
             "path": "\\wordIcons\\ID_SYSTEM.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_SYSTEM.png?[rand]"
         },
         {
+            "hash": "ed48c725c6bf624df12e7c2f544389ecc2506505fe431e8c1975868869c8bd90",
             "path": "\\wordIcons\\ID_TABLE.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_TABLE.png?[rand]"
         },
         {
+            "hash": "d610b8106dbb23a3f921935846d2264176ca768739759b628a7c86e24bbe51d8",
             "path": "\\wordIcons\\ID_tagzuo.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_tagzuo.png?[rand]"
         },
         {
+            "hash": "ded01143ec86cb2dfb7ee3e26e302749591b26f0aba10a62e6ad63cdd6f47464",
             "path": "\\wordIcons\\ID_talk.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_talk.png?[rand]"
         },
         {
+            "hash": "2ef3eca9359bc901fdb2dfdfa62f529d420459cddbfa1fd8905611723c585a1a",
             "path": "\\wordIcons\\ID_TEACHER.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_TEACHER.png?[rand]"
         },
         {
+            "hash": "1ad0ff3212f3aacfdcec3200c2dfdc431c073dc3cdc4b830f1ac4b026aaf08ff",
             "path": "\\wordIcons\\ID_ticiqi.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_ticiqi.png?[rand]"
         },
         {
+            "hash": "56b9d072ecc7f02877adebff334120b2f9a614adf55b33049732916e4f124521",
             "path": "\\wordIcons\\ID_tihuan.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_tihuan.png?[rand]"
         },
         {
+            "hash": "0ad2db8adb8d9ee0b8bdec036bc5d3b6583452d767baa1cc52c061fa6565b4b8",
             "path": "\\wordIcons\\ID_tupian.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_tupian.png?[rand]"
         },
         {
+            "hash": "1aaa5dacc2510c3f9e72b6a5c573f31c1c79629b09f0579547de882221e83d5a",
             "path": "\\wordIcons\\ID_user.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_user.png?[rand]"
         },
         {
+            "hash": "9488e96ed99a2500bede066bebbb1f192c4cfff3af7a8023947194c5adf7912a",
             "path": "\\wordIcons\\ID_vbas.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_vbas.png?[rand]"
         },
         {
+            "hash": "e56155eebebc37e31f256afa8fc759351c86142cf813bd2c94413c18a563da9b",
             "path": "\\wordIcons\\ID_waci.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_waci.png?[rand]"
         },
         {
+            "hash": "a2fde48c6e2b1c607cbc435af6267d605fc92ffe88f91ba3d803974298564b73",
             "path": "\\wordIcons\\ID_weibu.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_weibu.png?[rand]"
         },
         {
+            "hash": "2d4d2d3184101b6e22973580ecc71e6c3baed5164dc9500c4c774d9b5f9c3fe2",
             "path": "\\wordIcons\\ID_WOW.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_WOW.png?[rand]"
         },
         {
+            "hash": "c7b77d8f40c5622bbab95034606fa5a6c2a405ef0d272e84081f60138c30278a",
             "path": "\\wordIcons\\ID_yemian.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_yemian.png?[rand]"
         },
         {
+            "hash": "b14da545d5160e28836fc7aba3b1ece13ae2ee0eb2e0cef2cc296b23d7ecb306",
             "path": "\\wordIcons\\ID_ZhiNengXieZuo.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_ZhiNengXieZuo.png?[rand]"
         },
         {
+            "hash": "40b6521741205694e37cea952d3781b7ae13b84a008b50d58556fff0425c6c3f",
             "path": "\\x64\\Microsoft.CognitiveServices.Speech.core.dll",
             "url": "[host]\/[vision]\\x64\\Microsoft.CognitiveServices.Speech.core.dll?[rand]"
         },
         {
+            "hash": "5055c7cc3d19a1c8313f4dd3cfb8f32a6dac217ad4fc1f2fac1790cf6f2d39d2",
             "path": "\\x64\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll",
             "url": "[host]\/[vision]\\x64\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll?[rand]"
         },
         {
+            "hash": "73d4340b82e1a206a57f1574aff46fc3f6a6b87eaddbebf569b5b4cc227d5c19",
             "path": "\\x86\\Microsoft.CognitiveServices.Speech.core.dll",
             "url": "[host]\/[vision]\\x86\\Microsoft.CognitiveServices.Speech.core.dll?[rand]"
         },
         {
+            "hash": "44afcbe3280c597967accf638f492574ad30f9ba35e469a87e9414cabb3ceaca",
             "path": "\\x86\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll",
             "url": "[host]\/[vision]\\x86\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll?[rand]"
         },
         {
+            "hash": "1cf593f0b83f033aa65b8a96206e99ef9191f1a17484169e3c2c65ffe1f7d6ad",
+            "path": "\\xlsIcons\\ID_about.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_about.png?[rand]"
+        },
+        {
+            "hash": "b0827f04a477608299e3b4264deb4ed790dcef5e89d94bc32842cc852e896515",
+            "path": "\\xlsIcons\\ID_baocun.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_baocun.png?[rand]"
+        },
+        {
+            "hash": "b24eb52f0e435e7774ffc4d5fae3f22d38d8f4543deaf57a755b2d4735b0fbdf",
+            "path": "\\xlsIcons\\ID_cardid.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_cardid.png?[rand]"
+        },
+        {
+            "hash": "af616a19ea815e9222df0d4e4b78cc1bf1e29aa33f2f57d82b63a5b406414311",
+            "path": "\\xlsIcons\\ID_coushu.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_coushu.png?[rand]"
+        },
+        {
+            "hash": "78740e5577b0c71a33912c285ceb03b7e628a91c84da0416f782b1e831994121",
+            "path": "\\xlsIcons\\ID_datamerge.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_datamerge.png?[rand]"
+        },
+        {
+            "hash": "1df0697fc9ebf0fa8de589b3a61a673095f860598b40435d3747f6f9ac045233",
+            "path": "\\xlsIcons\\ID_gantetu.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_gantetu.png?[rand]"
+        },
+        {
+            "hash": "6bf9b2d15c217b21a53fb507eb3f78a20fe9741353796277b2647aff6f35ad52",
+            "path": "\\xlsIcons\\ID_gongzitiao.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_gongzitiao.png?[rand]"
+        },
+        {
+            "hash": "5bbd446f68ebfb7ee79f0992384a8f4af19d654b224efb6565dd56ee5c1196f2",
+            "path": "\\xlsIcons\\ID_hanshu.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_hanshu.png?[rand]"
+        },
+        {
+            "hash": "a81e7a3ad898a08407f42c4ec98f8c58b53cb8b628116f418ca5d60374bd92e8",
+            "path": "\\xlsIcons\\ID_jiami.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_jiami.png?[rand]"
+        },
+        {
+            "hash": "51f82d1c9c94304c2c722d303779636c602074008cbbdc189bf0a537598d94ca",
+            "path": "\\xlsIcons\\ID_jindutiao.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_jindutiao.png?[rand]"
+        },
+        {
+            "hash": "822017e913d8899c6f9e6bc55e5ef4bffb67fdf3026c7ebd3c65236644d1693f",
+            "path": "\\xlsIcons\\ID_juguangdeng.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_juguangdeng.png?[rand]"
+        },
+        {
+            "hash": "a36017ac51735565b209f5fd0042462707d04ae24a0283847cd127da05d6b115",
+            "path": "\\xlsIcons\\ID_MakeSheet.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_MakeSheet.png?[rand]"
+        },
+        {
+            "hash": "20f581cb847a543e10a5f6f8b9de4e653d26f5fd819eca2c3c966b5d9a6908c9",
+            "path": "\\xlsIcons\\ID_NAV.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_NAV.png?[rand]"
+        },
+        {
+            "hash": "6a6bec90011b5a46ad7cd17e42f3df0f17e000c461cbd619bce904aac65f8f6d",
+            "path": "\\xlsIcons\\ID_nav_1.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_nav_1.png?[rand]"
+        },
+        {
+            "hash": "a05cceb2c27d3868f597eec5cac87aa08ebd861cc8328b69a6848c7ebace1eac",
+            "path": "\\xlsIcons\\ID_nav_2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_nav_2.png?[rand]"
+        },
+        {
+            "hash": "5552fd2bdd88085754e4ef9e798a5cd07575d0327307ab3112c6def1162d7cf0",
+            "path": "\\xlsIcons\\ID_nav_3.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_nav_3.png?[rand]"
+        },
+        {
+            "hash": "ed81ef2388c4ce40f493d3858faa61a7ab83904fc0a42344d4b47b3fe2e699fd",
+            "path": "\\xlsIcons\\ID_network.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_network.png?[rand]"
+        },
+        {
+            "hash": "27122f406804d35d87541a1dd590ae51727672baf6f2b640700323df92969fea",
+            "path": "\\xlsIcons\\ID_ocr.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_ocr.png?[rand]"
+        },
+        {
+            "hash": "4eac13162cc87e088b51c58f227cd242dca1575806fc5c94c482f65b87bc396e",
+            "path": "\\xlsIcons\\ID_pozhidu.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_pozhidu.png?[rand]"
+        },
+        {
+            "hash": "f5176219301cc4973e4bc13d25080973873ad0c28f91f7e533a910bd103ee455",
+            "path": "\\xlsIcons\\ID_qr_box.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_qr_box.png?[rand]"
+        },
+        {
+            "hash": "1a00addfa51d097a42997075375e11377be96902e83d9f636a70e2d130043b82",
+            "path": "\\xlsIcons\\ID_Resource.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_Resource.png?[rand]"
+        },
+        {
+            "hash": "b735476b70cb19c2fccb3231486db701cbbfbb01faf9d9f33e480649c10822d9",
+            "path": "\\xlsIcons\\ID_score.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_score.png?[rand]"
+        },
+        {
+            "hash": "30cf170358d43693ce0e2e00a9b58901544953bb7fb35e5de1a3c5c15c03f9f8",
+            "path": "\\xlsIcons\\ID_setting.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_setting.png?[rand]"
+        },
+        {
+            "hash": "25669f40a35136b110bd04d76cd0a110de25bffcad1dfd31240f9936aa8d41d6",
+            "path": "\\xlsIcons\\ID_setting2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_setting2.png?[rand]"
+        },
+        {
+            "hash": "d3e4b8d1c93ae878e818c5dd5e9e20f64b1bf990f153aa480530049b581e7012",
+            "path": "\\xlsIcons\\ID_shanchu.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu.png?[rand]"
+        },
+        {
+            "hash": "43769fdf58a564487aa2bb1dea3c4d7505b3f8a5656ba1afe1db60dfe974b824",
+            "path": "\\xlsIcons\\ID_sheet2xls.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_sheet2xls.png?[rand]"
+        },
+        {
+            "hash": "8af30cd740688097f70fed73f726425fe1a25090b680efe16354654fd2c9a1e4",
+            "path": "\\xlsIcons\\ID_sheetshaixuan.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_sheetshaixuan.png?[rand]"
+        },
+        {
+            "hash": "2adc7b5ea047d8af501af168c842461fd8c9886c7a33e0856d44258e358838b2",
+            "path": "\\xlsIcons\\ID_sheetsmerge.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_sheetsmerge.png?[rand]"
+        },
+        {
+            "hash": "1618ae2a262d1cfc7b813db67f4e2adeb7499c02079aaadf8bb40de6cbe0cb18",
+            "path": "\\xlsIcons\\ID_sheetsplit.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_sheetsplit.png?[rand]"
+        },
+        {
+            "hash": "1ad0ff3212f3aacfdcec3200c2dfdc431c073dc3cdc4b830f1ac4b026aaf08ff",
+            "path": "\\xlsIcons\\ID_shu2wen.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shu2wen.png?[rand]"
+        },
+        {
+            "hash": "b523e713d1fe17ef4bb0deb9489dd8eb2a708cc9bdf026fd23a21f8b059b5408",
+            "path": "\\xlsIcons\\ID_splitcell.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_splitcell.png?[rand]"
+        },
+        {
+            "hash": "6259528c97f1a15c018fa304ed473e052722e974d329411beafa065d2643b3c7",
+            "path": "\\xlsIcons\\ID_suiji.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_suiji.png?[rand]"
+        },
+        {
+            "hash": "ded01143ec86cb2dfb7ee3e26e302749591b26f0aba10a62e6ad63cdd6f47464",
+            "path": "\\xlsIcons\\ID_talk.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_talk.png?[rand]"
+        },
+        {
+            "hash": "968d19b97d4fb3d492ae745cf50786f14faf17a1659df65539584f9f76c9c138",
+            "path": "\\xlsIcons\\ID_totemplate.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_totemplate.png?[rand]"
+        },
+        {
+            "hash": "1aaa5dacc2510c3f9e72b6a5c573f31c1c79629b09f0579547de882221e83d5a",
+            "path": "\\xlsIcons\\ID_user.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_user.png?[rand]"
+        },
+        {
+            "hash": "9488e96ed99a2500bede066bebbb1f192c4cfff3af7a8023947194c5adf7912a",
+            "path": "\\xlsIcons\\ID_vbas.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_vbas.png?[rand]"
+        },
+        {
+            "hash": "c7a4e1de5aea59ad9fc87ef6c34fd0c006d0beffc81b4d91e8c7b70211257b56",
+            "path": "\\xlsIcons\\ID_wen2shu.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_wen2shu.png?[rand]"
+        },
+        {
+            "hash": "054187e4492a6b33d899a81b6b695cd1723e92a68d7a9a2b07426e8ac2becdc9",
+            "path": "\\xlsIcons\\ID_xls_copy.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_xls_copy.png?[rand]"
+        },
+        {
+            "hash": "1618ae2a262d1cfc7b813db67f4e2adeb7499c02079aaadf8bb40de6cbe0cb18",
+            "path": "\\xlsIcons\\ID_xls_gehangtianse.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_xls_gehangtianse.png?[rand]"
+        },
+        {
+            "hash": "7000e2da1cdc9fdb351590fc48868fe10ad3380aebd71f1614718cf677ca83ec",
+            "path": "\\xlsIcons\\ID_xls_micromsg.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_xls_micromsg.png?[rand]"
+        },
+        {
+            "hash": "6d73e79718a98650d04b67333a400e5819a0fc0cd71cce5adcba92860fa22369",
+            "path": "\\xlsIcons\\ID_xls_msgout.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_xls_msgout.png?[rand]"
+        },
+        {
+            "hash": "fb0c4637ab024badcaae2cb6e2d7aab8ca970c44e0a7ce6bf508f674c1f260a4",
+            "path": "\\xlsIcons\\ID_xls_search.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_xls_search.png?[rand]"
+        },
+        {
+            "hash": "8e4ec4cdb4647a3a6782058c155132823daa0ea32a8adf294334192b3236b2b3",
+            "path": "\\xlsIcons\\ID_xls_teacher_fenban.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_xls_teacher_fenban.png?[rand]"
+        },
+        {
+            "hash": "9b1f11a351a94a4006e192a8f77c89f9a3dde07407ce0036bee80c4f882f5361",
+            "path": "\\xlsIcons\\ID_zhuanzhi.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_zhuanzhi.png?[rand]"
+        },
+        {
+            "hash": "97cce842839988ecd2a20cd8a0272f350aed78b7dc4c197335bc9581910476b4",
+            "path": "\\xlsIcons\\ID_zhuzhuangtu.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_zhuzhuangtu.png?[rand]"
+        },
+        {
+            "hash": "be69a40b68098d22b5c385ce4531e21ebb1738fcc990fb098d5d845bbfbb7ac8",
             "path": "\\zh-CN\\Library.resources.dll",
             "url": "[host]\/[vision]\\zh-CN\\Library.resources.dll?[rand]"
         }
