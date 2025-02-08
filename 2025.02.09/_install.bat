@@ -108,7 +108,7 @@ reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\B
 reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BKOFfice2025" /v "Publisher" /t REG_SZ /d "≤ªø”¿œ ¶" /f
 reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BKOFfice2025" /v "UninstallString" /t REG_SZ /d %~dp0_uninstall.bat /f
 reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BKOFfice2025" /v "InstallLocation" /t REG_SZ /d %~dp0 /f
-reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BKOFfice2025" /v "DisplayVersion" /t REG_SZ /d "2024.1022" /f
+reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BKOFfice2025" /v "DisplayVersion" /t REG_SZ /d "2025.02.09" /f
 reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BKOFfice2025" /v "EstimatedSize" /t REG_DWORD /d "28045" /f
 reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BKOFfice2025" /v "URLInfoAbout" /t REG_SZ /d "https://www.bukenghezi.com" /f
 
