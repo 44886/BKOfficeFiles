@@ -24,52 +24,47 @@
             "url": "[host]\/[vision]\\BKOffice.exe.config?[rand]"
         },
         {
-            "hash": "ded95695fe4f18741100f5bfc4e06632dd836848be53f5338ee433636dc58ee5",
+            "hash": "3863216f0e2e70fcf57f6ab9cc274e3fd022e65e7c21d1cbbed8341a12c8be33",
             "path": "\\BKOffice2025.Excel.dll",
             "url": "[host]\/[vision]\\BKOffice2025.Excel.dll?[rand]"
         },
         {
-            "hash": "acf7214e2af2cbf84e843dd9776d74041cb9a083477108fcdd5e5a9ef6ee82ae",
-            "path": "\\BKOffice2025.Excel.dll.config",
-            "url": "[host]\/[vision]\\BKOffice2025.Excel.dll.config?[rand]"
-        },
-        {
-            "hash": "1c4eadc17acb5f9467bede8eb06e348bd139573687faed843983c1dcb4844b06",
+            "hash": "4251b9bff75977cfca9fec743301dd4be08d0dedf9ff55eab140e0aee199f8a1",
             "path": "\\BKOffice2025.Excel.dll.manifest",
             "url": "[host]\/[vision]\\BKOffice2025.Excel.dll.manifest?[rand]"
         },
         {
-            "hash": "702536d2bc62485ca2c75b156bab7d311b6d47e884fef15b170249a9c4d53056",
+            "hash": "2b5b4294ebdecd937dbf50acb3b1040931c001e8a01c5e2e7f759a1202b9dd59",
             "path": "\\BKOffice2025.Excel.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.Excel.vsto?[rand]"
         },
         {
-            "hash": "7bd377d3ed4fe660a99a0707dd89df9a016cb6e486cd572c4e26ca2b37125a73",
+            "hash": "b02bfa2a8ab133e1a55503f92dce90edc9a03cb68dd561b821194f419e76b6d3",
             "path": "\\BKOffice2025.PPT.dll",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.dll?[rand]"
         },
         {
-            "hash": "6a8a57809131f02f2c385937f061f1fd3b27a28cc722b06ad8066234eab22774",
+            "hash": "84b36588d9ce34a7f3e7833aedf2a6f31850a8df7e44259d69f4ebf13874dc8a",
             "path": "\\BKOffice2025.PPT.dll.manifest",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.dll.manifest?[rand]"
         },
         {
-            "hash": "c20bbf3076ddbed9f6da1e5193466c4b34a45a123c72045c08a2f7f24e5916f1",
+            "hash": "0cc2971f947bd0509e686be6e8689c3aa20827cac205a00a3c45bd56417ab5c2",
             "path": "\\BKOffice2025.PPT.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.vsto?[rand]"
         },
         {
-            "hash": "0d20b8be7756492e1bf1a919d49d6aefcf9f170b0433117a10410dabcbf3baa2",
+            "hash": "71cc6f5741e8ddfeb1c764130c028c7584d0f5d98b6d2be46a1948145e4cb06d",
             "path": "\\BKOffice2025.Word.dll",
             "url": "[host]\/[vision]\\BKOffice2025.Word.dll?[rand]"
         },
         {
-            "hash": "bbcb254606ab8a9e376876c388f4dca8906fc4a934974154d53af12ae105ea04",
+            "hash": "ed630fdc7270627ef26d7990fb0c53008f77c5baddb9890cd7bbe623dc09af24",
             "path": "\\BKOffice2025.Word.dll.manifest",
             "url": "[host]\/[vision]\\BKOffice2025.Word.dll.manifest?[rand]"
         },
         {
-            "hash": "c3a2e9302053aebc0af3a3eecee79e404caa04c732a92caf79dbb71cd6ed4d3f",
+            "hash": "a25a838c63fd15e2a6bbcbd87455172579e0766d09ee571e8af6d02b6806f694",
             "path": "\\BKOffice2025.Word.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.Word.vsto?[rand]"
         },
@@ -114,6 +109,11 @@
             "url": "[host]\/[vision]\\BKWebView.exe?[rand]"
         },
         {
+            "hash": "c4fed96ed766ba037d898834f492bbd5420972a12e57183c75152877e8a51697",
+            "path": "\\error.log",
+            "url": "[host]\/[vision]\\error.log?[rand]"
+        },
+        {
             "hash": "cb7a00483b356751e4722471b770294be03aec809d4af7a7a0b2dc1fca289937",
             "path": "\\Fleck.dll",
             "url": "[host]\/[vision]\\Fleck.dll?[rand]"
@@ -124,7 +124,7 @@
             "url": "[host]\/[vision]\\HotkeyListener.dll?[rand]"
         },
         {
-            "hash": "a9d507cac2b06e718352b31503acc08dc753b87a2e26977c8972943a2fbb7e63",
+            "hash": "3339cfe15f711cae6523c3c368b9e344f372736093290d53449efd0ba013f65e",
             "path": "\\Library.dll",
             "url": "[host]\/[vision]\\Library.dll?[rand]"
         },
@@ -357,6 +357,1481 @@
             "hash": "5b8933f9a9e0c347d48a1311b71fc0c9d808e2bb45f3ed8f3de0848ba13b5812",
             "path": "\\de\\PdfSharp.resources.dll",
             "url": "[host]\/[vision]\\de\\PdfSharp.resources.dll?[rand]"
+        },
+        {
+            "hash": "a49e9cd419b0327e62d2acb9c65165feeeab20bfeb22e1dfa61e1fa3ab14fd77",
+            "path": "\\EBWebView\\CrashpadMetrics-active.pma",
+            "url": "[host]\/[vision]\\EBWebView\\CrashpadMetrics-active.pma?[rand]"
+        },
+        {
+            "hash": "a49e9cd419b0327e62d2acb9c65165feeeab20bfeb22e1dfa61e1fa3ab14fd77",
+            "path": "\\EBWebView\\CrashpadMetrics.pma",
+            "url": "[host]\/[vision]\\EBWebView\\CrashpadMetrics.pma?[rand]"
+        },
+        {
+            "hash": "06205ebe5acf3073d12a4ac419377a3449e6d6b5fa7fa2b1c4201f007c4ddd91",
+            "path": "\\EBWebView\\Last Version",
+            "url": "[host]\/[vision]\\EBWebView\\Last Version?[rand]"
+        },
+        {
+            "hash": "9439c426599077367b2e59e7b517c9dc4978a4dfd79937bc3317e2a4970e52da",
+            "path": "\\EBWebView\\Local State",
+            "url": "[host]\/[vision]\\EBWebView\\Local State?[rand]"
+        },
+        {
+            "hash": "b26da4f8c7e283aa74386da0229d66af14a37986b8ca828e054fc932f68dd557",
+            "path": "\\EBWebView\\Variations",
+            "url": "[host]\/[vision]\\EBWebView\\Variations?[rand]"
+        },
+        {
+            "hash": "0e5b869dace3ee8e80d051b2a25d2d17c1762efd97fed39ef033038788106c51",
+            "path": "\\EBWebView\\BrowserMetrics\\BrowserMetrics-67A98541-50F4.pma",
+            "url": "[host]\/[vision]\\EBWebView\\BrowserMetrics\\BrowserMetrics-67A98541-50F4.pma?[rand]"
+        },
+        {
+            "hash": "b08cc41d73b143a5a2e436b9dc17ed7352e007eac11e28de00ecb7919c4d5a0c",
+            "path": "\\EBWebView\\BrowserMetrics\\BrowserMetrics-67A98639-A284.pma",
+            "url": "[host]\/[vision]\\EBWebView\\BrowserMetrics\\BrowserMetrics-67A98639-A284.pma?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Crashpad\\metadata",
+            "url": "[host]\/[vision]\\EBWebView\\Crashpad\\metadata?[rand]"
+        },
+        {
+            "hash": "47917d471722acb375299979416e72571239768a909b4964bfaa00237e593c15",
+            "path": "\\EBWebView\\Crashpad\\settings.dat",
+            "url": "[host]\/[vision]\\EBWebView\\Crashpad\\settings.dat?[rand]"
+        },
+        {
+            "hash": "41c91a9c93d76295746a149dce7ebb3b9ee2cb551d84365fff108e59a61cc304",
+            "path": "\\EBWebView\\Crashpad\\throttle_store.dat",
+            "url": "[host]\/[vision]\\EBWebView\\Crashpad\\throttle_store.dat?[rand]"
+        },
+        {
+            "hash": "aacdfbb279aae0517ca78d198d550bbc04e1b5b0743ef851cef84feadc344349",
+            "path": "\\EBWebView\\Default\\Favicons",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Favicons?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Favicons-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Favicons-journal?[rand]"
+        },
+        {
+            "hash": "f696a939dac844eae21cddfa7079f135a1b985ced871b76c3b8170e3f5fc9b57",
+            "path": "\\EBWebView\\Default\\History",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\History?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\History-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\History-journal?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\LOCK?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\LOG?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\LOG.old?[rand]"
+        },
+        {
+            "hash": "a5c1d3aad1ea6dfa8484d39b4b6239529889661a0a4d9643175df4d5915c7afa",
+            "path": "\\EBWebView\\Default\\Login Data",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Login Data?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Login Data-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Login Data-journal?[rand]"
+        },
+        {
+            "hash": "9bbf3acfa2692cd1820d0727be1dcdb5ff33c399d9a0b37fa6ef57ba2e99178e",
+            "path": "\\EBWebView\\Default\\Preferences",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Preferences?[rand]"
+        },
+        {
+            "hash": "a0c9abae18599f0a65fc654ad36251f6330794bea66b718a09d8b297f3e38e87",
+            "path": "\\EBWebView\\Default\\README",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\README?[rand]"
+        },
+        {
+            "hash": "dd37fd89a33394d5cbef9097cf88dc58ab8df891b9dc3e82776ad890f32f8129",
+            "path": "\\EBWebView\\Default\\Secure Preferences",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Secure Preferences?[rand]"
+        },
+        {
+            "hash": "1fe8f6113488865c546d2faa55b21482662ce4be19d4f505eeefa09bc3131489",
+            "path": "\\EBWebView\\Default\\SharedStorage",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\SharedStorage?[rand]"
+        },
+        {
+            "hash": "f3bdda3f8f61be42e023ed7a6663a61ea7d6219f48c7b3570773515152af7a4d",
+            "path": "\\EBWebView\\Default\\Visited Links",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Visited Links?[rand]"
+        },
+        {
+            "hash": "ee1702d534ffd85803fd4207a334ede51f93354a3383965ecb20166b7d87329a",
+            "path": "\\EBWebView\\Default\\Web Data",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Web Data?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Web Data-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Web Data-journal?[rand]"
+        },
+        {
+            "hash": "60411203c4c7121f358d5d2a1e7336467644c0399c6c4e0988e60f29b8da5ca9",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\data_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\data_0?[rand]"
+        },
+        {
+            "hash": "f504d0fed45cb3a7ee725886c0a21a3ac0a1e91d36a485804e60c1447469006d",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\data_1",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\data_1?[rand]"
+        },
+        {
+            "hash": "262924be22468046906a96abaf4a1d721144a8c0d3e2b44800e7b0ed6e7eff52",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\data_2",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\data_2?[rand]"
+        },
+        {
+            "hash": "de3b473fb664d852a83bc7401e09850373ff814a60682de2d8a5bccdf68e6183",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\data_3",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\data_3?[rand]"
+        },
+        {
+            "hash": "44ed80d966a969f58b43a0d0931f0d0daf4f6f1723c771f5d59e38ee702d471b",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000001?[rand]"
+        },
+        {
+            "hash": "f241fbc6553d663e0cdda0a6d20e38d0fbb6e14c55400edeb489bfc2312891e4",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000002",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000002?[rand]"
+        },
+        {
+            "hash": "9db72f4f322744b292adeae66d16550684950a68188fc2d0fed27632c66d71b2",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000003",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000003?[rand]"
+        },
+        {
+            "hash": "84c2cee9b7e50f707d3f41f11e9312be456da0512533fde8ac1c5b4073171e25",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000004",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000004?[rand]"
+        },
+        {
+            "hash": "3f217b438565d66b76535a8fd825d021c5d10385cdd24d72dbdd7328846422aa",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000005",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000005?[rand]"
+        },
+        {
+            "hash": "62410a9e3593f88ff1d90a627de4690d70c494bdc893afa7dbb92fcaac4b469e",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000006",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000006?[rand]"
+        },
+        {
+            "hash": "6a7db1b4d3247c47433c48b9c7160b725e5df460ecf124ef3ce7e60e018cee78",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000007",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000007?[rand]"
+        },
+        {
+            "hash": "659ef861bd96fae319f8dd1b686d89c84d9b169dff9600f30e8b195323f76003",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000008",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000008?[rand]"
+        },
+        {
+            "hash": "ff49603d6b2339474b9bb4966c860d9b1d840a97ec3e5b3159c8b39888eb5bd8",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000009",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000009?[rand]"
+        },
+        {
+            "hash": "f7f6670bfbf7b16ceb9b2ca9f5ff36f9f08ea52773627ce1df31592a57400438",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000a",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000a?[rand]"
+        },
+        {
+            "hash": "13b79a32927ceb9b020700ae278e3aebc41b3bbcf03daee58fda6b0e3dd1f56e",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000b",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000b?[rand]"
+        },
+        {
+            "hash": "81b0df71990f709c80b84d0907ffa9c694f4b12431f0bf02b3c2c55d5d6d0200",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000c",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000c?[rand]"
+        },
+        {
+            "hash": "d82697da5838e1ddab13014ab0249cb258c0791b9d4faf3b0e5c992afd616e3b",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000d",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000d?[rand]"
+        },
+        {
+            "hash": "362f5795b634c21cbb0a76b84c4b26ad38a109f074c1cd68e2ba334eb06debc1",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000e",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000e?[rand]"
+        },
+        {
+            "hash": "08dda57e327168f2a8a1ecef11a44a6dfca6ebb89d277600407cec38856b0e27",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000f",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00000f?[rand]"
+        },
+        {
+            "hash": "93a6eddf2bde8719c75c13c71051ebd18a415da720c3ad7795508f8605014938",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000010",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000010?[rand]"
+        },
+        {
+            "hash": "e84a66e0199378758f8ddf5556bf007db8ff7870714327745467fb0ca3bfc0bd",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000011",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000011?[rand]"
+        },
+        {
+            "hash": "53becf6410ad6c4a81d077a71d9eb1aeec60c811cea365a6fb8fb83211b6afdd",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000012",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000012?[rand]"
+        },
+        {
+            "hash": "9f342a8921d4fbbe87f9d589086cbfc87e4a4555d2f6f428f7f764a7c76bb4b1",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000013",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000013?[rand]"
+        },
+        {
+            "hash": "42fc9f4a0e5ceec38d20ccb89101b62b7ca73a72bdf7af823ca80c021039e5ff",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000014",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000014?[rand]"
+        },
+        {
+            "hash": "0548cf9fb38a5428d1e37bb070a188616323987540bc6e0f890ee718232a4a6a",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000015",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000015?[rand]"
+        },
+        {
+            "hash": "e45864a1939e027cfcedc5ffa25fdaf0112b4245c1d5f9b9fb372a67c3770767",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000016",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000016?[rand]"
+        },
+        {
+            "hash": "7e37589a99305ad82a3d76380089827c7d5a8133c727ad87ca0d109f8de448d6",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000017",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000017?[rand]"
+        },
+        {
+            "hash": "7f12c14cf9b8b28b0a8459a0e843187d0b1963faa1a07e653a547a9831ab64f5",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000018",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000018?[rand]"
+        },
+        {
+            "hash": "b79f69f8df1a691ddbbfef99d8f7e011e5b95777a6b132b1833c506f63fa0050",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000019",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000019?[rand]"
+        },
+        {
+            "hash": "3757573c8a892977292ac22159762ef6903724e423ebbedc1c643421b16ec18a",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001a",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001a?[rand]"
+        },
+        {
+            "hash": "567d4115472b8419d16cc7f2398c3073e93ddbff21a2a78b35ab597ee798355e",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001b",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001b?[rand]"
+        },
+        {
+            "hash": "f8ab505b6eceab3f6d8b660cdc7cc25649213c9f52a108716549ed0950ece5c9",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001c",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001c?[rand]"
+        },
+        {
+            "hash": "9dbad11aa11251f390a5ccb9cda19719668e4548e9d611768239dd9d74280950",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001d",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001d?[rand]"
+        },
+        {
+            "hash": "eaf655dcc00b384c3b6860f70aada1072be203f052dcf36a5adf1f9b57cbcf86",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001e",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001e?[rand]"
+        },
+        {
+            "hash": "f168ef9b518e7b9705f8fd96491cc55caa68c03626894c04bba59b798e85a893",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001f",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00001f?[rand]"
+        },
+        {
+            "hash": "7c3959d0d63ea6905c760557d6c26cbc015e6e8a71ae631361362fe40d499197",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000020",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000020?[rand]"
+        },
+        {
+            "hash": "8e7edf03593ea128964b823ab045d0f19ba3fbfc0beace533e9e85481bd6bcb7",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000021",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000021?[rand]"
+        },
+        {
+            "hash": "6373de009accec6ee1d3238c8daef0d4478fd1e15b6bebf642b67c47505173ab",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000022",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000022?[rand]"
+        },
+        {
+            "hash": "0ee79f5082bc8ddb2b17a81b8ebbcbab9f74f3b6a2d31b5593bac8f00456b5a9",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000023",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000023?[rand]"
+        },
+        {
+            "hash": "063d4c74151de367b1e9bf21963cf2f578d8ccead0e98f7b8d86714a5c7d0f43",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000024",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000024?[rand]"
+        },
+        {
+            "hash": "d2bf3a23833f23c65b432319eada63596f5c60cc46e0d14b694018d883b084c0",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000025",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000025?[rand]"
+        },
+        {
+            "hash": "127735cb8f138bc73a1ff3c4824c5c289a97acc3b465873649d013aa7468515e",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000026",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000026?[rand]"
+        },
+        {
+            "hash": "bd47b509c143c1963f75c401972cae44de745a198816ef25a0fb986db291f067",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000027",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000027?[rand]"
+        },
+        {
+            "hash": "6bd58067aae236ecd50db2edb1bca93ea3a7e2cb35aea030b5db434401fb1043",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000028",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000028?[rand]"
+        },
+        {
+            "hash": "c61088c008c909a99e66abeafb1858e425af3c16d4afd185001bfcc71a554706",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_000029",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_000029?[rand]"
+        },
+        {
+            "hash": "cdefc7e1f5a89b6ce3ea7e85952fdc8c1e1eab073bed4f00f7d7e37c2c43c8f3",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00002a",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00002a?[rand]"
+        },
+        {
+            "hash": "df054da82630d0e336f9a9bbd136e77086ba32457ff7adf116b6a206c7fd72ac",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00002b",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00002b?[rand]"
+        },
+        {
+            "hash": "a20583c81805fe64f7fa210851ce29754af9d25fd6aa5a3225a9557529602513",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\f_00002c",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\f_00002c?[rand]"
+        },
+        {
+            "hash": "59f4ebf2e7b355f520b474a6b18650cc2391d5e4e04e00c053af399d622e5cbf",
+            "path": "\\EBWebView\\Default\\Cache\\Cache_Data\\index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Cache\\Cache_Data\\index?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\ClientCertificates\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\ClientCertificates\\LOCK?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\ClientCertificates\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\ClientCertificates\\LOG?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\ClientCertificates\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\ClientCertificates\\LOG.old?[rand]"
+        },
+        {
+            "hash": "d69b8b38a7644140a13f13877d3f21e88043f378e51b072815afb1260091a247",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\0031e4d9a1ba92d4_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\0031e4d9a1ba92d4_0?[rand]"
+        },
+        {
+            "hash": "0e9eb506d46ea7f6fa5fccb63500eb4573170c68a3835a8243547293c93d1b08",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\02915ecee3ccc7e8_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\02915ecee3ccc7e8_0?[rand]"
+        },
+        {
+            "hash": "55e15370419bbafc61a975579e31ffdcde7970969169eb96e4e67f3520faf9b4",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\06a5d7a40b55aa29_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\06a5d7a40b55aa29_0?[rand]"
+        },
+        {
+            "hash": "b2f3265fa1b1d490055314c6bf1f2b5fb53ab19e34c631347188637ef8cd87a9",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\0a6ac240a371cd11_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\0a6ac240a371cd11_0?[rand]"
+        },
+        {
+            "hash": "3e2dc56ec6a3ace53710fa2c48ee41045301bc3b903109667bb2cdd393c1c1db",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\0bbf32f37ef12c04_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\0bbf32f37ef12c04_0?[rand]"
+        },
+        {
+            "hash": "7be4edd5ce492561dcd0435089428fe9ddbab5a28d658b657581cd90f0d96a89",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\0d419c165911a15e_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\0d419c165911a15e_0?[rand]"
+        },
+        {
+            "hash": "7ced40c26dd3e068cf789e001ef30b0f3b49ace232adf4d30f69eb7fa13975ed",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\0f5329bda094cf15_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\0f5329bda094cf15_0?[rand]"
+        },
+        {
+            "hash": "6d8b1ad67fb437b810e0db29fb7fdce1e858dd8c97b584a69b93578a73e44c9c",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\101e104f14ba3820_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\101e104f14ba3820_0?[rand]"
+        },
+        {
+            "hash": "de6fdc653c169c0efb49deac88e20acd92ebacfdf316d68c0e0d938f1afa81c1",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\102352dbe30bdb89_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\102352dbe30bdb89_0?[rand]"
+        },
+        {
+            "hash": "b09bcb206dc8551660b0eea3c56a17b0b20921757c60658c338c472c1f18c94c",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\12b8a70953298360_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\12b8a70953298360_0?[rand]"
+        },
+        {
+            "hash": "ee0045ff8e21581ba22b830d859dc819088759ccd03bb78380424eb7e20703d2",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\133e4515d2e9d9a2_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\133e4515d2e9d9a2_0?[rand]"
+        },
+        {
+            "hash": "70a5e414d521d446e0df296705b7f3f56e3e0b5cd78719f440fb190a750aff39",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\135ba346fb4f19a7_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\135ba346fb4f19a7_0?[rand]"
+        },
+        {
+            "hash": "28030bc079706e04e93ccf5a4e9a3678e10c958eac69b260e0dce0adcae91361",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\174ea90a7c3c3e85_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\174ea90a7c3c3e85_0?[rand]"
+        },
+        {
+            "hash": "41ff84638b2f1337866f466b16ac70121209bc0520a10d0f459c5b232c310cd5",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\1e53ad33943b95d0_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\1e53ad33943b95d0_0?[rand]"
+        },
+        {
+            "hash": "58b6264c342bdce023c0c2f44cf3c469cde592f8db75e932dec3c26b0bc9a35c",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\1e53b24d42c9b2f2_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\1e53b24d42c9b2f2_0?[rand]"
+        },
+        {
+            "hash": "212149b20f7a27d11b5b3ecda54cf9571b8a28b6f2046b181c7d6c981a559e61",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\1f41c30a8cb63ff4_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\1f41c30a8cb63ff4_0?[rand]"
+        },
+        {
+            "hash": "802383c4da1df5c74506580e17cd49cedddf821a41d05adb6e519dc2d42f032e",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\2af393d73f1be46c_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\2af393d73f1be46c_0?[rand]"
+        },
+        {
+            "hash": "49df3012838fc2e1c31a471efc19ebc9ba9c5fa5f7275a19b770fe59c0c73fc3",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\2e5c3ae58be97b26_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\2e5c3ae58be97b26_0?[rand]"
+        },
+        {
+            "hash": "ec5a7aa9497e48c4d8dded313fc8bfec053c437771ae7a875a2edc66ea594bf5",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\2edc6e84339c6bcb_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\2edc6e84339c6bcb_0?[rand]"
+        },
+        {
+            "hash": "7100a4a333d6c13cfa4f888ad55ed7ab86435551ef82927a765ee1628f9c7dbe",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\2f42b039f1ad6c1c_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\2f42b039f1ad6c1c_0?[rand]"
+        },
+        {
+            "hash": "bf9995cc9ef80637de90b511f4a20b8a519b608a293b414e8c9547c716d99480",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\359eeee43e95953b_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\359eeee43e95953b_0?[rand]"
+        },
+        {
+            "hash": "b4aca5833dc3e16b1a4e8d09803fa30d3cec6a656fc4493e32d4c5f09e50a99c",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\35c59e60cebac204_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\35c59e60cebac204_0?[rand]"
+        },
+        {
+            "hash": "6a4bdfda7782239c6b5ff211dafb33d6e6a558433883fcf2aa0d5dbea0b09b8c",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\362d6c29ad6b83b3_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\362d6c29ad6b83b3_0?[rand]"
+        },
+        {
+            "hash": "291cd826f98f91915df56ef099d8858a817307663a90a10d13fffcc7f2c7c82a",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\3b6cd7ce68b04b55_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\3b6cd7ce68b04b55_0?[rand]"
+        },
+        {
+            "hash": "d9deefb32574d2d1ddc8c9f0d3830fdf23bcc437b9cf972ea0437e8b1b85a95f",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\3b7d73746805b8b7_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\3b7d73746805b8b7_0?[rand]"
+        },
+        {
+            "hash": "ff3220c2073042c83de674545de4f17da1da94021d35d1e2c1bde5039f64ddf7",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\41089ca50b82af9c_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\41089ca50b82af9c_0?[rand]"
+        },
+        {
+            "hash": "04112270238ceeba15d84d2a5c85a9840e603c7325fd0e9352794b8a003535f2",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\43805f457ddbfcb1_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\43805f457ddbfcb1_0?[rand]"
+        },
+        {
+            "hash": "4438a28a779bdf80860d2db89b9fc7553e4ecaf2d48a92e6f2cb13531403ec4c",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\4858d8fa7a2a24fc_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\4858d8fa7a2a24fc_0?[rand]"
+        },
+        {
+            "hash": "0555f2cd654889d5025f871ba9947d4e32b71295987332f6083817c648ea0ee5",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\490405fa100527b6_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\490405fa100527b6_0?[rand]"
+        },
+        {
+            "hash": "13f12c9ba1b57199c8760d9e7892179fccee3de4595744b05ecaf71917ccc9b6",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\4a8372b9e39177e5_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\4a8372b9e39177e5_0?[rand]"
+        },
+        {
+            "hash": "cf80fc1a9d5b9bc66f90a7b5f2f24dd5484f1cae4a211d75302093c056986392",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\4dd35fd7ada41877_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\4dd35fd7ada41877_0?[rand]"
+        },
+        {
+            "hash": "f5d2429965962099ad5f065737cdb6cdfd650f4aca2a78b676ef283421160b9f",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\4f25843044bce4ba_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\4f25843044bce4ba_0?[rand]"
+        },
+        {
+            "hash": "9d5ef03dc8a98e26492585ffac3f0579a2a59ae42aed04ffbabe4945f901940c",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\503b6efaee3a9f4d_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\503b6efaee3a9f4d_0?[rand]"
+        },
+        {
+            "hash": "cf7eb69bf77543f5ad38daebf957ee1ba0413c53752105e21641ef61e1d06539",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\5248dd3eb8a6bb32_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\5248dd3eb8a6bb32_0?[rand]"
+        },
+        {
+            "hash": "a881db262c655b3fcff51bfb3f6d1578da0ede81824d4ac489e236f20463a9d2",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\5eccd5f62beaedc5_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\5eccd5f62beaedc5_0?[rand]"
+        },
+        {
+            "hash": "b289142d1e7d31b22aafb654e3a2365c72e92636b87af10841e3994ff46e9a04",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\5f880f3500def922_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\5f880f3500def922_0?[rand]"
+        },
+        {
+            "hash": "622bbf4e256f6650732de6b5e9bfdc263c65b5ea9b617c5ae65aa2afbd37caa5",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\607099be10a081c6_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\607099be10a081c6_0?[rand]"
+        },
+        {
+            "hash": "e80b8c4b3d50d4a180a64d05dbd715ae59e19f679a3d925631282a13f844d137",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\6edf44d131456a84_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\6edf44d131456a84_0?[rand]"
+        },
+        {
+            "hash": "b3ec5d11c70947fdb0675e74da0c80e42b0e20b4013c83165aafc3771fe1e020",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\6f30729afca86c6e_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\6f30729afca86c6e_0?[rand]"
+        },
+        {
+            "hash": "c4cef5518669095e5d7dd95ffc9c4fbb9f5b6c3bdf5be461ce5ad98f6ac1dce0",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\726b723485ad1bae_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\726b723485ad1bae_0?[rand]"
+        },
+        {
+            "hash": "a6567568aec2d886cf41917e1a18873c6094fe703e15eeab6b2fe2fab19859d2",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\72fc8745d9b63bbf_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\72fc8745d9b63bbf_0?[rand]"
+        },
+        {
+            "hash": "f12bcf7904579f56e5a5ec0f828be66d33273138a3b9d78071ac3a6e6f4617c7",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\769218ba0fb97ae4_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\769218ba0fb97ae4_0?[rand]"
+        },
+        {
+            "hash": "20496970ad7993b7449c3cc631d767f12fa1e03fcacb4494a7934470984f7844",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\7d1ac79f4d9544e6_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\7d1ac79f4d9544e6_0?[rand]"
+        },
+        {
+            "hash": "722e1bdcac391262d11f7a028a2ea0c420b6505419a5f3ae9e89dbc02ddcfc2e",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\82e22ef195cc2300_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\82e22ef195cc2300_0?[rand]"
+        },
+        {
+            "hash": "58a937a93755cd60d425836f9e34ba29489c624dd7165a12621ed6b6964b5aa9",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\86eabbe1febfe4cc_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\86eabbe1febfe4cc_0?[rand]"
+        },
+        {
+            "hash": "3945b4df752487188e4bcb80e524f20b66a5a9d7828e4aba27a91b945453a706",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\959f4f42f360f6fd_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\959f4f42f360f6fd_0?[rand]"
+        },
+        {
+            "hash": "439efb2d5f95261b87fde8933b25100917899006532f7c2fb8be560fecab11c8",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\9b19dee2a9f4ec33_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\9b19dee2a9f4ec33_0?[rand]"
+        },
+        {
+            "hash": "662889824454287eae73499dbffcced472821a77aea14db1c3bbfb7a2f967735",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\9be48bd39255cfa4_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\9be48bd39255cfa4_0?[rand]"
+        },
+        {
+            "hash": "2305b815d84557febe5d137c035c4c4ef42c1b6e4d6d0f0a15db7d081dc2f020",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\a031997e7b029976_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\a031997e7b029976_0?[rand]"
+        },
+        {
+            "hash": "5ef2305295df0000eb250a96dc706f5c452a2e4fc895587ce6fd3b057c7f1354",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\a657307215700fd1_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\a657307215700fd1_0?[rand]"
+        },
+        {
+            "hash": "52068ceaffec0757e831e9d301c452b5457124e938b771cc093d51dd80d860f6",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\abdb62f3ed421553_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\abdb62f3ed421553_0?[rand]"
+        },
+        {
+            "hash": "0e043579547bedbdfc6ad5c7581a0815e4304635606c427cec2d687dcabcfb3d",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\ac420e7691c5746a_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\ac420e7691c5746a_0?[rand]"
+        },
+        {
+            "hash": "36b82333d66e6488c9c32d986171834138695fda94b425d2b40807b994320e20",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\b0160e7ed4163d34_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\b0160e7ed4163d34_0?[rand]"
+        },
+        {
+            "hash": "ce66ed3625c780281ab9d1566d286b24e729ae42bffb77e7a5d30852357e9810",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\b1fcfe85eae4d649_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\b1fcfe85eae4d649_0?[rand]"
+        },
+        {
+            "hash": "8fe465d2076572ab2816d81d7fb2f2d7f8e18d9bf016b46518a53a5dfb36c480",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\b2f327f0c74f2455_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\b2f327f0c74f2455_0?[rand]"
+        },
+        {
+            "hash": "fc5b6e45d868ee725f579c0ad0147a938d9fcf1148d84f5c73bfa3ce184c83bf",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\b600615d76613dad_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\b600615d76613dad_0?[rand]"
+        },
+        {
+            "hash": "889005e078b0d7fe50d2f87dfb60fbca7f0e6b4c6900f1d7570eb7b36ab3aefc",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\b8ca27f81ab613cd_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\b8ca27f81ab613cd_0?[rand]"
+        },
+        {
+            "hash": "315e04261d9d467eba6e78673215aa3341eb7c60e989d4ac8739669e42827890",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\ba57355f0079f12a_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\ba57355f0079f12a_0?[rand]"
+        },
+        {
+            "hash": "b61fb6b18f6e6b0550146b992f24535952eb91cc72d9f9b8960f19d65e59cd4e",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\bea724376b21980e_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\bea724376b21980e_0?[rand]"
+        },
+        {
+            "hash": "ca63e33d5834d911a650d591613deb5849a0cc070bd3e498a0511848ff654a89",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\c121a27474fb6132_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\c121a27474fb6132_0?[rand]"
+        },
+        {
+            "hash": "9174e551692ec1433f6aaa5670610cf721198039ef6bc5c4247edc0000ff73f5",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\c17256ba1ef7b6cf_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\c17256ba1ef7b6cf_0?[rand]"
+        },
+        {
+            "hash": "35dbfcb1067d528b02d14a1d108cf3164171a97f75212f06635250b259e46289",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\c9c9c5c7ad1b04ac_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\c9c9c5c7ad1b04ac_0?[rand]"
+        },
+        {
+            "hash": "331c4739a5205ce9ab79214eda2035002388b3905c2862c32490b615665ebaa0",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\ca4e75c6266c0c6e_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\ca4e75c6266c0c6e_0?[rand]"
+        },
+        {
+            "hash": "fe2f3b66feb1b1eb03facf3d88d6c03a8fdc5b064f203768a292a476518868e0",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\cc8fe276c286ab5c_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\cc8fe276c286ab5c_0?[rand]"
+        },
+        {
+            "hash": "7d5b268eb03bfad5d83fd531d4295093077e7999c76fb618ce47773cf31f1761",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\d31e4de71e6effcd_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\d31e4de71e6effcd_0?[rand]"
+        },
+        {
+            "hash": "b6166332a3f9f08ad2e8b01c3bfa01a5cd4c8d1625a3a37f02d3db1d359d033b",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\d35ab9cc907d3f69_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\d35ab9cc907d3f69_0?[rand]"
+        },
+        {
+            "hash": "fa726178297e525adc326d59ec82a3c39794b04d608137d964456efcf229f796",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\e3338ff4e9ecac66_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\e3338ff4e9ecac66_0?[rand]"
+        },
+        {
+            "hash": "1d8e9c4310f4abee6a8a07c6422205f125a6011b348b7864b98209aeaac12c9c",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\e3966cbfff988b97_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\e3966cbfff988b97_0?[rand]"
+        },
+        {
+            "hash": "95e23b309a3dd2668a2e0d0870334bbed278387d3075f86b0edc6d72b386f07f",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\e4527ec40d78dc3d_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\e4527ec40d78dc3d_0?[rand]"
+        },
+        {
+            "hash": "1bcf6a479b7ab9884fc7af080a7483f9f2da7a87543cf540213aca8b7e065261",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\eef9e943edd37b09_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\eef9e943edd37b09_0?[rand]"
+        },
+        {
+            "hash": "2d83da083500131caf520efe38f0a5713ba73c8cf148a8d0d0bfedbb8f376993",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\efb979d0252740cd_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\efb979d0252740cd_0?[rand]"
+        },
+        {
+            "hash": "206140c3104c69eb7a19812ec969c3b768b0ae3ea99a48b563c1363a211d40fe",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\f69c859a7476c1ed_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\f69c859a7476c1ed_0?[rand]"
+        },
+        {
+            "hash": "7119615348fa989e36b7f04766c9329370f84615500176d80edf25337f6e59e5",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\f820b041ebd49f33_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\f820b041ebd49f33_0?[rand]"
+        },
+        {
+            "hash": "070579b3b53a19e1ce8b9be8becab4ddbcbd38113badf2c21b85976b15209d08",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\fdb4ecabdeb7bc77_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\fdb4ecabdeb7bc77_0?[rand]"
+        },
+        {
+            "hash": "fbcfe23a2ecb82b7100c50811691dde0a33aa3da8d176be9882a9db485dc0f2d",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\index?[rand]"
+        },
+        {
+            "hash": "6ae118dd8ecab4c62279c9882ae33e5743ed5f14bb6babff04001800b786f8b0",
+            "path": "\\EBWebView\\Default\\Code Cache\\js\\index-dir\\the-real-index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\js\\index-dir\\the-real-index?[rand]"
+        },
+        {
+            "hash": "fbcfe23a2ecb82b7100c50811691dde0a33aa3da8d176be9882a9db485dc0f2d",
+            "path": "\\EBWebView\\Default\\Code Cache\\wasm\\index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\wasm\\index?[rand]"
+        },
+        {
+            "hash": "79bce2c6952e40024b5f478332640a9e95a1033872131588ebf9f87883a65835",
+            "path": "\\EBWebView\\Default\\Code Cache\\wasm\\index-dir\\the-real-index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Code Cache\\wasm\\index-dir\\the-real-index?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\commerce_subscription_db\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\commerce_subscription_db\\LOCK?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\commerce_subscription_db\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\commerce_subscription_db\\LOG?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\commerce_subscription_db\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\commerce_subscription_db\\LOG.old?[rand]"
+        },
+        {
+            "hash": "d6a5fe39cd672781b256e0e3102f7022635f1d4bb7cfcc90a80fffe4d0f3877e",
+            "path": "\\EBWebView\\Default\\DawnGraphiteCache\\data_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnGraphiteCache\\data_0?[rand]"
+        },
+        {
+            "hash": "b1e963d702392fb7224786e7d56d43973e9b9efd1b89c17814d7c558ffc0cdec",
+            "path": "\\EBWebView\\Default\\DawnGraphiteCache\\data_1",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnGraphiteCache\\data_1?[rand]"
+        },
+        {
+            "hash": "ec1702806f4cc7c42a82fc2b38e89835fde7c64bb32060e0823c9077ca92efb7",
+            "path": "\\EBWebView\\Default\\DawnGraphiteCache\\data_2",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnGraphiteCache\\data_2?[rand]"
+        },
+        {
+            "hash": "e09f42c398d688dce168570291f1f92d079987deda3099a34adb9e8c0522b30c",
+            "path": "\\EBWebView\\Default\\DawnGraphiteCache\\data_3",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnGraphiteCache\\data_3?[rand]"
+        },
+        {
+            "hash": "edf722cd7f02504426c5ab8ca8e28ad403a3018f39ffda7c3c4eba9e6e3d09a6",
+            "path": "\\EBWebView\\Default\\DawnGraphiteCache\\index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnGraphiteCache\\index?[rand]"
+        },
+        {
+            "hash": "d6a5fe39cd672781b256e0e3102f7022635f1d4bb7cfcc90a80fffe4d0f3877e",
+            "path": "\\EBWebView\\Default\\DawnWebGPUCache\\data_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnWebGPUCache\\data_0?[rand]"
+        },
+        {
+            "hash": "b1e963d702392fb7224786e7d56d43973e9b9efd1b89c17814d7c558ffc0cdec",
+            "path": "\\EBWebView\\Default\\DawnWebGPUCache\\data_1",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnWebGPUCache\\data_1?[rand]"
+        },
+        {
+            "hash": "ec1702806f4cc7c42a82fc2b38e89835fde7c64bb32060e0823c9077ca92efb7",
+            "path": "\\EBWebView\\Default\\DawnWebGPUCache\\data_2",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnWebGPUCache\\data_2?[rand]"
+        },
+        {
+            "hash": "e09f42c398d688dce168570291f1f92d079987deda3099a34adb9e8c0522b30c",
+            "path": "\\EBWebView\\Default\\DawnWebGPUCache\\data_3",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnWebGPUCache\\data_3?[rand]"
+        },
+        {
+            "hash": "cf41ebab074f20deca67919ddb468a474906445dc3208f36a837e83fea662e0f",
+            "path": "\\EBWebView\\Default\\DawnWebGPUCache\\index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\DawnWebGPUCache\\index?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\discounts_db\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\discounts_db\\LOCK?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\discounts_db\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\discounts_db\\LOG?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\discounts_db\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\discounts_db\\LOG.old?[rand]"
+        },
+        {
+            "hash": "4e6f18cc1ac51d6fbb7802005df381b4651830ee44e383e5553618997e235613",
+            "path": "\\EBWebView\\Default\\EdgeHubAppUsage\\EdgeHubAppUsageSQLite.db",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\EdgeHubAppUsage\\EdgeHubAppUsageSQLite.db?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\EdgeHubAppUsage\\EdgeHubAppUsageSQLite.db-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\EdgeHubAppUsage\\EdgeHubAppUsageSQLite.db-journal?[rand]"
+        },
+        {
+            "hash": "1c43a1bda1e458863c46dfae7fb43bfb3e27802169f37320399b1dd799a819ac",
+            "path": "\\EBWebView\\Default\\Extension Rules\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Rules\\000003.log?[rand]"
+        },
+        {
+            "hash": "0f1bad70c7bd1e0a69562853ec529355462fcd0423263a3d39d6d0d70b780443",
+            "path": "\\EBWebView\\Default\\Extension Rules\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Rules\\CURRENT?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Extension Rules\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Rules\\LOCK?[rand]"
+        },
+        {
+            "hash": "61d6ff21d81ab7fe5fb10cb084e4cd73f06f29af36ff1931ccbd70a7a0c41f33",
+            "path": "\\EBWebView\\Default\\Extension Rules\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Rules\\LOG?[rand]"
+        },
+        {
+            "hash": "f9d31b278e215eb0d0e9cd709edfa037e828f36214ab7906f612160fead4b2b4",
+            "path": "\\EBWebView\\Default\\Extension Rules\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Rules\\MANIFEST-000001?[rand]"
+        },
+        {
+            "hash": "1c43a1bda1e458863c46dfae7fb43bfb3e27802169f37320399b1dd799a819ac",
+            "path": "\\EBWebView\\Default\\Extension Scripts\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Scripts\\000003.log?[rand]"
+        },
+        {
+            "hash": "0f1bad70c7bd1e0a69562853ec529355462fcd0423263a3d39d6d0d70b780443",
+            "path": "\\EBWebView\\Default\\Extension Scripts\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Scripts\\CURRENT?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Extension Scripts\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Scripts\\LOCK?[rand]"
+        },
+        {
+            "hash": "84320c58ac9557ccdf9756b9fd16938d5f5c4d9c0b216322f7e1450e4cac12b3",
+            "path": "\\EBWebView\\Default\\Extension Scripts\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Scripts\\LOG?[rand]"
+        },
+        {
+            "hash": "f9d31b278e215eb0d0e9cd709edfa037e828f36214ab7906f612160fead4b2b4",
+            "path": "\\EBWebView\\Default\\Extension Scripts\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension Scripts\\MANIFEST-000001?[rand]"
+        },
+        {
+            "hash": "e2610960c3757d1757f206c7b84378efa22d86dcf161a98096a5f0e56e1a367e",
+            "path": "\\EBWebView\\Default\\Extension State\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension State\\000003.log?[rand]"
+        },
+        {
+            "hash": "0f1bad70c7bd1e0a69562853ec529355462fcd0423263a3d39d6d0d70b780443",
+            "path": "\\EBWebView\\Default\\Extension State\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension State\\CURRENT?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Extension State\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension State\\LOCK?[rand]"
+        },
+        {
+            "hash": "b3394dc01f206abed9e71697dbc0b926fec3b80696b22aa758d91b9b3110c0ac",
+            "path": "\\EBWebView\\Default\\Extension State\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension State\\LOG?[rand]"
+        },
+        {
+            "hash": "3d82b7d83e7b2cf539e46f85f400e60b9aed487756307cc4673106b66c325175",
+            "path": "\\EBWebView\\Default\\Extension State\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension State\\LOG.old?[rand]"
+        },
+        {
+            "hash": "f9d31b278e215eb0d0e9cd709edfa037e828f36214ab7906f612160fead4b2b4",
+            "path": "\\EBWebView\\Default\\Extension State\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Extension State\\MANIFEST-000001?[rand]"
+        },
+        {
+            "hash": "60ba9aec629a50e178f85d11cbf3e9ad12f9a1631e4385c9282254a8353da2f4",
+            "path": "\\EBWebView\\Default\\GPUCache\\data_0",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\GPUCache\\data_0?[rand]"
+        },
+        {
+            "hash": "9546fb428a8835cb60a03da35253ef96895d95fb667a2ebd7c02c67a9bd1bebc",
+            "path": "\\EBWebView\\Default\\GPUCache\\data_1",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\GPUCache\\data_1?[rand]"
+        },
+        {
+            "hash": "0499d4e4817baf3f2552f2636c1785f342801d4cd85200fd7aca2937890dd3bf",
+            "path": "\\EBWebView\\Default\\GPUCache\\data_2",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\GPUCache\\data_2?[rand]"
+        },
+        {
+            "hash": "e09f42c398d688dce168570291f1f92d079987deda3099a34adb9e8c0522b30c",
+            "path": "\\EBWebView\\Default\\GPUCache\\data_3",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\GPUCache\\data_3?[rand]"
+        },
+        {
+            "hash": "67123cfe26ded6f6fbd5e44b80d3b107423a1c7c37c1156827a16693e50731af",
+            "path": "\\EBWebView\\Default\\GPUCache\\index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\GPUCache\\index?[rand]"
+        },
+        {
+            "hash": "1be8820a20db94d4bf1116927cb1c613790eeec9e23103550a7d367038ef1cba",
+            "path": "\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\000003.log?[rand]"
+        },
+        {
+            "hash": "0f1bad70c7bd1e0a69562853ec529355462fcd0423263a3d39d6d0d70b780443",
+            "path": "\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\CURRENT?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\LOCK?[rand]"
+        },
+        {
+            "hash": "7a72dd1aa59f0714a52c4643246c4cc7eead0e8256e5107bd36ef29c172c4349",
+            "path": "\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\LOG?[rand]"
+        },
+        {
+            "hash": "720a78803b84cbcc8eb204d5cf8ea6ee2f693be0ab2124ddf2b81455de02a3ed",
+            "path": "\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\IndexedDB\\https_p.kdocs.cn_0.indexeddb.leveldb\\MANIFEST-000001?[rand]"
+        },
+        {
+            "hash": "9972fdb93d9b250ba2922d3f49f55ce652c9fb137821e814212b4b2daeb74f9c",
+            "path": "\\EBWebView\\Default\\Local Storage\\leveldb\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Local Storage\\leveldb\\000003.log?[rand]"
+        },
+        {
+            "hash": "0f1bad70c7bd1e0a69562853ec529355462fcd0423263a3d39d6d0d70b780443",
+            "path": "\\EBWebView\\Default\\Local Storage\\leveldb\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Local Storage\\leveldb\\CURRENT?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Local Storage\\leveldb\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Local Storage\\leveldb\\LOCK?[rand]"
+        },
+        {
+            "hash": "91054292183a0ca0db98b875321f4e91e6d7ef530d7c018e73923f2e9cb39a02",
+            "path": "\\EBWebView\\Default\\Local Storage\\leveldb\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Local Storage\\leveldb\\LOG?[rand]"
+        },
+        {
+            "hash": "9f9d94fe0c116f143b31dbde4dcfb36ad805290be0cfbe4fd7f0ce36909269a9",
+            "path": "\\EBWebView\\Default\\Local Storage\\leveldb\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Local Storage\\leveldb\\LOG.old?[rand]"
+        },
+        {
+            "hash": "f9d31b278e215eb0d0e9cd709edfa037e828f36214ab7906f612160fead4b2b4",
+            "path": "\\EBWebView\\Default\\Local Storage\\leveldb\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Local Storage\\leveldb\\MANIFEST-000001?[rand]"
+        },
+        {
+            "hash": "943e656d97096d7c128b2bae75136b332394a6e93968852b7ca81a272c0d9677",
+            "path": "\\EBWebView\\Default\\Network\\Cookies",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Cookies?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Network\\Cookies-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Cookies-journal?[rand]"
+        },
+        {
+            "hash": "6fc92e46bf2fadbd1d4e2be54871e0a9e508868ac56a5645408134357e685e46",
+            "path": "\\EBWebView\\Default\\Network\\Network Persistent State",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Network Persistent State?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Network\\NetworkDataMigrated",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\NetworkDataMigrated?[rand]"
+        },
+        {
+            "hash": "951ea521116baf347ce89b628eabc22479fb8e3edfb7597659db2174fbb59804",
+            "path": "\\EBWebView\\Default\\Network\\Reporting and NEL",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Reporting and NEL?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Network\\Reporting and NEL-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Reporting and NEL-journal?[rand]"
+        },
+        {
+            "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+            "path": "\\EBWebView\\Default\\Network\\SCT Auditing Pending Reports",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\SCT Auditing Pending Reports?[rand]"
+        },
+        {
+            "hash": "6028bd681dbf11a0a58dde8a0cd884115c04caa59d080ba51bde1b086ce0079d",
+            "path": "\\EBWebView\\Default\\Network\\Sdch Dictionaries",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Sdch Dictionaries?[rand]"
+        },
+        {
+            "hash": "792c3fa9caa626154fad32c9b51f7a58dbc3dd10a5438d563a2d522cdcc26e4e",
+            "path": "\\EBWebView\\Default\\Network\\TransportSecurity",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\TransportSecurity?[rand]"
+        },
+        {
+            "hash": "d772e24f4fbec8a21439ffb57c335e6f2c945dd9f70fb56e5a84115e752e3797",
+            "path": "\\EBWebView\\Default\\Network\\Trust Tokens",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Trust Tokens?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Network\\Trust Tokens-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Network\\Trust Tokens-journal?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\parcel_tracking_db\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\parcel_tracking_db\\LOCK?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\parcel_tracking_db\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\parcel_tracking_db\\LOG?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\parcel_tracking_db\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\parcel_tracking_db\\LOG.old?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\PersistentOriginTrials\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\PersistentOriginTrials\\LOCK?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\PersistentOriginTrials\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\PersistentOriginTrials\\LOG?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\PersistentOriginTrials\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\PersistentOriginTrials\\LOG.old?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Safe Browsing Network\\NetworkDataMigrated",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Safe Browsing Network\\NetworkDataMigrated?[rand]"
+        },
+        {
+            "hash": "e87b3d155c7582d4c1d889308b58f84e8fe90a1581014b21b785d6694bd156cc",
+            "path": "\\EBWebView\\Default\\Safe Browsing Network\\Safe Browsing Cookies",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Safe Browsing Network\\Safe Browsing Cookies?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Safe Browsing Network\\Safe Browsing Cookies-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Safe Browsing Network\\Safe Browsing Cookies-journal?[rand]"
+        },
+        {
+            "hash": "95a76a3fca7fa0b7c1e3c4c377efda077faf3c8da84ed3f71d68ec60669f120d",
+            "path": "\\EBWebView\\Default\\Session Storage\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Session Storage\\000003.log?[rand]"
+        },
+        {
+            "hash": "0f1bad70c7bd1e0a69562853ec529355462fcd0423263a3d39d6d0d70b780443",
+            "path": "\\EBWebView\\Default\\Session Storage\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Session Storage\\CURRENT?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Session Storage\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Session Storage\\LOCK?[rand]"
+        },
+        {
+            "hash": "5cf8a1670671478a14ea3e686daf262c0b75014cd69120bb404a82fdba319d49",
+            "path": "\\EBWebView\\Default\\Session Storage\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Session Storage\\LOG?[rand]"
+        },
+        {
+            "hash": "3aa95ba02f3be1f52bbeeab00832bcf95a0b77010ecede8dafe1b4f95f66f1b9",
+            "path": "\\EBWebView\\Default\\Session Storage\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Session Storage\\LOG.old?[rand]"
+        },
+        {
+            "hash": "f9d31b278e215eb0d0e9cd709edfa037e828f36214ab7906f612160fead4b2b4",
+            "path": "\\EBWebView\\Default\\Session Storage\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Session Storage\\MANIFEST-000001?[rand]"
+        },
+        {
+            "hash": "f8e7cd835195e4eff7855d20676484ca75f7e7e4fe5b13164fc926b365e1dea0",
+            "path": "\\EBWebView\\Default\\Shared Dictionary\\db",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Shared Dictionary\\db?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Shared Dictionary\\db-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Shared Dictionary\\db-journal?[rand]"
+        },
+        {
+            "hash": "fbcfe23a2ecb82b7100c50811691dde0a33aa3da8d176be9882a9db485dc0f2d",
+            "path": "\\EBWebView\\Default\\Shared Dictionary\\cache\\index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Shared Dictionary\\cache\\index?[rand]"
+        },
+        {
+            "hash": "4f765bee501f6bba93163f81e821a6ffb1aad33d68bd5f47205e16dc4334a2b4",
+            "path": "\\EBWebView\\Default\\Shared Dictionary\\cache\\index-dir\\the-real-index",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Shared Dictionary\\cache\\index-dir\\the-real-index?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\shared_proto_db\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\000003.log?[rand]"
+        },
+        {
+            "hash": "0f1bad70c7bd1e0a69562853ec529355462fcd0423263a3d39d6d0d70b780443",
+            "path": "\\EBWebView\\Default\\shared_proto_db\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\CURRENT?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\shared_proto_db\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\LOCK?[rand]"
+        },
+        {
+            "hash": "2225ea4777bc79d6eb462f06d7d54b3e70a2869a83dfd00ec3d5dcf0db785a32",
+            "path": "\\EBWebView\\Default\\shared_proto_db\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\LOG?[rand]"
+        },
+        {
+            "hash": "a32b50630dd9480889faec52e980c20323d45974e75ceafd4945df64f167a7e4",
+            "path": "\\EBWebView\\Default\\shared_proto_db\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\LOG.old?[rand]"
+        },
+        {
+            "hash": "f9d31b278e215eb0d0e9cd709edfa037e828f36214ab7906f612160fead4b2b4",
+            "path": "\\EBWebView\\Default\\shared_proto_db\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\MANIFEST-000001?[rand]"
+        },
+        {
+            "hash": "1c3a81ec7d381fbcb714df7bd172cd141079dd3d0dbf286e2d5ecdb1b922bea4",
+            "path": "\\EBWebView\\Default\\shared_proto_db\\metadata\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\metadata\\000003.log?[rand]"
+        },
+        {
+            "hash": "0f1bad70c7bd1e0a69562853ec529355462fcd0423263a3d39d6d0d70b780443",
+            "path": "\\EBWebView\\Default\\shared_proto_db\\metadata\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\metadata\\CURRENT?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\shared_proto_db\\metadata\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\metadata\\LOCK?[rand]"
+        },
+        {
+            "hash": "32e6825a7624a3a491688659a67b5878c8a5704f9a5388ec088e8bc11109e64d",
+            "path": "\\EBWebView\\Default\\shared_proto_db\\metadata\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\metadata\\LOG?[rand]"
+        },
+        {
+            "hash": "d402eadfb60431c2cb244a00d44bf8f60fa792a7072e1f3bef83f14a22178caf",
+            "path": "\\EBWebView\\Default\\shared_proto_db\\metadata\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\metadata\\LOG.old?[rand]"
+        },
+        {
+            "hash": "f9d31b278e215eb0d0e9cd709edfa037e828f36214ab7906f612160fead4b2b4",
+            "path": "\\EBWebView\\Default\\shared_proto_db\\metadata\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\shared_proto_db\\metadata\\MANIFEST-000001?[rand]"
+        },
+        {
+            "hash": "f096bc366a931fba656bdcd77b24af15a5f29fc53281a727c79f82c608ecfab8",
+            "path": "\\EBWebView\\Default\\Site Characteristics Database\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Site Characteristics Database\\000003.log?[rand]"
+        },
+        {
+            "hash": "0f1bad70c7bd1e0a69562853ec529355462fcd0423263a3d39d6d0d70b780443",
+            "path": "\\EBWebView\\Default\\Site Characteristics Database\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Site Characteristics Database\\CURRENT?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Site Characteristics Database\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Site Characteristics Database\\LOCK?[rand]"
+        },
+        {
+            "hash": "79fe1d2074f6692cf9bbe7decf1ce200f0c80791f164d6d1b507797ae8056707",
+            "path": "\\EBWebView\\Default\\Site Characteristics Database\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Site Characteristics Database\\LOG?[rand]"
+        },
+        {
+            "hash": "3cf515840613e4d12167c005699fceb808f98260ee678aba3f2cb82c150c726f",
+            "path": "\\EBWebView\\Default\\Site Characteristics Database\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Site Characteristics Database\\LOG.old?[rand]"
+        },
+        {
+            "hash": "f9d31b278e215eb0d0e9cd709edfa037e828f36214ab7906f612160fead4b2b4",
+            "path": "\\EBWebView\\Default\\Site Characteristics Database\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Site Characteristics Database\\MANIFEST-000001?[rand]"
+        },
+        {
+            "hash": "a2ca52e34b6138624ac2dd20349cde28482143b837db40a7f0fbda023077c26a",
+            "path": "\\EBWebView\\Default\\Sync Data\\LevelDB\\000003.log",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Sync Data\\LevelDB\\000003.log?[rand]"
+        },
+        {
+            "hash": "0f1bad70c7bd1e0a69562853ec529355462fcd0423263a3d39d6d0d70b780443",
+            "path": "\\EBWebView\\Default\\Sync Data\\LevelDB\\CURRENT",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Sync Data\\LevelDB\\CURRENT?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\Sync Data\\LevelDB\\LOCK",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Sync Data\\LevelDB\\LOCK?[rand]"
+        },
+        {
+            "hash": "45ed3a341cfc6dbebf9a33e1ea6845af61623258b6413f56a942217975ec9fb6",
+            "path": "\\EBWebView\\Default\\Sync Data\\LevelDB\\LOG",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Sync Data\\LevelDB\\LOG?[rand]"
+        },
+        {
+            "hash": "a0fec91f7243e428d6f89deaf1f58952ac9e7651a131f34f6e99afafa84a2e84",
+            "path": "\\EBWebView\\Default\\Sync Data\\LevelDB\\LOG.old",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Sync Data\\LevelDB\\LOG.old?[rand]"
+        },
+        {
+            "hash": "f9d31b278e215eb0d0e9cd709edfa037e828f36214ab7906f612160fead4b2b4",
+            "path": "\\EBWebView\\Default\\Sync Data\\LevelDB\\MANIFEST-000001",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\Sync Data\\LevelDB\\MANIFEST-000001?[rand]"
+        },
+        {
+            "hash": "338aef9664eebb1c90d8d44e53c5ce012ac5ef035fd90ad99cb47b9c9c608479",
+            "path": "\\EBWebView\\Default\\WebStorage\\QuotaManager",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\WebStorage\\QuotaManager?[rand]"
+        },
+        {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "\\EBWebView\\Default\\WebStorage\\QuotaManager-journal",
+            "url": "[host]\/[vision]\\EBWebView\\Default\\WebStorage\\QuotaManager-journal?[rand]"
+        },
+        {
+            "hash": "d6a5fe39cd672781b256e0e3102f7022635f1d4bb7cfcc90a80fffe4d0f3877e",
+            "path": "\\EBWebView\\GraphiteDawnCache\\data_0",
+            "url": "[host]\/[vision]\\EBWebView\\GraphiteDawnCache\\data_0?[rand]"
+        },
+        {
+            "hash": "b1e963d702392fb7224786e7d56d43973e9b9efd1b89c17814d7c558ffc0cdec",
+            "path": "\\EBWebView\\GraphiteDawnCache\\data_1",
+            "url": "[host]\/[vision]\\EBWebView\\GraphiteDawnCache\\data_1?[rand]"
+        },
+        {
+            "hash": "ec1702806f4cc7c42a82fc2b38e89835fde7c64bb32060e0823c9077ca92efb7",
+            "path": "\\EBWebView\\GraphiteDawnCache\\data_2",
+            "url": "[host]\/[vision]\\EBWebView\\GraphiteDawnCache\\data_2?[rand]"
+        },
+        {
+            "hash": "e09f42c398d688dce168570291f1f92d079987deda3099a34adb9e8c0522b30c",
+            "path": "\\EBWebView\\GraphiteDawnCache\\data_3",
+            "url": "[host]\/[vision]\\EBWebView\\GraphiteDawnCache\\data_3?[rand]"
+        },
+        {
+            "hash": "0f2cabb4ab6ec4d977bd2cf65a111102ce95c9719be05c4ee5b4fecc46e3a971",
+            "path": "\\EBWebView\\GraphiteDawnCache\\index",
+            "url": "[host]\/[vision]\\EBWebView\\GraphiteDawnCache\\index?[rand]"
+        },
+        {
+            "hash": "c088b0a5257599425373a196908c7e87526792b7b99fddb3b263e5e157df99f5",
+            "path": "\\EBWebView\\GrShaderCache\\data_0",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\data_0?[rand]"
+        },
+        {
+            "hash": "f6f58f49011605ef31d61447a91fb87f82e66c3dc43b396f4702d8f09a51bf13",
+            "path": "\\EBWebView\\GrShaderCache\\data_1",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\data_1?[rand]"
+        },
+        {
+            "hash": "ec1702806f4cc7c42a82fc2b38e89835fde7c64bb32060e0823c9077ca92efb7",
+            "path": "\\EBWebView\\GrShaderCache\\data_2",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\data_2?[rand]"
+        },
+        {
+            "hash": "e6f30471eaa33e5659d843b32ab1f2a5915a498a45831b9a0daef7d07a5772a9",
+            "path": "\\EBWebView\\GrShaderCache\\data_3",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\data_3?[rand]"
+        },
+        {
+            "hash": "5084cc6bd03ad8ef806500bec1a0a8b42d05bedc5e3e88b4d2fd5d0686314592",
+            "path": "\\EBWebView\\GrShaderCache\\f_000001",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000001?[rand]"
+        },
+        {
+            "hash": "f5a20f8b94e4d6088c0655ed677f050c28d0e53a8ee9f165f63d7cd8e96de6d0",
+            "path": "\\EBWebView\\GrShaderCache\\f_000002",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000002?[rand]"
+        },
+        {
+            "hash": "73ec4db5467f10091297f13d1aeacc76c1747db8d8e64001f5923656ce490a9f",
+            "path": "\\EBWebView\\GrShaderCache\\f_000003",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000003?[rand]"
+        },
+        {
+            "hash": "2a8c1cae5a204a1035382ba0e9f222b52dbad2a33c7dd2e9f7425c9f1e7c5740",
+            "path": "\\EBWebView\\GrShaderCache\\f_000004",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000004?[rand]"
+        },
+        {
+            "hash": "eae11a73cdf8045b46d5ad82c1cdd364f80724ede39b7f87422f7be4c340e037",
+            "path": "\\EBWebView\\GrShaderCache\\f_000005",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000005?[rand]"
+        },
+        {
+            "hash": "ad893ce16da9df10c17b810eb272617a23734d9979fec8f828394f67dd9db954",
+            "path": "\\EBWebView\\GrShaderCache\\f_000006",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000006?[rand]"
+        },
+        {
+            "hash": "37448d6ad582da26439ffdd306d1030210e0de0aac749de37fd4a772d1e4a996",
+            "path": "\\EBWebView\\GrShaderCache\\f_000007",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000007?[rand]"
+        },
+        {
+            "hash": "9b2fc5c32799478f460889ad3fbb55c8c47895d3444dadf8af6fc3896a10dafc",
+            "path": "\\EBWebView\\GrShaderCache\\f_000008",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\f_000008?[rand]"
+        },
+        {
+            "hash": "7b4170e5be75841e0300a760803fa12e29c9cb59ea67ced43d067fb0a32a4d57",
+            "path": "\\EBWebView\\GrShaderCache\\index",
+            "url": "[host]\/[vision]\\EBWebView\\GrShaderCache\\index?[rand]"
+        },
+        {
+            "hash": "d6a5fe39cd672781b256e0e3102f7022635f1d4bb7cfcc90a80fffe4d0f3877e",
+            "path": "\\EBWebView\\ShaderCache\\data_0",
+            "url": "[host]\/[vision]\\EBWebView\\ShaderCache\\data_0?[rand]"
+        },
+        {
+            "hash": "b1e963d702392fb7224786e7d56d43973e9b9efd1b89c17814d7c558ffc0cdec",
+            "path": "\\EBWebView\\ShaderCache\\data_1",
+            "url": "[host]\/[vision]\\EBWebView\\ShaderCache\\data_1?[rand]"
+        },
+        {
+            "hash": "ec1702806f4cc7c42a82fc2b38e89835fde7c64bb32060e0823c9077ca92efb7",
+            "path": "\\EBWebView\\ShaderCache\\data_2",
+            "url": "[host]\/[vision]\\EBWebView\\ShaderCache\\data_2?[rand]"
+        },
+        {
+            "hash": "e09f42c398d688dce168570291f1f92d079987deda3099a34adb9e8c0522b30c",
+            "path": "\\EBWebView\\ShaderCache\\data_3",
+            "url": "[host]\/[vision]\\EBWebView\\ShaderCache\\data_3?[rand]"
+        },
+        {
+            "hash": "371a94d046d8dc226ac53a28a6f764028f1e24c5cd41f4e1f874bb0950ebf8cb",
+            "path": "\\EBWebView\\ShaderCache\\index",
+            "url": "[host]\/[vision]\\EBWebView\\ShaderCache\\index?[rand]"
+        },
+        {
+            "hash": "6e5ddba6d7aa3b287ea364034e1f843e4146ff92c07d8426f4a7c4b0e6435006",
+            "path": "\\EBWebView\\SmartScreen\\local\\downloadCache",
+            "url": "[host]\/[vision]\\EBWebView\\SmartScreen\\local\\downloadCache?[rand]"
+        },
+        {
+            "hash": "87c1ba0f3a75480bef554b38abd51d7858bbe2cff07d4fd29162b4468d2b6c43",
+            "path": "\\EBWebView\\SmartScreen\\local\\downloadCache_",
+            "url": "[host]\/[vision]\\EBWebView\\SmartScreen\\local\\downloadCache_?[rand]"
+        },
+        {
+            "hash": "3d6f3f8f1456d7ce78dd9dfa8187318b38e731a658e513f561ee178766e74d39",
+            "path": "\\EBWebView\\SmartScreen\\local\\uriCache",
+            "url": "[host]\/[vision]\\EBWebView\\SmartScreen\\local\\uriCache?[rand]"
+        },
+        {
+            "hash": "13005bea4d80b42640213237e4b4da5c1ea86cb1e884bcc67142aa4c5797101f",
+            "path": "\\EBWebView\\SmartScreen\\local\\uriCache_",
+            "url": "[host]\/[vision]\\EBWebView\\SmartScreen\\local\\uriCache_?[rand]"
+        },
+        {
+            "hash": "d8d672f953e823063955bd9981532fc3453800c2e74c0cc3653d091088abd3b3",
+            "path": "\\EBWebView\\SmartScreen\\RemoteData\\customSettings",
+            "url": "[host]\/[vision]\\EBWebView\\SmartScreen\\RemoteData\\customSettings?[rand]"
+        },
+        {
+            "hash": "2bae8302f9bd2d87ae26acf692663df1639b8e2068157451da4773bd8bd30a2b",
+            "path": "\\EBWebView\\SmartScreen\\RemoteData\\customSettings_F95BA787499AB4FA9EFFF472CE383A14",
+            "url": "[host]\/[vision]\\EBWebView\\SmartScreen\\RemoteData\\customSettings_F95BA787499AB4FA9EFFF472CE383A14?[rand]"
+        },
+        {
+            "hash": "21ee7a30c2409e0041cda6c04eee72688eb92fe995dc94487ff93ad32bd8f849",
+            "path": "\\EBWebView\\SmartScreen\\RemoteData\\edgeSettings",
+            "url": "[host]\/[vision]\\EBWebView\\SmartScreen\\RemoteData\\edgeSettings?[rand]"
+        },
+        {
+            "hash": "48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1",
+            "path": "\\EBWebView\\SmartScreen\\RemoteData\\edgeSettings_2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1",
+            "url": "[host]\/[vision]\\EBWebView\\SmartScreen\\RemoteData\\edgeSettings_2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1?[rand]"
+        },
+        {
+            "hash": "f81b7b9ce24f5a2b94182e817037b5f1089dc764bc7e55a9b0a6227a7e121f32",
+            "path": "\\EBWebView\\SmartScreen\\RemoteData\\topTraffic",
+            "url": "[host]\/[vision]\\EBWebView\\SmartScreen\\RemoteData\\topTraffic?[rand]"
+        },
+        {
+            "hash": "5a6b49358772db0b5c682575f02e8630083568542b984d6d00727740506569d4",
+            "path": "\\EBWebView\\SmartScreen\\RemoteData\\topTraffic_638004170464094982",
+            "url": "[host]\/[vision]\\EBWebView\\SmartScreen\\RemoteData\\topTraffic_638004170464094982?[rand]"
         },
         {
             "hash": "4705cfbf59f51000d9d09aa96fa348e8efca6f6c7fbd82e9bf8e00f1657cc341",
@@ -1210,5 +2685,5 @@
         }
     ],
     "VSTO": "https:\/\/download.microsoft.com\/download\/7\/A\/F\/7AFA5695-2B52-44AA-9A2D-FC431C231EDC\/vstor_redist.exe",
-    "Vison": "2025.02.10"
+    "Vison": "2025.02.11"
 }
