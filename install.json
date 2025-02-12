@@ -194,17 +194,17 @@
             "url": "[host]\/[vision]\\Microsoft.VisualStudio.Tools.Applications.Runtime.dll?[rand]"
         },
         {
-            "hash": "cb8c852fcc4ef55d630b64d171dc11538bb25258041ed22cf31735982a2e09e3",
+            "hash": "9835ab8284048cf60e017fb777d3b085ee2c6e222d477ea64f3b452c2b9c839f",
             "path": "\\Microsoft.Web.WebView2.Core.dll",
             "url": "[host]\/[vision]\\Microsoft.Web.WebView2.Core.dll?[rand]"
         },
         {
-            "hash": "e62056bee28ab094071144b47371009a6fbc162f9aea184719f2e86ed515f7f8",
+            "hash": "4299f1ea6723818d1eaebaaa54e241ec6aaaf57fc5fb48f079951f3e8c2e8398",
             "path": "\\Microsoft.Web.WebView2.WinForms.dll",
             "url": "[host]\/[vision]\\Microsoft.Web.WebView2.WinForms.dll?[rand]"
         },
         {
-            "hash": "867cde5b6019ac3ca5649e07cfdb85633fd726391752b2a9761b625c40f4f799",
+            "hash": "edddb873fdd085cadf345654c502d42d390b9d109ce2426350a35d80ae4533b7",
             "path": "\\Microsoft.Web.WebView2.Wpf.dll",
             "url": "[host]\/[vision]\\Microsoft.Web.WebView2.Wpf.dll?[rand]"
         },
@@ -609,17 +609,17 @@
             "url": "[host]\/[vision]\\pptxIcons\\ID_xingzhuangguodu.png?[rand]"
         },
         {
-            "hash": "277e84cd9474ef6302ff3bc91706ccac9bc709cd226de4dbd7dad28571b2bc05",
+            "hash": "40031ca675fa725d45db7c172dbbea7a018cc05083cf470d689316a2b762c3fc",
             "path": "\\runtimes\\win-arm64\\native\\WebView2Loader.dll",
             "url": "[host]\/[vision]\\runtimes\\win-arm64\\native\\WebView2Loader.dll?[rand]"
         },
         {
-            "hash": "271b57e3ec03c436a15d80cafeb9fd1618a43793233d8b05c9446f8de0a51be4",
+            "hash": "609c974a8cdd6a76a745b3d81b62f321d79f2dc8f4929e1eea8469d9d78baf79",
             "path": "\\runtimes\\win-x64\\native\\WebView2Loader.dll",
             "url": "[host]\/[vision]\\runtimes\\win-x64\\native\\WebView2Loader.dll?[rand]"
         },
         {
-            "hash": "7f362fd98cc243ad620f2d0a4a6c223df80f960c4e19a2d9972f4af7938565cf",
+            "hash": "18fd3001f16c4309c75081a9ea361bd942b172f0b1d4654cb607b551f28cd9d0",
             "path": "\\runtimes\\win-x86\\native\\WebView2Loader.dll",
             "url": "[host]\/[vision]\\runtimes\\win-x86\\native\\WebView2Loader.dll?[rand]"
         },
