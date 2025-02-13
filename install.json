@@ -334,7 +334,7 @@
             "url": "[host]\/[vision]\\_uninstall.bat?[rand]"
         },
         {
-            "hash": "bde347c5cd0c75b279c6f84a04d18927729a29ccb0de6b01a0a24caf622ff1ef",
+            "hash": "975d7773f173434b7b235e717aa3cad95a7dfbd3d293192a92e14a54a4f41171",
             "path": "\\_uninstallold.bat",
             "url": "[host]\/[vision]\\_uninstallold.bat?[rand]"
         },
