@@ -119,7 +119,7 @@
             "url": "[host]\/[vision]\\HotkeyListener.dll?[rand]"
         },
         {
-            "hash": "34e4f079f8eb153b64415e925b5791e0468a16556134200c28dea80dc16e919f",
+            "hash": "8fa433152908b1808658bb5f2784da8740bb639e3d0a8a92acd2e7cfaa3da820",
             "path": "\\Library.dll",
             "url": "[host]\/[vision]\\Library.dll?[rand]"
         },
@@ -269,17 +269,17 @@
             "url": "[host]\/[vision]\\template.dotx?[rand]"
         },
         {
-            "hash": "cef6246c727c9505b5e68a4330965fa97db44639a257f11d6529b36bbd4812bf",
+            "hash": "1e182097b688ebb14a5e4c0deabc53f012d228d2791d16320d1fb069aae0ceed",
             "path": "\\TencentCloudCommon.dll",
             "url": "[host]\/[vision]\\TencentCloudCommon.dll?[rand]"
         },
         {
-            "hash": "4e87a1f372edd4bf4cd41c64943850bf686953269a2a693d2d425bb1d29a2889",
+            "hash": "e1b3920eb860ea22ae56759759bb5e87337fb1fa277be133af5dd632d58e9d8e",
             "path": "\\TencentCloudOcr.dll",
             "url": "[host]\/[vision]\\TencentCloudOcr.dll?[rand]"
         },
         {
-            "hash": "6c2beb8a04409aefcd465a3eeb3059912c3d895c1f8e2430fe3503f4d24cbb77",
+            "hash": "d9026cddf11e26d43444b35b4632429dff08cf02b56eeef3db7385841482073d",
             "path": "\\TencentCloudTmt.dll",
             "url": "[host]\/[vision]\\TencentCloudTmt.dll?[rand]"
         },
@@ -1205,5 +1205,5 @@
         }
     ],
     "VSTO": "https:\/\/download.microsoft.com\/download\/7\/A\/F\/7AFA5695-2B52-44AA-9A2D-FC431C231EDC\/vstor_redist.exe",
-    "Vison": "2025.02.13"
+    "Vison": "2025.02.14"
 }
