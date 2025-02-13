@@ -119,7 +119,7 @@
             "url": "[host]\/[vision]\\HotkeyListener.dll?[rand]"
         },
         {
-            "hash": "8fa433152908b1808658bb5f2784da8740bb639e3d0a8a92acd2e7cfaa3da820",
+            "hash": "d9601922a3b0dbad9cb92ce55f68eada29514ba4218474231aa5b31718e6f989",
             "path": "\\Library.dll",
             "url": "[host]\/[vision]\\Library.dll?[rand]"
         },
@@ -1205,5 +1205,5 @@
         }
     ],
     "VSTO": "https:\/\/download.microsoft.com\/download\/7\/A\/F\/7AFA5695-2B52-44AA-9A2D-FC431C231EDC\/vstor_redist.exe",
-    "Vison": "2025.02.14"
+    "Vison": "2025.02.14.1"
 }
