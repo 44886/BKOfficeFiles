@@ -6,7 +6,7 @@ cd /d "%~dp0"
 
 echo:
 echo =============================
-echo 欢迎下次继续使用“不坑盒子”
+echo 现在是在卸载老版的“不坑盒子2024”，不要惊慌
 echo =============================
 echo 作   者:不坑老师
 echo 公众号:不坑老师
@@ -51,7 +51,7 @@ echo:
 reg delete "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BKOffice" /f
 
 
-echo 插件卸载完毕,欢迎下次使用...
+echo 老版的“不坑盒子2024”，卸载完毕,欢迎使用不坑盒子2025...
 echo:
 pause>nul
 
