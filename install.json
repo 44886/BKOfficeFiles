@@ -1,7 +1,7 @@
 {
     "AppDes": "一款支持MicroSoft Office 和 WPS Offce三件套的高效办公插件，为你的Office增加数百实用功能。",
     "AppName": "不坑盒子",
-    "Cmd": "",
+    "Cmd": "_uninstallold.bat",
     "Files": [
         {
             "hash": "0957abd2452c868693c325369ccbb608469c3ffc1c3c11b973a29d47486eced3",
