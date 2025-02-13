@@ -53,7 +53,6 @@ reg delete "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstal
 
 echo 老版的“不坑盒子2024”，卸载完毕,欢迎使用不坑盒子2025...
 echo:
-pause>nul
 
 
 
