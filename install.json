@@ -9,12 +9,12 @@
             "url": "[host]\/[vision]\\AntdUI.dll?[rand]"
         },
         {
-            "hash": "72cabd6893c6fb58cc51ac03a1e7adc8a381aaac41ab73ac771091517ba11cf4",
+            "hash": "2eda3b09e0bb143788a09c38e4933b212744e314cef48483bef50c6398f379b9",
             "path": "\\BKGreen.exe",
             "url": "[host]\/[vision]\\BKGreen.exe?[rand]"
         },
         {
-            "hash": "6ae4a797eaba91ba3541342e5ba626f868212aa4a51ee41cab89e6f06a0e00eb",
+            "hash": "f7f5f793ab9e5dd05993b9becdaa75416c879624356dccadb0e9bf5e0c4672eb",
             "path": "\\BKOffice.exe",
             "url": "[host]\/[vision]\\BKOffice.exe?[rand]"
         },
@@ -24,47 +24,47 @@
             "url": "[host]\/[vision]\\BKOffice.exe.config?[rand]"
         },
         {
-            "hash": "ac1dfe8981a1b42a452289d94c8a562b6b6245f2fede9a8bece9168052ca325f",
+            "hash": "1e456beb96a9dcf3d38bf64667456f1d05ef629b50f747f2e759d07e4847ac1b",
             "path": "\\BKOffice2025.Excel.dll",
             "url": "[host]\/[vision]\\BKOffice2025.Excel.dll?[rand]"
         },
         {
-            "hash": "072a370443053e4d7f7c3b0e8d525c0d58b86a42b958ba54db9300f48b5ca607",
+            "hash": "c7f215fade709146362ee41dc43b6a23a8aed79c887c90cef8fec0cc799ff86c",
             "path": "\\BKOffice2025.Excel.dll.manifest",
             "url": "[host]\/[vision]\\BKOffice2025.Excel.dll.manifest?[rand]"
         },
         {
-            "hash": "0e98025f9b70a79399a8e3069f372996f8d48fd7bd0aa78765fc0232b9c9d3ba",
+            "hash": "975cb255600e88fa4b7bc01310838c8458964f789e219f418b12c4ac1baa7aa1",
             "path": "\\BKOffice2025.Excel.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.Excel.vsto?[rand]"
         },
         {
-            "hash": "b02bfa2a8ab133e1a55503f92dce90edc9a03cb68dd561b821194f419e76b6d3",
+            "hash": "5bc8482241fd67334846e9af27355787d2c2294d63d6f3a4cc49a2ed699007a8",
             "path": "\\BKOffice2025.PPT.dll",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.dll?[rand]"
         },
         {
-            "hash": "84b36588d9ce34a7f3e7833aedf2a6f31850a8df7e44259d69f4ebf13874dc8a",
+            "hash": "8d325ec50c3ce909421eb17505474fe8237b8d8a00cc4414d05bff267f9ec95f",
             "path": "\\BKOffice2025.PPT.dll.manifest",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.dll.manifest?[rand]"
         },
         {
-            "hash": "0cc2971f947bd0509e686be6e8689c3aa20827cac205a00a3c45bd56417ab5c2",
+            "hash": "795b24504b0c54152dfa99f0e38d52d53f40765c304910fadd0b655493c14ba4",
             "path": "\\BKOffice2025.PPT.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.vsto?[rand]"
         },
         {
-            "hash": "701cdcedbc0a8da0d0db11935d1b5a99cb1ca5fd7c05ebdc70befd710763495e",
+            "hash": "da11bd26c7bb1917ee23ae615f632eb13a27ad0dc85b89264c1bcbf68d124b29",
             "path": "\\BKOffice2025.Word.dll",
             "url": "[host]\/[vision]\\BKOffice2025.Word.dll?[rand]"
         },
         {
-            "hash": "4349cefbebc4ffc3e90448192c6d8428163b813f9e6ef3790d4a43eb30789e7a",
+            "hash": "2775ca5bb35327d663326c1334552b5b4a89e315a2557c9c6bc0a80632cda8db",
             "path": "\\BKOffice2025.Word.dll.manifest",
             "url": "[host]\/[vision]\\BKOffice2025.Word.dll.manifest?[rand]"
         },
         {
-            "hash": "087b6de4d87d7718167530b26226f6ac09094b7f46b724d00022ab4bde175d5c",
+            "hash": "22f1b444a3645781e7f77e32df929f7ee9062b93e8a240aa775226b563e9c060",
             "path": "\\BKOffice2025.Word.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.Word.vsto?[rand]"
         },
@@ -79,32 +79,32 @@
             "url": "[host]\/[vision]\\BKOfficeDNA-AddIn64-packed.xll?[rand]"
         },
         {
-            "hash": "ab9e07b37587c3e66c4c5ab884a49aae44026ab46bd3fc8802b1410d02121e41",
+            "hash": "2ca00e9387fc445f5948a5691606b6f057915454422bb20bb7b49dee18f18976",
             "path": "\\BKOfficeDNA.dll",
             "url": "[host]\/[vision]\\BKOfficeDNA.dll?[rand]"
         },
         {
-            "hash": "66deba3c83a4fc496439cbd3d7856a4a8021be708ddddea7998145486e112849",
+            "hash": "0a0bcba534df7faf032430d4ce16f88876430a0298f30b70926a73ff39c5a722",
             "path": "\\BKOfficeStart.docx",
             "url": "[host]\/[vision]\\BKOfficeStart.docx?[rand]"
         },
         {
-            "hash": "9a8595f8e3c3adc607d9db411cec8a683d771a7606341e7947cc50caea857191",
+            "hash": "054d722ddcbd339dd74ded32128c66d6cb745e039d2f057f3ebaeeeafcd2d25e",
             "path": "\\BKOfficeWPF.exe",
             "url": "[host]\/[vision]\\BKOfficeWPF.exe?[rand]"
         },
         {
-            "hash": "888f96ea0951430760f884bc6131c743ead59c1f1c666c8a776fa0bb0912abce",
+            "hash": "4f5772af08ca120d30b1464a17f1c2bd6589f68887c8b4b0d892cfa1fee8848c",
             "path": "\\BKRemote2.exe",
             "url": "[host]\/[vision]\\BKRemote2.exe?[rand]"
         },
         {
-            "hash": "5f66c69203a16be396f644be5dfe39b40d1c78bd1d9eb5d1ee92d9ed0adf0b96",
+            "hash": "04df76ba0683ba128355fe19c71d046758fed20a8dfdf62c86b8e861a85b96d9",
             "path": "\\BKSpotLight.exe",
             "url": "[host]\/[vision]\\BKSpotLight.exe?[rand]"
         },
         {
-            "hash": "bb4a00eb6ab1a0bed7712a5adfc5883dc34c65513e9466e8fd93b0d540fee001",
+            "hash": "88f4d915baaea0fd4b58ef7aa40f13265e02642a5770bfe2550438504a95c2cd",
             "path": "\\BKWebView.exe",
             "url": "[host]\/[vision]\\BKWebView.exe?[rand]"
         },
@@ -119,7 +119,7 @@
             "url": "[host]\/[vision]\\HotkeyListener.dll?[rand]"
         },
         {
-            "hash": "d9601922a3b0dbad9cb92ce55f68eada29514ba4218474231aa5b31718e6f989",
+            "hash": "6486d190307bcf4f6a237737b3e878f5d402a99c4472f252cf84205f289b3d6b",
             "path": "\\Library.dll",
             "url": "[host]\/[vision]\\Library.dll?[rand]"
         },
@@ -354,7 +354,7 @@
             "url": "[host]\/[vision]\\de\\PdfSharp.resources.dll?[rand]"
         },
         {
-            "hash": "4705cfbf59f51000d9d09aa96fa348e8efca6f6c7fbd82e9bf8e00f1657cc341",
+            "hash": "a053f1e932386e888756190882600d8c7de4760d11d7bf36970911f391988b33",
             "path": "\\en\\Library.resources.dll",
             "url": "[host]\/[vision]\\en\\Library.resources.dll?[rand]"
         },
@@ -1205,5 +1205,5 @@
         }
     ],
     "VSTO": "https:\/\/download.microsoft.com\/download\/7\/A\/F\/7AFA5695-2B52-44AA-9A2D-FC431C231EDC\/vstor_redist.exe",
-    "Vison": "2025.02.14.2"
+    "Vison": "2025.02.14.3"
 }
