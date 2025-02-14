@@ -289,7 +289,7 @@
             "url": "[host]\/[vision]\\ticiqi.exe?[rand]"
         },
         {
-            "hash": "9e2ded8c32d310623b3dddc5b5626f11a903061a502b4aa28338011adaecdd36",
+            "hash": "4c779a86dff9f39a1e5ee229bad079ee75c262227331278e15bc4407fab5b91c",
             "path": "\\Update.exe",
             "url": "[host]\/[vision]\\Update.exe?[rand]"
         },
@@ -1205,5 +1205,5 @@
         }
     ],
     "VSTO": "https:\/\/download.microsoft.com\/download\/7\/A\/F\/7AFA5695-2B52-44AA-9A2D-FC431C231EDC\/vstor_redist.exe",
-    "Vison": "2025.02.14.3"
+    "Vison": "2025.02.14.4"
 }
