@@ -39,32 +39,32 @@
             "url": "[host]\/[vision]\\BKOffice2025.Excel.vsto?[rand]"
         },
         {
-            "hash": "5bc8482241fd67334846e9af27355787d2c2294d63d6f3a4cc49a2ed699007a8",
+            "hash": "9e62e6c8f8c425b9ef1b0c1d7224f1511f0fdea4d14b0df2a1d40c4e52a2461e",
             "path": "\\BKOffice2025.PPT.dll",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.dll?[rand]"
         },
         {
-            "hash": "8d325ec50c3ce909421eb17505474fe8237b8d8a00cc4414d05bff267f9ec95f",
+            "hash": "2c5abfd0115cefe7c4deb888f262ad340d0e63f28e907fdfe1512830027eb11e",
             "path": "\\BKOffice2025.PPT.dll.manifest",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.dll.manifest?[rand]"
         },
         {
-            "hash": "795b24504b0c54152dfa99f0e38d52d53f40765c304910fadd0b655493c14ba4",
+            "hash": "3d4ad772437a71465e09c2044fbde41491a7dfb55d40f8b7355d68563c59b3f5",
             "path": "\\BKOffice2025.PPT.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.vsto?[rand]"
         },
         {
-            "hash": "da11bd26c7bb1917ee23ae615f632eb13a27ad0dc85b89264c1bcbf68d124b29",
+            "hash": "67204613d41ddaacd21fdeed4e08424736ed09cbf43704b374e7b7368b36876d",
             "path": "\\BKOffice2025.Word.dll",
             "url": "[host]\/[vision]\\BKOffice2025.Word.dll?[rand]"
         },
         {
-            "hash": "2775ca5bb35327d663326c1334552b5b4a89e315a2557c9c6bc0a80632cda8db",
+            "hash": "07b14c3949ef620ac297e470f5b32aacdcece366c5cf6aeede6f08fe7eedc5ee",
             "path": "\\BKOffice2025.Word.dll.manifest",
             "url": "[host]\/[vision]\\BKOffice2025.Word.dll.manifest?[rand]"
         },
         {
-            "hash": "22f1b444a3645781e7f77e32df929f7ee9062b93e8a240aa775226b563e9c060",
+            "hash": "24c8d4ce85f0fd93c87485ef6b94a1e24b6a4f8316af1dd6e17509937bed3edb",
             "path": "\\BKOffice2025.Word.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.Word.vsto?[rand]"
         },
@@ -119,7 +119,7 @@
             "url": "[host]\/[vision]\\HotkeyListener.dll?[rand]"
         },
         {
-            "hash": "6486d190307bcf4f6a237737b3e878f5d402a99c4472f252cf84205f289b3d6b",
+            "hash": "caf0a596c0df9a02b9ab2267ea9de622cde0d997353af60118d3fb88d3229301",
             "path": "\\Library.dll",
             "url": "[host]\/[vision]\\Library.dll?[rand]"
         },
@@ -1205,5 +1205,5 @@
         }
     ],
     "VSTO": "https:\/\/download.microsoft.com\/download\/7\/A\/F\/7AFA5695-2B52-44AA-9A2D-FC431C231EDC\/vstor_redist.exe",
-    "Vison": "2025.02.14.4"
+    "Vison": "2025.02.15"
 }
