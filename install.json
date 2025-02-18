@@ -24,47 +24,47 @@
             "url": "[host]\/[vision]\\BKOffice.exe.config?[rand]"
         },
         {
-            "hash": "30009816e72c3c79bb3e7627ed255538c17c499086f6ab3ca51da4631dc1422f",
+            "hash": "d353207e2c531bfe7aa7b595484c5fc5ec4776faa80e39c8fbc90a0c170bb59c",
             "path": "\\BKOffice2025.Excel.dll",
             "url": "[host]\/[vision]\\BKOffice2025.Excel.dll?[rand]"
         },
         {
-            "hash": "b32f956f11629af2d4484780bea0acd1849fb4fc5a23605560d1b64f1da31a57",
+            "hash": "f2642bd4d5fb35499ccbc26f0c2f857fbb8ff59b10bbdb0509a7e24ed39c25a6",
             "path": "\\BKOffice2025.Excel.dll.manifest",
             "url": "[host]\/[vision]\\BKOffice2025.Excel.dll.manifest?[rand]"
         },
         {
-            "hash": "94488d8c790ac10c9f5b98f9e456ea0a008321ffcd76998a6e052e3574582c9d",
+            "hash": "fcb227df3f8fa45b9a0ec1fa4984f087df61247751dc810607ec25bff799063d",
             "path": "\\BKOffice2025.Excel.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.Excel.vsto?[rand]"
         },
         {
-            "hash": "34261831a2a8d5803db4166c07153f29af7087e1c0e70bd01b0f03bcd4d3305e",
+            "hash": "7d9abb56c5455df5fadedb439f7184cbb79c1889da8a5406a9af0fb7ade34e21",
             "path": "\\BKOffice2025.PPT.dll",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.dll?[rand]"
         },
         {
-            "hash": "1dd9ec78e3d97cfa976ce2e44b7b60bc69e058c1f89c733eda53897ff146e1c8",
+            "hash": "45cd990c5159dc900eb3a4fcfb8feb3beb65df2de3c4fff613cd8a6cec95c073",
             "path": "\\BKOffice2025.PPT.dll.manifest",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.dll.manifest?[rand]"
         },
         {
-            "hash": "9770ebaf47877e967c382bd1b2ef4cfe1b202e9c29289d52df0b660acc5666f5",
+            "hash": "f040230fd9fa6a1b7979cab0e84164b38c47ca10b38edd87f86aa1da96d525cf",
             "path": "\\BKOffice2025.PPT.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.vsto?[rand]"
         },
         {
-            "hash": "a67e51c5c940dce213b7e34d498526861779c6b2256551d1e42d57a086381a4d",
+            "hash": "c1c850b56afacf6fbf21448425818700138ac6aa0ea48d89a3209a953039e641",
             "path": "\\BKOffice2025.Word.dll",
             "url": "[host]\/[vision]\\BKOffice2025.Word.dll?[rand]"
         },
         {
-            "hash": "421118e8e5b953cf6fd6e9061eef30f0dbd75a822aafa0afce6061e1983f44fb",
+            "hash": "f667528d95fbec9d63e3ced2b1a4eb453c3ef51bfcccb7c1e9cdd1aa67b5e12f",
             "path": "\\BKOffice2025.Word.dll.manifest",
             "url": "[host]\/[vision]\\BKOffice2025.Word.dll.manifest?[rand]"
         },
         {
-            "hash": "4ad0de5c2f869b54d987a19b0a1dae7dbf2bf4e29c104ef7e17e9c7babeff043",
+            "hash": "41ca6c6facf36650196e0b9bcf0485e6c0ee4438ca9d18e2707c0929708fce7a",
             "path": "\\BKOffice2025.Word.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.Word.vsto?[rand]"
         },
@@ -119,7 +119,7 @@
             "url": "[host]\/[vision]\\HotkeyListener.dll?[rand]"
         },
         {
-            "hash": "c07e8f624f6aeab28cbcc6d8ee52fa1e1db13cf89beadbd809401f9b7f4606f4",
+            "hash": "f2d900fcfb44657585a2f38e515b8f4307e15dcbcac8d42bef971170ba73bd15",
             "path": "\\Library.dll",
             "url": "[host]\/[vision]\\Library.dll?[rand]"
         },
@@ -134,7 +134,7 @@
             "url": "[host]\/[vision]\\libwebp_x86.dll?[rand]"
         },
         {
-            "hash": "aaf03894a883cec3cb61a59cfd8d2b5c153b8c46bb62800413bb4e6d8f6a79b1",
+            "hash": "e533ed65f699a1ceccb8ef49336ce195a01868db5e1e04a241b74e3023e7b989",
             "path": "\\logo.ico",
             "url": "[host]\/[vision]\\logo.ico?[rand]"
         },
@@ -142,6 +142,11 @@
             "hash": "d7f2400921edd445ad91a54ee6c6795405c27f18cb9829623fc050db67df0199",
             "path": "\\logo.png",
             "url": "[host]\/[vision]\\logo.png?[rand]"
+        },
+        {
+            "hash": "295af2142d9214f3fd84eafe4778dca119be7e0229f14b6ba8d5269c2f1e2e78",
+            "path": "\\Microsoft.Bcl.AsyncInterfaces.dll",
+            "url": "[host]\/[vision]\\Microsoft.Bcl.AsyncInterfaces.dll?[rand]"
         },
         {
             "hash": "78a3c67d36929e736e298510a4aa74a4bb1fcf7cb086fe4968af3e4a94057cde",
@@ -159,9 +164,34 @@
             "url": "[host]\/[vision]\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll?[rand]"
         },
         {
+            "hash": "95a7c66abd60ba45a2020ac3d42702fd9823f7b6db2ceec6a37c9e9b0602fed1",
+            "path": "\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+            "url": "[host]\/[vision]\\Microsoft.Extensions.DependencyInjection.Abstractions.dll?[rand]"
+        },
+        {
+            "hash": "d6de20035b25367a82da6180c45511d9077374c5f96f6cc5fedd2107d61efb9c",
+            "path": "\\Microsoft.Extensions.DependencyInjection.dll",
+            "url": "[host]\/[vision]\\Microsoft.Extensions.DependencyInjection.dll?[rand]"
+        },
+        {
             "hash": "050405babe5276f1b2e405809c46847da2b4a7cb005a976c58949ed68d9ff37a",
             "path": "\\Microsoft.Extensions.Logging.Abstractions.dll",
             "url": "[host]\/[vision]\\Microsoft.Extensions.Logging.Abstractions.dll?[rand]"
+        },
+        {
+            "hash": "4d1ca57435ba7d3193a1657cbda1c66ad39cf4f449a069332544f73ee2e779e4",
+            "path": "\\Microsoft.Extensions.Logging.dll",
+            "url": "[host]\/[vision]\\Microsoft.Extensions.Logging.dll?[rand]"
+        },
+        {
+            "hash": "ac83168b7316e7b9f8e0806d3cce8030d2f41ad08caa085bfd4e877f5ae65827",
+            "path": "\\Microsoft.Extensions.Options.dll",
+            "url": "[host]\/[vision]\\Microsoft.Extensions.Options.dll?[rand]"
+        },
+        {
+            "hash": "60df37bef5b47e822c02cf8547de3b2a836973e517efbaf090f14086d5155c9b",
+            "path": "\\Microsoft.Extensions.Primitives.dll",
+            "url": "[host]\/[vision]\\Microsoft.Extensions.Primitives.dll?[rand]"
         },
         {
             "hash": "6370e60adc74ac1c8ae7987c8f059f1069f4d8a24725886a87ea75fd3a1f8951",
@@ -187,6 +217,11 @@
             "hash": "37cbcee1ab36849e8f26ebafe7b712bfcfd01d07fd8688bf85e53f4ab6e91ac8",
             "path": "\\Microsoft.Office.Tools.Word.dll",
             "url": "[host]\/[vision]\\Microsoft.Office.Tools.Word.dll?[rand]"
+        },
+        {
+            "hash": "aca0bf6fd36ff90a704731156e34201c6778af061d80a108cf9baab97c7274be",
+            "path": "\\Microsoft.Office.Tools.Word.v4.0.Utilities.dll",
+            "url": "[host]\/[vision]\\Microsoft.Office.Tools.Word.v4.0.Utilities.dll?[rand]"
         },
         {
             "hash": "77d99747306a8546e7e5abbb0cd251552995f6b97acf508b090cd5ce2577d0a7",
@@ -219,9 +254,14 @@
             "url": "[host]\/[vision]\\ndp48-web.exe?[rand]"
         },
         {
-            "hash": "b624949df8b0e3a6153fdfb730a7c6f4990b6592ee0d922e1788433d276610f3",
+            "hash": "e1e27af7b07eeedf5ce71a9255f0422816a6fc5849a483c6714e1b472044fa9d",
             "path": "\\Newtonsoft.Json.dll",
             "url": "[host]\/[vision]\\Newtonsoft.Json.dll?[rand]"
+        },
+        {
+            "hash": "8e6528b65f3ae220e5fc5fc107d4b9fa0a7b5bacd9fa9e9ab93fc418e1c3ba64",
+            "path": "\\PdfSharp.Charting.dll",
+            "url": "[host]\/[vision]\\PdfSharp.Charting.dll?[rand]"
         },
         {
             "hash": "6ab52dd47537fdef8ae376df5a5c0514fad984f1c08f7b2b7459d216195de4f8",
@@ -229,9 +269,24 @@
             "url": "[host]\/[vision]\\PdfSharp.dll?[rand]"
         },
         {
+            "hash": "5eb3be294ee862f5fc579f1832fc49745c440499cc0065c709155ac3fa4c1ece",
+            "path": "\\PdfSharp.Quality.dll",
+            "url": "[host]\/[vision]\\PdfSharp.Quality.dll?[rand]"
+        },
+        {
+            "hash": "779075d83c25d877e625d5e7d41e5baecfeda0b2124905010a79502010502094",
+            "path": "\\PdfSharp.Snippets.dll",
+            "url": "[host]\/[vision]\\PdfSharp.Snippets.dll?[rand]"
+        },
+        {
             "hash": "d8b8426655d22c1328e054a3f56342b44020778057b007872dd416387d2a1767",
             "path": "\\PdfSharp.System.dll",
             "url": "[host]\/[vision]\\PdfSharp.System.dll?[rand]"
+        },
+        {
+            "hash": "56e12d7dbd09814129a21e064dc2bc6cd1c6d4af9313ec5478588d297c847dc6",
+            "path": "\\PdfSharp.WPFonts.dll",
+            "url": "[host]\/[vision]\\PdfSharp.WPFonts.dll?[rand]"
         },
         {
             "hash": "6faba603875b6d13debfb7e26e72a8255f06ccaab416d567cc83f5e4e7201d98",
@@ -242,6 +297,16 @@
             "hash": "3af1e07305bed0abe0cf32d9854e0a7f5f470216adee1b87d02350be09d31b35",
             "path": "\\System.Buffers.dll",
             "url": "[host]\/[vision]\\System.Buffers.dll?[rand]"
+        },
+        {
+            "hash": "4e8324333f95b34a92310f74a0cc8a689f1c9a4ba567146cd04251580f245912",
+            "path": "\\System.Configuration.ConfigurationManager.dll",
+            "url": "[host]\/[vision]\\System.Configuration.ConfigurationManager.dll?[rand]"
+        },
+        {
+            "hash": "e286563a0932e5e294a6db9397ed3f2413c6b3c592cd62213ebad641f92c46a0",
+            "path": "\\System.Diagnostics.DiagnosticSource.dll",
+            "url": "[host]\/[vision]\\System.Diagnostics.DiagnosticSource.dll?[rand]"
         },
         {
             "hash": "ca18383a2070518ae8c3e96cbd1705da283c8ada4ddf396217d2bcb7dcd03103",
@@ -264,22 +329,42 @@
             "url": "[host]\/[vision]\\System.Runtime.CompilerServices.Unsafe.dll?[rand]"
         },
         {
+            "hash": "594ae31577b5d6478587184e46b50342fd77c4c570f7b1d14fd6ab3868282a76",
+            "path": "\\System.Text.Encodings.Web.dll",
+            "url": "[host]\/[vision]\\System.Text.Encodings.Web.dll?[rand]"
+        },
+        {
+            "hash": "692c324c02a922f890aaf5948c54ec9758f5ab7019b8e8ab169c106ddd3231f4",
+            "path": "\\System.Threading.Tasks.Extensions.dll",
+            "url": "[host]\/[vision]\\System.Threading.Tasks.Extensions.dll?[rand]"
+        },
+        {
+            "hash": "e905d102585b22c6df04f219af5cbdbfa7bc165979e9788b62df6dcc165e10f4",
+            "path": "\\System.ValueTuple.dll",
+            "url": "[host]\/[vision]\\System.ValueTuple.dll?[rand]"
+        },
+        {
             "hash": "1c0011fa250860226b88c0811767b4ef8ee8d55d712a69792b380c78c9f2f606",
             "path": "\\template.dotx",
             "url": "[host]\/[vision]\\template.dotx?[rand]"
         },
         {
-            "hash": "1e182097b688ebb14a5e4c0deabc53f012d228d2791d16320d1fb069aae0ceed",
+            "hash": "f79a75da68811251b0d9a3e09a680e6545aca973a8c0e31ae5bbcd490480433f",
             "path": "\\TencentCloudCommon.dll",
             "url": "[host]\/[vision]\\TencentCloudCommon.dll?[rand]"
         },
         {
-            "hash": "e1b3920eb860ea22ae56759759bb5e87337fb1fa277be133af5dd632d58e9d8e",
+            "hash": "21691ac39c56582154571a8f4c52fb6de01b0d6e1b56f3a3c9382af8fc1bfb1f",
             "path": "\\TencentCloudOcr.dll",
             "url": "[host]\/[vision]\\TencentCloudOcr.dll?[rand]"
         },
         {
-            "hash": "d9026cddf11e26d43444b35b4632429dff08cf02b56eeef3db7385841482073d",
+            "hash": "f37963135e0eb2ade8eb4ac28996eaa0e16a24e3ff942568f950378c51f36989",
+            "path": "\\TencentCloudSDKIntlEN.Common.dll",
+            "url": "[host]\/[vision]\\TencentCloudSDKIntlEN.Common.dll?[rand]"
+        },
+        {
+            "hash": "9b1dc23e901c59645bacdf86d1bee38d15b15cb45e3a8b7959c8f3597048428c",
             "path": "\\TencentCloudTmt.dll",
             "url": "[host]\/[vision]\\TencentCloudTmt.dll?[rand]"
         },
@@ -289,7 +374,7 @@
             "url": "[host]\/[vision]\\ticiqi.exe?[rand]"
         },
         {
-            "hash": "cc8e0c1e2fc677c624aa7a85bc5e00643ea66ee36091a1cc28b4d2e714ec4c54",
+            "hash": "7b77dbcfc2da2235f7ae129a8b14cf6e3388df5fe422fd19615006a60597609a",
             "path": "\\Update.exe",
             "url": "[host]\/[vision]\\Update.exe?[rand]"
         },
@@ -312,6 +397,11 @@
             "hash": "7852a69a2da81ca676c92ab2e6ad354ca0ef97de94e52ad43801a0c8c7acbb62",
             "path": "\\zxing.dll",
             "url": "[host]\/[vision]\\zxing.dll?[rand]"
+        },
+        {
+            "hash": "ca237086a528573fab64334ab698093218a146ea1c3f737b5f41719e7b87aff4",
+            "path": "\\zxing.presentation.dll",
+            "url": "[host]\/[vision]\\zxing.presentation.dll?[rand]"
         },
         {
             "hash": "fdaafb1b31d3df0d0e3ef1a058920519c8eeb851aa38c7aefbc8050a3481c305",
@@ -369,14 +459,254 @@
             "url": "[host]\/[vision]\\fonts\\人教拼音体.ttf?[rand]"
         },
         {
+            "hash": "edaf53674f5685ff89fa4f241d1c4e4a2f8b8bff9dcadcfff7f045cce1e49e74",
+            "path": "\\pptxIcons\\AI_Copilot_deepseek.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_Copilot_deepseek.png?[rand]"
+        },
+        {
+            "hash": "c20b14d06c7d6c1abe53c6f6c028c591bf62e09793d7287a7e0dc442471c0aad",
+            "path": "\\pptxIcons\\AI_Copilot_doubao.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_Copilot_doubao.png?[rand]"
+        },
+        {
+            "hash": "ed2e3473da01b9bce0924d1ef6f03fe8db3d43b34722bcf35cb32f0dcb7a0455",
+            "path": "\\pptxIcons\\AI_Copilot_kimi.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_Copilot_kimi.png?[rand]"
+        },
+        {
+            "hash": "1049a9e36aad223b6d313d68e05620835338c9809cd74d029b5c2da92fd91427",
+            "path": "\\pptxIcons\\AI_Copilot_lingxi.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_Copilot_lingxi.png?[rand]"
+        },
+        {
+            "hash": "987e8496647fe3ffc7442c0521c94b0f190e46346173a964d5d3c6108a21081d",
+            "path": "\\pptxIcons\\AI_Copilot_qwen.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_Copilot_qwen.png?[rand]"
+        },
+        {
+            "hash": "3e43bd5ad42b0d8898399c4aea089c273eda921e6e559a5ccbc099e6249753d3",
+            "path": "\\pptxIcons\\AI_gaixie_1.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_gaixie_1.png?[rand]"
+        },
+        {
+            "hash": "aa62b99158d58f5f39e8b41a192d69056bf2fe43d0b223071eb205e95ad0c908",
+            "path": "\\pptxIcons\\AI_gaixie_2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_gaixie_2.png?[rand]"
+        },
+        {
+            "hash": "a1684cb30536f78120f062ba9395f92fa4379804bb885f2844fb583555261dc9",
+            "path": "\\pptxIcons\\AI_gaixie_3.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_gaixie_3.png?[rand]"
+        },
+        {
+            "hash": "ce48fde6353cec14ade41a177c44180bbffd7418f927f3e1b5ae1d1f1e53be4e",
+            "path": "\\pptxIcons\\AI_gaixie_4.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_gaixie_4.png?[rand]"
+        },
+        {
+            "hash": "733a0015b1c319ba15fdb19dc36f13ff24f85e85c5daa862e9a791b89875a8f0",
+            "path": "\\pptxIcons\\AI_gaixie_5.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_gaixie_5.png?[rand]"
+        },
+        {
+            "hash": "7952569a55e761cd821f47a269a2336a2f00db5c0ee0365422de625ab62e832c",
+            "path": "\\pptxIcons\\AI_gaixie_6.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_gaixie_6.png?[rand]"
+        },
+        {
+            "hash": "77aa98cdfd0e46d95b519c36a7979016ae00d32450df7649de93f06b0ddb0b04",
+            "path": "\\pptxIcons\\AI_gaixie_7.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_gaixie_7.png?[rand]"
+        },
+        {
+            "hash": "02dbcb428acbdd7d6f31ad00be388f4ca9af7e14076405c26fa8eaa79816bb9f",
+            "path": "\\pptxIcons\\AI_gaixie_8.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_gaixie_8.png?[rand]"
+        },
+        {
+            "hash": "69e1ae8817ddc88e590ceb1071d2f0577a8a36e9ce8fb75933f0ff480a9335c3",
+            "path": "\\pptxIcons\\AI_gaixie_9.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_gaixie_9.png?[rand]"
+        },
+        {
+            "hash": "c52371665abd0bf6358d7199ee33c946e8f6e171a21b6eac079c2dbdc6b14c6c",
+            "path": "\\pptxIcons\\AI_gongneng_1.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_gongneng_1.png?[rand]"
+        },
+        {
+            "hash": "4f11f53c5b940c9e79d0182b8e4ae97b615c8a839c11b4fd5b5e0a72b5cd2b8f",
+            "path": "\\pptxIcons\\AI_gongneng_2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_gongneng_2.png?[rand]"
+        },
+        {
+            "hash": "4f11f53c5b940c9e79d0182b8e4ae97b615c8a839c11b4fd5b5e0a72b5cd2b8f",
+            "path": "\\pptxIcons\\AI_gongneng_3.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_gongneng_3.png?[rand]"
+        },
+        {
+            "hash": "3e43bd5ad42b0d8898399c4aea089c273eda921e6e559a5ccbc099e6249753d3",
+            "path": "\\pptxIcons\\AI_runse_1.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_runse_1.png?[rand]"
+        },
+        {
+            "hash": "aa62b99158d58f5f39e8b41a192d69056bf2fe43d0b223071eb205e95ad0c908",
+            "path": "\\pptxIcons\\AI_runse_2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_runse_2.png?[rand]"
+        },
+        {
+            "hash": "a1684cb30536f78120f062ba9395f92fa4379804bb885f2844fb583555261dc9",
+            "path": "\\pptxIcons\\AI_runse_3.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_runse_3.png?[rand]"
+        },
+        {
+            "hash": "ce48fde6353cec14ade41a177c44180bbffd7418f927f3e1b5ae1d1f1e53be4e",
+            "path": "\\pptxIcons\\AI_runse_4.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_runse_4.png?[rand]"
+        },
+        {
+            "hash": "733a0015b1c319ba15fdb19dc36f13ff24f85e85c5daa862e9a791b89875a8f0",
+            "path": "\\pptxIcons\\AI_runse_5.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_runse_5.png?[rand]"
+        },
+        {
+            "hash": "7952569a55e761cd821f47a269a2336a2f00db5c0ee0365422de625ab62e832c",
+            "path": "\\pptxIcons\\AI_runse_6.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_runse_6.png?[rand]"
+        },
+        {
+            "hash": "77aa98cdfd0e46d95b519c36a7979016ae00d32450df7649de93f06b0ddb0b04",
+            "path": "\\pptxIcons\\AI_runse_7.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_runse_7.png?[rand]"
+        },
+        {
+            "hash": "02dbcb428acbdd7d6f31ad00be388f4ca9af7e14076405c26fa8eaa79816bb9f",
+            "path": "\\pptxIcons\\AI_runse_8.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_runse_8.png?[rand]"
+        },
+        {
+            "hash": "69e1ae8817ddc88e590ceb1071d2f0577a8a36e9ce8fb75933f0ff480a9335c3",
+            "path": "\\pptxIcons\\AI_runse_9.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_runse_9.png?[rand]"
+        },
+        {
+            "hash": "b14da545d5160e28836fc7aba3b1ece13ae2ee0eb2e0cef2cc296b23d7ecb306",
+            "path": "\\pptxIcons\\AI_ZhiNengXieZuo.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_ZhiNengXieZuo.png?[rand]"
+        },
+        {
+            "hash": "d803a638a81dc6e5f061abe2e0168606f74f8db6ab42e919a6610f1471fd50ef",
+            "path": "\\pptxIcons\\AI_ZhiNengXieZuo2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_ZhiNengXieZuo2.png?[rand]"
+        },
+        {
+            "hash": "d3e4b8d1c93ae878e818c5dd5e9e20f64b1bf990f153aa480530049b581e7012",
+            "path": "\\pptxIcons\\AI_ZhiNengXieZuo_New.png",
+            "url": "[host]\/[vision]\\pptxIcons\\AI_ZhiNengXieZuo_New.png?[rand]"
+        },
+        {
+            "hash": "0b704211b6145b1addefdae42c5c28a10145e43945fe729ffa73b4581ccd0615",
+            "path": "\\pptxIcons\\ID_2228.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_2228.png?[rand]"
+        },
+        {
             "hash": "1cf593f0b83f033aa65b8a96206e99ef9191f1a17484169e3c2c65ffe1f7d6ad",
             "path": "\\pptxIcons\\ID_about.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_about.png?[rand]"
         },
         {
+            "hash": "e3ededee97fe45676a68816278d7a831b03779e3d320ec54a51df882d2c5e7e5",
+            "path": "\\pptxIcons\\ID_AES.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_AES.png?[rand]"
+        },
+        {
+            "hash": "f42c6a23635d61aab205cb6018750b5035599a2622ced31566f186e9d4303854",
+            "path": "\\pptxIcons\\ID_auto.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_auto.png?[rand]"
+        },
+        {
+            "hash": "437a1f1237afef08757ef3042c0e83fb32a6c22ef6abad8e64ba11c88cab063a",
+            "path": "\\pptxIcons\\ID_auto2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_auto2.png?[rand]"
+        },
+        {
             "hash": "b0827f04a477608299e3b4264deb4ed790dcef5e89d94bc32842cc852e896515",
             "path": "\\pptxIcons\\ID_baocun.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_baocun.png?[rand]"
+        },
+        {
+            "hash": "f3ddfa94aa99c43225e32a638de03190bf798794f1b29c42aee6f4ccaac4bb4f",
+            "path": "\\pptxIcons\\ID_bianju.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_bianju.png?[rand]"
+        },
+        {
+            "hash": "721c7c570b12ad6e0256454468a12d144430afde6052d644285c7206cc652f39",
+            "path": "\\pptxIcons\\ID_biaoge_1.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_biaoge_1.png?[rand]"
+        },
+        {
+            "hash": "89c7594495679c781331a4db0336a24a73b893e458d3b28df2473f93720083d6",
+            "path": "\\pptxIcons\\ID_biaoge_2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_biaoge_2.png?[rand]"
+        },
+        {
+            "hash": "a36017ac51735565b209f5fd0042462707d04ae24a0283847cd127da05d6b115",
+            "path": "\\pptxIcons\\ID_biaoge_3.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_biaoge_3.png?[rand]"
+        },
+        {
+            "hash": "a36017ac51735565b209f5fd0042462707d04ae24a0283847cd127da05d6b115",
+            "path": "\\pptxIcons\\ID_biaoge_4.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_biaoge_4.png?[rand]"
+        },
+        {
+            "hash": "124ec0798f75bbdf905fb48c1dd4d6e60bbcb5e626518840bd840f9cad3cf0a6",
+            "path": "\\pptxIcons\\ID_biaoge_5.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_biaoge_5.png?[rand]"
+        },
+        {
+            "hash": "89c7594495679c781331a4db0336a24a73b893e458d3b28df2473f93720083d6",
+            "path": "\\pptxIcons\\ID_biaoge_7.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_biaoge_7.png?[rand]"
+        },
+        {
+            "hash": "124ec0798f75bbdf905fb48c1dd4d6e60bbcb5e626518840bd840f9cad3cf0a6",
+            "path": "\\pptxIcons\\ID_biaoge_jisuan.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_biaoge_jisuan.png?[rand]"
+        },
+        {
+            "hash": "b24eb52f0e435e7774ffc4d5fae3f22d38d8f4543deaf57a755b2d4735b0fbdf",
+            "path": "\\pptxIcons\\ID_cardid.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_cardid.png?[rand]"
+        },
+        {
+            "hash": "7f1404225abe17e2e93ded861d6ba69836b37d49ee2734a53c4f0e908768339c",
+            "path": "\\pptxIcons\\ID_changtu1.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_changtu1.png?[rand]"
+        },
+        {
+            "hash": "16e2bf692d99731a979c60fa66264aecc47d2f8a02e40141fc63f40e50d7c25b",
+            "path": "\\pptxIcons\\ID_chemistry.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_chemistry.png?[rand]"
+        },
+        {
+            "hash": "24f62644048259efbc3dd0a069bc0c7328ae68f60c102feb45cb8bed98517ea2",
+            "path": "\\pptxIcons\\ID_code.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_code.png?[rand]"
+        },
+        {
+            "hash": "1049a9e36aad223b6d313d68e05620835338c9809cd74d029b5c2da92fd91427",
+            "path": "\\pptxIcons\\ID_Copilot.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_Copilot.png?[rand]"
+        },
+        {
+            "hash": "af616a19ea815e9222df0d4e4b78cc1bf1e29aa33f2f57d82b63a5b406414311",
+            "path": "\\pptxIcons\\ID_coushu.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_coushu.png?[rand]"
+        },
+        {
+            "hash": "78740e5577b0c71a33912c285ceb03b7e628a91c84da0416f782b1e831994121",
+            "path": "\\pptxIcons\\ID_datamerge.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_datamerge.png?[rand]"
         },
         {
             "hash": "88f1f1abb2c1e1f1e15d1e5877077018c6ab266c1b4c8cd0490d35690ef3619a",
@@ -389,9 +719,44 @@
             "url": "[host]\/[vision]\\pptxIcons\\ID_design.png?[rand]"
         },
         {
+            "hash": "9f4ece108df1c045ac8fa7d155fb3690a31d5a30c447827f3dc9fa709406ec2b",
+            "path": "\\pptxIcons\\ID_document.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_document.png?[rand]"
+        },
+        {
+            "hash": "9b77a507b6f5ac4f7b2eea66b35f39018d1438a5c1fd87be6be21bcabcc863bf",
+            "path": "\\pptxIcons\\ID_doc_iunsert.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_doc_iunsert.png?[rand]"
+        },
+        {
+            "hash": "271cb030b6b9a971082cc92ca54b4935e8d4ccb441ff2bc03353fbecf183277b",
+            "path": "\\pptxIcons\\ID_fanyi.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_fanyi.png?[rand]"
+        },
+        {
+            "hash": "874975b79bc4d7c95a8e43f9251ff608b64a51a576577851de77e335080d5ad9",
+            "path": "\\pptxIcons\\ID_fuhao.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_fuhao.png?[rand]"
+        },
+        {
+            "hash": "1df0697fc9ebf0fa8de589b3a61a673095f860598b40435d3747f6f9ac045233",
+            "path": "\\pptxIcons\\ID_gantetu.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_gantetu.png?[rand]"
+        },
+        {
             "hash": "271cb030b6b9a971082cc92ca54b4935e8d4ccb441ff2bc03353fbecf183277b",
             "path": "\\pptxIcons\\ID_getfonts.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_getfonts.png?[rand]"
+        },
+        {
+            "hash": "4326d689182576053fb96fc43d03101533e9da675d7eef40870905e0295497aa",
+            "path": "\\pptxIcons\\ID_GONGWENBUJIAN.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_GONGWENBUJIAN.png?[rand]"
+        },
+        {
+            "hash": "6bf9b2d15c217b21a53fb507eb3f78a20fe9741353796277b2647aff6f35ad52",
+            "path": "\\pptxIcons\\ID_gongzitiao.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_gongzitiao.png?[rand]"
         },
         {
             "hash": "973d761e17bc56c7fc59152a68c8aea778bb0aace9cf7a5fd0f2ec30ef03043f",
@@ -399,9 +764,119 @@
             "url": "[host]\/[vision]\\pptxIcons\\ID_green.png?[rand]"
         },
         {
+            "hash": "9719a76c2675fddcf9b5ebbaeeb4387f2ed1206bb9b77c8cd006791e89a0a040",
+            "path": "\\pptxIcons\\ID_h.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_h.png?[rand]"
+        },
+        {
+            "hash": "d982d1688f656bf2ab2af17c14fbf9346011934e7781446c44f03b8f2dd77051",
+            "path": "\\pptxIcons\\ID_h1.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_h1.png?[rand]"
+        },
+        {
+            "hash": "e23ac7dab0e86272164b7cc8d2b03a5b56c8df5f5a2769b50e5c3b31307b2ba8",
+            "path": "\\pptxIcons\\ID_h2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_h2.png?[rand]"
+        },
+        {
+            "hash": "ea48708306dd53f26af0bf03b4330811e954a49a42e2558e4a35721423291d78",
+            "path": "\\pptxIcons\\ID_h3.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_h3.png?[rand]"
+        },
+        {
+            "hash": "5bbd446f68ebfb7ee79f0992384a8f4af19d654b224efb6565dd56ee5c1196f2",
+            "path": "\\pptxIcons\\ID_hanshu.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_hanshu.png?[rand]"
+        },
+        {
+            "hash": "15bde04ebf2912cda913f9d17d6bc6c35d5d84a547177cd17e6b21439336f41e",
+            "path": "\\pptxIcons\\ID_hh.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_hh.png?[rand]"
+        },
+        {
+            "hash": "46c6453ac2e93661be4f71e385af6cafdfc0bf3fed95f32da9c78370de074ea0",
+            "path": "\\pptxIcons\\ID_hongtou1.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_hongtou1.png?[rand]"
+        },
+        {
+            "hash": "b57cd9d8e1643b9c9ba5ad1bb6000f7caa22fda4498e3bd33182ac3df8e487bb",
+            "path": "\\pptxIcons\\ID_hongtou2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_hongtou2.png?[rand]"
+        },
+        {
+            "hash": "64423b838b9daab50d95305abe25cd1000324652b5a6cf56c6e197789e3321de",
+            "path": "\\pptxIcons\\ID_hongtou3.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_hongtou3.png?[rand]"
+        },
+        {
+            "hash": "365dfdef4da0b4472be95539b68bcff56051bff7466f8575d6bafe9c3ee7efc0",
+            "path": "\\pptxIcons\\ID_hongtou4.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_hongtou4.png?[rand]"
+        },
+        {
+            "hash": "a43c8d54806996ed46d14d2a25abf82ee59896bd99b26435fb4f0d0a6291917e",
+            "path": "\\pptxIcons\\ID_hongtou5.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_hongtou5.png?[rand]"
+        },
+        {
+            "hash": "53c29355d94d7fde0d3a093e80ba5aee683a8a9b3237239e1d0b3a946f23fe4d",
+            "path": "\\pptxIcons\\ID_h_downgrade.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_h_downgrade.png?[rand]"
+        },
+        {
+            "hash": "a31b2ae22a3c33cbcf1e3add0d4d15bd5a52aed02c42a49669e9dc11a9075761",
+            "path": "\\pptxIcons\\ID_h_repair.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_h_repair.png?[rand]"
+        },
+        {
+            "hash": "bb978c6ea065a638ff1a2b32744620d2fb210948889f8a848188f87e16468e32",
+            "path": "\\pptxIcons\\ID_h_upgrade.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_h_upgrade.png?[rand]"
+        },
+        {
             "hash": "a81e7a3ad898a08407f42c4ec98f8c58b53cb8b628116f418ca5d60374bd92e8",
             "path": "\\pptxIcons\\ID_jiami.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_jiami.png?[rand]"
+        },
+        {
+            "hash": "63528d57ba1f6865fb6b21ba788b4216380016f31ad7ee3050b12c52baae2fad",
+            "path": "\\pptxIcons\\ID_jiaoshi_1.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_jiaoshi_1.png?[rand]"
+        },
+        {
+            "hash": "0b24eb7955270a79167c78968caef95b74441ca5cecdda85f706cf0bd73e9a82",
+            "path": "\\pptxIcons\\ID_jiaoshi_2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_jiaoshi_2.png?[rand]"
+        },
+        {
+            "hash": "7fea9e9e59a8c78bd36d5b25cf48d32110c3ef6d05edc045a1c9868ff3056f3f",
+            "path": "\\pptxIcons\\ID_jiaoshi_3.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_jiaoshi_3.png?[rand]"
+        },
+        {
+            "hash": "1f9a5f79cf1b90b7c92155d214ea86ab40edd7b7994a36e8180ee3bbed7791b8",
+            "path": "\\pptxIcons\\ID_jiaoshi_4.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_jiaoshi_4.png?[rand]"
+        },
+        {
+            "hash": "95318f6d86964fd71eabda85f1362b38a28802b7e5d388eab2d10f7b2880423e",
+            "path": "\\pptxIcons\\ID_jiaoshi_5.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_jiaoshi_5.png?[rand]"
+        },
+        {
+            "hash": "cf6a660a4db360fe52198f60440f55940b71616f0e8e9299b4ff569c0940ae96",
+            "path": "\\pptxIcons\\ID_jiaoshi_bujian.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_jiaoshi_bujian.png?[rand]"
+        },
+        {
+            "hash": "800250097c642bfea3f5b16e284e397e5e459aab1282902a2d369fdedac67036",
+            "path": "\\pptxIcons\\ID_jiaoshi_pinyin.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_jiaoshi_pinyin.png?[rand]"
+        },
+        {
+            "hash": "51f82d1c9c94304c2c722d303779636c602074008cbbdc189bf0a537598d94ca",
+            "path": "\\pptxIcons\\ID_jindutiao.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_jindutiao.png?[rand]"
         },
         {
             "hash": "637b01156e6ae0a3c139e884343f003ad43beb8e3e5e91cd90f147528d7ee6a9",
@@ -409,9 +884,24 @@
             "url": "[host]\/[vision]\\pptxIcons\\ID_jinshu.png?[rand]"
         },
         {
+            "hash": "547600aa25ee780968805a02387a9bb6d50f770a3a1d1dd20a00ace4a55a33a1",
+            "path": "\\pptxIcons\\ID_jiouyema.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_jiouyema.png?[rand]"
+        },
+        {
+            "hash": "822017e913d8899c6f9e6bc55e5ef4bffb67fdf3026c7ebd3c65236644d1693f",
+            "path": "\\pptxIcons\\ID_juguangdeng.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_juguangdeng.png?[rand]"
+        },
+        {
             "hash": "ce313fd13a2c7cd78de2bc08c026f78c5fe1c127fcdd256850936e6e15ed7801",
             "path": "\\pptxIcons\\ID_kuaye.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_kuaye.png?[rand]"
+        },
+        {
+            "hash": "a36017ac51735565b209f5fd0042462707d04ae24a0283847cd127da05d6b115",
+            "path": "\\pptxIcons\\ID_MakeSheet.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_MakeSheet.png?[rand]"
         },
         {
             "hash": "cf52c90a7ef994c9b20c22b93073aa027140ece9fd4fa2bb2f292ce11ad29212",
@@ -444,6 +934,16 @@
             "url": "[host]\/[vision]\\pptxIcons\\ID_network.png?[rand]"
         },
         {
+            "hash": "27122f406804d35d87541a1dd590ae51727672baf6f2b640700323df92969fea",
+            "path": "\\pptxIcons\\ID_ocr.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ocr.png?[rand]"
+        },
+        {
+            "hash": "04f7b79f2351ad42734f956ab292511af8059ebc2f1cb904c06b8bcc6f9fd713",
+            "path": "\\pptxIcons\\ID_p.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_p.png?[rand]"
+        },
+        {
             "hash": "4eac13162cc87e088b51c58f227cd242dca1575806fc5c94c482f65b87bc396e",
             "path": "\\pptxIcons\\ID_pozhidu.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_pozhidu.png?[rand]"
@@ -474,6 +974,21 @@
             "url": "[host]\/[vision]\\pptxIcons\\ID_ppt_word_split.png?[rand]"
         },
         {
+            "hash": "f5176219301cc4973e4bc13d25080973873ad0c28f91f7e533a910bd103ee455",
+            "path": "\\pptxIcons\\ID_qr_box.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_qr_box.png?[rand]"
+        },
+        {
+            "hash": "f70eedce203bde7d833d4dbdd3ac41edc17e4ac2199e7ebc89cc2e8d36379480",
+            "path": "\\pptxIcons\\ID_randImage.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_randImage.png?[rand]"
+        },
+        {
+            "hash": "b735476b70cb19c2fccb3231486db701cbbfbb01faf9d9f33e480649c10822d9",
+            "path": "\\pptxIcons\\ID_regreplace.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_regreplace.png?[rand]"
+        },
+        {
             "hash": "c1ed402d479cfdd3d9e04a72e86f6bedc5feb7a8d94bb99dad351ebbaf29cabd",
             "path": "\\pptxIcons\\ID_remote.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_remote.png?[rand]"
@@ -482,6 +997,11 @@
             "hash": "1a00addfa51d097a42997075375e11377be96902e83d9f636a70e2d130043b82",
             "path": "\\pptxIcons\\ID_Resource.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_Resource.png?[rand]"
+        },
+        {
+            "hash": "b735476b70cb19c2fccb3231486db701cbbfbb01faf9d9f33e480649c10822d9",
+            "path": "\\pptxIcons\\ID_score.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_score.png?[rand]"
         },
         {
             "hash": "30cf170358d43693ce0e2e00a9b58901544953bb7fb35e5de1a3c5c15c03f9f8",
@@ -495,13 +1015,163 @@
         },
         {
             "hash": "d3e4b8d1c93ae878e818c5dd5e9e20f64b1bf990f153aa480530049b581e7012",
+            "path": "\\pptxIcons\\ID_shanchu.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu.png?[rand]"
+        },
+        {
+            "hash": "0aef91eeb98f5b7277874bade043a2b5e348693d75f80881bff20780ac57004c",
+            "path": "\\pptxIcons\\ID_shanchu_1.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_1.png?[rand]"
+        },
+        {
+            "hash": "d420fc15920542699cc0ddbcbf65b6372d10be9701bf445fd00356f8550353c6",
+            "path": "\\pptxIcons\\ID_shanchu_10.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_10.png?[rand]"
+        },
+        {
+            "hash": "43769fdf58a564487aa2bb1dea3c4d7505b3f8a5656ba1afe1db60dfe974b824",
+            "path": "\\pptxIcons\\ID_shanchu_11.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_11.png?[rand]"
+        },
+        {
+            "hash": "1dd9208340355d8a1e68c47cea8c2fb9572f67e250c8aeae51716e2f97471274",
+            "path": "\\pptxIcons\\ID_shanchu_12.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_12.png?[rand]"
+        },
+        {
+            "hash": "764b22fab514a95b3cb8c40758a4d3d590e7248d7455cb921b0904441c647f8f",
+            "path": "\\pptxIcons\\ID_shanchu_13.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_13.png?[rand]"
+        },
+        {
+            "hash": "47b6185f681004f3ecc0ffcb88012d48d2dbef846e8d445a02228d0a744a1426",
+            "path": "\\pptxIcons\\ID_shanchu_2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_2.png?[rand]"
+        },
+        {
+            "hash": "0aef91eeb98f5b7277874bade043a2b5e348693d75f80881bff20780ac57004c",
+            "path": "\\pptxIcons\\ID_shanchu_3.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_3.png?[rand]"
+        },
+        {
+            "hash": "bc2418070a33e3b4331ed0ace5f141106802d748f1d9ddadf7e6d7bf5d6cc5a4",
+            "path": "\\pptxIcons\\ID_shanchu_4.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_4.png?[rand]"
+        },
+        {
+            "hash": "d658a2f61272788554158f62d4f78d3bf1c929cb51d0bd64cf9fc44e85538b7d",
+            "path": "\\pptxIcons\\ID_shanchu_5.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_5.png?[rand]"
+        },
+        {
+            "hash": "fffdebadc763e9e82e87833a5fad723960065be903f10215f2a7d991bfdf155b",
+            "path": "\\pptxIcons\\ID_shanchu_6.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_6.png?[rand]"
+        },
+        {
+            "hash": "17182438da642cae7040a56f068de333187eaf03c86ade9d550e4d34e1a10652",
+            "path": "\\pptxIcons\\ID_shanchu_7.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_7.png?[rand]"
+        },
+        {
+            "hash": "fcf2e16874e81757a375b5749a1d93285deffcff23aacde96d64e837b85d9ee9",
+            "path": "\\pptxIcons\\ID_shanchu_8.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_8.png?[rand]"
+        },
+        {
+            "hash": "ed48c725c6bf624df12e7c2f544389ecc2506505fe431e8c1975868869c8bd90",
+            "path": "\\pptxIcons\\ID_shanchu_9.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_9.png?[rand]"
+        },
+        {
+            "hash": "d3e4b8d1c93ae878e818c5dd5e9e20f64b1bf990f153aa480530049b581e7012",
             "path": "\\pptxIcons\\ID_shanchu_ppt.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_ppt.png?[rand]"
+        },
+        {
+            "hash": "88f1f1abb2c1e1f1e15d1e5877077018c6ab266c1b4c8cd0490d35690ef3619a",
+            "path": "\\pptxIcons\\ID_shanchu_ppt_1.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shanchu_ppt_1.png?[rand]"
+        },
+        {
+            "hash": "43769fdf58a564487aa2bb1dea3c4d7505b3f8a5656ba1afe1db60dfe974b824",
+            "path": "\\pptxIcons\\ID_sheet2xls.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_sheet2xls.png?[rand]"
+        },
+        {
+            "hash": "8af30cd740688097f70fed73f726425fe1a25090b680efe16354654fd2c9a1e4",
+            "path": "\\pptxIcons\\ID_sheetshaixuan.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_sheetshaixuan.png?[rand]"
+        },
+        {
+            "hash": "2adc7b5ea047d8af501af168c842461fd8c9886c7a33e0856d44258e358838b2",
+            "path": "\\pptxIcons\\ID_sheetsmerge.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_sheetsmerge.png?[rand]"
+        },
+        {
+            "hash": "1618ae2a262d1cfc7b813db67f4e2adeb7499c02079aaadf8bb40de6cbe0cb18",
+            "path": "\\pptxIcons\\ID_sheetsplit.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_sheetsplit.png?[rand]"
+        },
+        {
+            "hash": "1b7a56ada6c7718572f3ea2071db57fd0801835602d94adf15c30460f77c5297",
+            "path": "\\pptxIcons\\ID_shouxie.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shouxie.png?[rand]"
+        },
+        {
+            "hash": "1ad0ff3212f3aacfdcec3200c2dfdc431c073dc3cdc4b830f1ac4b026aaf08ff",
+            "path": "\\pptxIcons\\ID_shu2wen.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_shu2wen.png?[rand]"
+        },
+        {
+            "hash": "3fcabff3ad558b75390ae30e32c2e589e0312c89899acecb420b0769953dddd3",
+            "path": "\\pptxIcons\\ID_speech.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_speech.png?[rand]"
+        },
+        {
+            "hash": "d803a638a81dc6e5f061abe2e0168606f74f8db6ab42e919a6610f1471fd50ef",
+            "path": "\\pptxIcons\\ID_speech2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_speech2.png?[rand]"
+        },
+        {
+            "hash": "b523e713d1fe17ef4bb0deb9489dd8eb2a708cc9bdf026fd23a21f8b059b5408",
+            "path": "\\pptxIcons\\ID_splitcell.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_splitcell.png?[rand]"
+        },
+        {
+            "hash": "6259528c97f1a15c018fa304ed473e052722e974d329411beafa065d2643b3c7",
+            "path": "\\pptxIcons\\ID_suiji.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_suiji.png?[rand]"
+        },
+        {
+            "hash": "56b9d072ecc7f02877adebff334120b2f9a614adf55b33049732916e4f124521",
+            "path": "\\pptxIcons\\ID_superreplace.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_superreplace.png?[rand]"
+        },
+        {
+            "hash": "24c3ccc48fe4a5919ab82a61436ac38bc5f6f67ed62b466d2d55536bab2259dc",
+            "path": "\\pptxIcons\\ID_SYSTEM.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_SYSTEM.png?[rand]"
+        },
+        {
+            "hash": "ed48c725c6bf624df12e7c2f544389ecc2506505fe431e8c1975868869c8bd90",
+            "path": "\\pptxIcons\\ID_TABLE.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_TABLE.png?[rand]"
+        },
+        {
+            "hash": "d610b8106dbb23a3f921935846d2264176ca768739759b628a7c86e24bbe51d8",
+            "path": "\\pptxIcons\\ID_tagzuo.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tagzuo.png?[rand]"
         },
         {
             "hash": "ded01143ec86cb2dfb7ee3e26e302749591b26f0aba10a62e6ad63cdd6f47464",
             "path": "\\pptxIcons\\ID_talk.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_talk.png?[rand]"
+        },
+        {
+            "hash": "2ef3eca9359bc901fdb2dfdfa62f529d420459cddbfa1fd8905611723c585a1a",
+            "path": "\\pptxIcons\\ID_TEACHER.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_TEACHER.png?[rand]"
         },
         {
             "hash": "1ad0ff3212f3aacfdcec3200c2dfdc431c073dc3cdc4b830f1ac4b026aaf08ff",
@@ -519,9 +1189,39 @@
             "url": "[host]\/[vision]\\pptxIcons\\ID_ticiqi3.png?[rand]"
         },
         {
+            "hash": "56b9d072ecc7f02877adebff334120b2f9a614adf55b33049732916e4f124521",
+            "path": "\\pptxIcons\\ID_tihuan.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tihuan.png?[rand]"
+        },
+        {
+            "hash": "004c7d4a50b8bc004ff8ff54bbbcedae8fc49ba82c380d33b1d043ac45033bf0",
+            "path": "\\pptxIcons\\ID_tihuan_1.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tihuan_1.png?[rand]"
+        },
+        {
+            "hash": "4f11f53c5b940c9e79d0182b8e4ae97b615c8a839c11b4fd5b5e0a72b5cd2b8f",
+            "path": "\\pptxIcons\\ID_tihuan_2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tihuan_2.png?[rand]"
+        },
+        {
+            "hash": "4f11f53c5b940c9e79d0182b8e4ae97b615c8a839c11b4fd5b5e0a72b5cd2b8f",
+            "path": "\\pptxIcons\\ID_tihuan_3.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tihuan_3.png?[rand]"
+        },
+        {
+            "hash": "d10ec370e042e5067bae62974b9eb04728bb7d3b780988ba1075976a9b1dde49",
+            "path": "\\pptxIcons\\ID_tihuan_4.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tihuan_4.png?[rand]"
+        },
+        {
             "hash": "f4943b642f5b0d211175600e09567f4b37210b3778218c3788697abff21b18a1",
             "path": "\\pptxIcons\\ID_timer.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_timer.png?[rand]"
+        },
+        {
+            "hash": "08d54c68ebc892f3a90331176b8a2c0bba6f7112cdece15b1804e559afedb666",
+            "path": "\\pptxIcons\\ID_tiqubenye.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tiqubenye.png?[rand]"
         },
         {
             "hash": "e088e73def7e16f757a2631b6f64ff91bd6e33537e523384d0695e2a18f0aa98",
@@ -569,6 +1269,11 @@
             "url": "[host]\/[vision]\\pptxIcons\\ID_tools_8.png?[rand]"
         },
         {
+            "hash": "968d19b97d4fb3d492ae745cf50786f14faf17a1659df65539584f9f76c9c138",
+            "path": "\\pptxIcons\\ID_totemplate.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_totemplate.png?[rand]"
+        },
+        {
             "hash": "6d23ca287fb8cf46d175e5dc57717f2b2d17671008ec631d4856d435d3c46d4e",
             "path": "\\pptxIcons\\ID_trigger.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_trigger.png?[rand]"
@@ -577,6 +1282,21 @@
             "hash": "3fcabff3ad558b75390ae30e32c2e589e0312c89899acecb420b0769953dddd3",
             "path": "\\pptxIcons\\ID_tts.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_tts.png?[rand]"
+        },
+        {
+            "hash": "0ad2db8adb8d9ee0b8bdec036bc5d3b6583452d767baa1cc52c061fa6565b4b8",
+            "path": "\\pptxIcons\\ID_tupian.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tupian.png?[rand]"
+        },
+        {
+            "hash": "f70eedce203bde7d833d4dbdd3ac41edc17e4ac2199e7ebc89cc2e8d36379480",
+            "path": "\\pptxIcons\\ID_tupianchicun.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tupianchicun.png?[rand]"
+        },
+        {
+            "hash": "e088e73def7e16f757a2631b6f64ff91bd6e33537e523384d0695e2a18f0aa98",
+            "path": "\\pptxIcons\\ID_tuqutupian.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_tuqutupian.png?[rand]"
         },
         {
             "hash": "1aaa5dacc2510c3f9e72b6a5c573f31c1c79629b09f0579547de882221e83d5a",
@@ -594,9 +1314,39 @@
             "url": "[host]\/[vision]\\pptxIcons\\ID_waci.png?[rand]"
         },
         {
+            "hash": "67c5455055b95846bb1e058c2b8b4e615d7bb1ca98d44cfdf673de7f739d92dc",
+            "path": "\\pptxIcons\\ID_waci1.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_waci1.png?[rand]"
+        },
+        {
+            "hash": "e56155eebebc37e31f256afa8fc759351c86142cf813bd2c94413c18a563da9b",
+            "path": "\\pptxIcons\\ID_waci2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_waci2.png?[rand]"
+        },
+        {
+            "hash": "67c5455055b95846bb1e058c2b8b4e615d7bb1ca98d44cfdf673de7f739d92dc",
+            "path": "\\pptxIcons\\ID_waci4.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_waci4.png?[rand]"
+        },
+        {
+            "hash": "e56155eebebc37e31f256afa8fc759351c86142cf813bd2c94413c18a563da9b",
+            "path": "\\pptxIcons\\ID_waci5.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_waci5.png?[rand]"
+        },
+        {
             "hash": "bafe96aeffc8f836a8bf6d74c742b6735a068d155c21af940e84953fb7e81abe",
             "path": "\\pptxIcons\\ID_webbwoser.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_webbwoser.png?[rand]"
+        },
+        {
+            "hash": "a2fde48c6e2b1c607cbc435af6267d605fc92ffe88f91ba3d803974298564b73",
+            "path": "\\pptxIcons\\ID_weibu.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_weibu.png?[rand]"
+        },
+        {
+            "hash": "c7a4e1de5aea59ad9fc87ef6c34fd0c006d0beffc81b4d91e8c7b70211257b56",
+            "path": "\\pptxIcons\\ID_wen2shu.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_wen2shu.png?[rand]"
         },
         {
             "hash": "4b1ca745bf47b852f4d259f298ec8bd9219fb1d6e70524d808de2277d92f0b3d",
@@ -604,9 +1354,84 @@
             "url": "[host]\/[vision]\\pptxIcons\\ID_wens2wen.png?[rand]"
         },
         {
+            "hash": "08d54c68ebc892f3a90331176b8a2c0bba6f7112cdece15b1804e559afedb666",
+            "path": "\\pptxIcons\\ID_word2jpg.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_word2jpg.png?[rand]"
+        },
+        {
+            "hash": "2d4d2d3184101b6e22973580ecc71e6c3baed5164dc9500c4c774d9b5f9c3fe2",
+            "path": "\\pptxIcons\\ID_WOW.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_WOW.png?[rand]"
+        },
+        {
             "hash": "bd404236dd063b455fc11e9c975d831e1f42e928fe9fcb7f6f77326ec209cbf9",
             "path": "\\pptxIcons\\ID_xingzhuangguodu.png",
             "url": "[host]\/[vision]\\pptxIcons\\ID_xingzhuangguodu.png?[rand]"
+        },
+        {
+            "hash": "054187e4492a6b33d899a81b6b695cd1723e92a68d7a9a2b07426e8ac2becdc9",
+            "path": "\\pptxIcons\\ID_xls_copy.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_xls_copy.png?[rand]"
+        },
+        {
+            "hash": "1618ae2a262d1cfc7b813db67f4e2adeb7499c02079aaadf8bb40de6cbe0cb18",
+            "path": "\\pptxIcons\\ID_xls_gehangtianse.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_xls_gehangtianse.png?[rand]"
+        },
+        {
+            "hash": "7000e2da1cdc9fdb351590fc48868fe10ad3380aebd71f1614718cf677ca83ec",
+            "path": "\\pptxIcons\\ID_xls_micromsg.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_xls_micromsg.png?[rand]"
+        },
+        {
+            "hash": "6d73e79718a98650d04b67333a400e5819a0fc0cd71cce5adcba92860fa22369",
+            "path": "\\pptxIcons\\ID_xls_msgout.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_xls_msgout.png?[rand]"
+        },
+        {
+            "hash": "fb0c4637ab024badcaae2cb6e2d7aab8ca970c44e0a7ce6bf508f674c1f260a4",
+            "path": "\\pptxIcons\\ID_xls_search.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_xls_search.png?[rand]"
+        },
+        {
+            "hash": "2ef3eca9359bc901fdb2dfdfa62f529d420459cddbfa1fd8905611723c585a1a",
+            "path": "\\pptxIcons\\ID_xls_teacher.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_xls_teacher.png?[rand]"
+        },
+        {
+            "hash": "8e4ec4cdb4647a3a6782058c155132823daa0ea32a8adf294334192b3236b2b3",
+            "path": "\\pptxIcons\\ID_xls_teacher_fenban.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_xls_teacher_fenban.png?[rand]"
+        },
+        {
+            "hash": "c7b77d8f40c5622bbab95034606fa5a6c2a405ef0d272e84081f60138c30278a",
+            "path": "\\pptxIcons\\ID_yemian.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_yemian.png?[rand]"
+        },
+        {
+            "hash": "b14da545d5160e28836fc7aba3b1ece13ae2ee0eb2e0cef2cc296b23d7ecb306",
+            "path": "\\pptxIcons\\ID_ZhiNengXieZuo.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ZhiNengXieZuo.png?[rand]"
+        },
+        {
+            "hash": "d803a638a81dc6e5f061abe2e0168606f74f8db6ab42e919a6610f1471fd50ef",
+            "path": "\\pptxIcons\\ID_ZhiNengXieZuo2.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_ZhiNengXieZuo2.png?[rand]"
+        },
+        {
+            "hash": "9b1f11a351a94a4006e192a8f77c89f9a3dde07407ce0036bee80c4f882f5361",
+            "path": "\\pptxIcons\\ID_zhuanzhi.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_zhuanzhi.png?[rand]"
+        },
+        {
+            "hash": "9f4ece108df1c045ac8fa7d155fb3690a31d5a30c447827f3dc9fa709406ec2b",
+            "path": "\\pptxIcons\\ID_zhuijia.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_zhuijia.png?[rand]"
+        },
+        {
+            "hash": "97cce842839988ecd2a20cd8a0272f350aed78b7dc4c197335bc9581910476b4",
+            "path": "\\pptxIcons\\ID_zhuzhuangtu.png",
+            "url": "[host]\/[vision]\\pptxIcons\\ID_zhuzhuangtu.png?[rand]"
         },
         {
             "hash": "40031ca675fa725d45db7c172dbbea7a018cc05083cf470d689316a2b762c3fc",
@@ -624,127 +1449,377 @@
             "url": "[host]\/[vision]\\runtimes\\win-x86\\native\\WebView2Loader.dll?[rand]"
         },
         {
-            "hash": "0b704211b6145b1addefdae42c5c28a10145e43945fe729ffa73b4581ccd0615",
+            "hash": "c2f396401dbdbf2e3873dc34f21811c8098f8cc57c1793aad87ac67a027b4f25",
+            "path": "\\wordIcons\\AI_Copilot_deepseek.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_Copilot_deepseek.png?[rand]"
+        },
+        {
+            "hash": "2babf2ec432720f9faad29db6ed9e0e266f04253ce94a52d3df7845092b3c317",
+            "path": "\\wordIcons\\AI_Copilot_doubao.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_Copilot_doubao.png?[rand]"
+        },
+        {
+            "hash": "8f92d8735ef483cecbffd6bdee8f0ec4718deff73ef3dfae4c95f8b526971d12",
+            "path": "\\wordIcons\\AI_Copilot_kimi.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_Copilot_kimi.png?[rand]"
+        },
+        {
+            "hash": "fc7d25ea4d6ba62ed85689336534cc636b27b84495a5751431f26f2815ce435a",
+            "path": "\\wordIcons\\AI_Copilot_lingxi.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_Copilot_lingxi.png?[rand]"
+        },
+        {
+            "hash": "217bc52e532d45844b74ecd60907dd0def9bbed525fb5248ffa63ab32effb384",
+            "path": "\\wordIcons\\AI_Copilot_qwen.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_Copilot_qwen.png?[rand]"
+        },
+        {
+            "hash": "bfbc67f76e4ba08e779e13a9fde66f04eab2c6f5fd0438aab7be6184c5f83ba8",
+            "path": "\\wordIcons\\AI_gaixie_1.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_gaixie_1.png?[rand]"
+        },
+        {
+            "hash": "492a093a881ea1734b45bf23cba12b5bbb10d8f838c584e99a85cbae2a4268a4",
+            "path": "\\wordIcons\\AI_gaixie_2.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_gaixie_2.png?[rand]"
+        },
+        {
+            "hash": "4d26f52ecea28d0273cd3cc4ed31f3a10f6d921f07cc57c2dad4066731e970bf",
+            "path": "\\wordIcons\\AI_gaixie_3.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_gaixie_3.png?[rand]"
+        },
+        {
+            "hash": "4e24562ff0f4c7e32f07276fa106daa5a9deddb0de1d542b37fa89cae8378da7",
+            "path": "\\wordIcons\\AI_gaixie_4.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_gaixie_4.png?[rand]"
+        },
+        {
+            "hash": "f8193c4a922e17a107e47841061c1dc5052bf4a68b0345bd3ecf7689d3dc3a2a",
+            "path": "\\wordIcons\\AI_gaixie_5.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_gaixie_5.png?[rand]"
+        },
+        {
+            "hash": "c490f017e2679ae7ecf3fc885b905518d3612eba952aeacd31f6c88cabe2ba57",
+            "path": "\\wordIcons\\AI_gaixie_6.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_gaixie_6.png?[rand]"
+        },
+        {
+            "hash": "7fc4283311264708b2e1bf6e8232b55be7581416949e80675ded2b66de5c373c",
+            "path": "\\wordIcons\\AI_gaixie_7.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_gaixie_7.png?[rand]"
+        },
+        {
+            "hash": "9dfbfe7ae497eadda97ab3dc46e24bad167a42de3c9d6490584e4a2177908ad6",
+            "path": "\\wordIcons\\AI_gaixie_8.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_gaixie_8.png?[rand]"
+        },
+        {
+            "hash": "5553fee8736533f9b5b86c77f080c2ddd77dd346bb25b27b77c00f0d50bfd028",
+            "path": "\\wordIcons\\AI_gaixie_9.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_gaixie_9.png?[rand]"
+        },
+        {
+            "hash": "fff057afe7edd9a81d4c0fd9263ed4f11e83836c0dc51a8c9f5b629f3ca84489",
+            "path": "\\wordIcons\\AI_gongneng_1.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_gongneng_1.png?[rand]"
+        },
+        {
+            "hash": "39f76da6cd82a065b5e14f79ec909794e88076687c9aa1ba2162c6fb0883c8a0",
+            "path": "\\wordIcons\\AI_gongneng_2.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_gongneng_2.png?[rand]"
+        },
+        {
+            "hash": "39f76da6cd82a065b5e14f79ec909794e88076687c9aa1ba2162c6fb0883c8a0",
+            "path": "\\wordIcons\\AI_gongneng_3.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_gongneng_3.png?[rand]"
+        },
+        {
+            "hash": "bfbc67f76e4ba08e779e13a9fde66f04eab2c6f5fd0438aab7be6184c5f83ba8",
+            "path": "\\wordIcons\\AI_runse_1.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_runse_1.png?[rand]"
+        },
+        {
+            "hash": "492a093a881ea1734b45bf23cba12b5bbb10d8f838c584e99a85cbae2a4268a4",
+            "path": "\\wordIcons\\AI_runse_2.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_runse_2.png?[rand]"
+        },
+        {
+            "hash": "4d26f52ecea28d0273cd3cc4ed31f3a10f6d921f07cc57c2dad4066731e970bf",
+            "path": "\\wordIcons\\AI_runse_3.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_runse_3.png?[rand]"
+        },
+        {
+            "hash": "4e24562ff0f4c7e32f07276fa106daa5a9deddb0de1d542b37fa89cae8378da7",
+            "path": "\\wordIcons\\AI_runse_4.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_runse_4.png?[rand]"
+        },
+        {
+            "hash": "f8193c4a922e17a107e47841061c1dc5052bf4a68b0345bd3ecf7689d3dc3a2a",
+            "path": "\\wordIcons\\AI_runse_5.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_runse_5.png?[rand]"
+        },
+        {
+            "hash": "c490f017e2679ae7ecf3fc885b905518d3612eba952aeacd31f6c88cabe2ba57",
+            "path": "\\wordIcons\\AI_runse_6.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_runse_6.png?[rand]"
+        },
+        {
+            "hash": "7fc4283311264708b2e1bf6e8232b55be7581416949e80675ded2b66de5c373c",
+            "path": "\\wordIcons\\AI_runse_7.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_runse_7.png?[rand]"
+        },
+        {
+            "hash": "9dfbfe7ae497eadda97ab3dc46e24bad167a42de3c9d6490584e4a2177908ad6",
+            "path": "\\wordIcons\\AI_runse_8.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_runse_8.png?[rand]"
+        },
+        {
+            "hash": "5553fee8736533f9b5b86c77f080c2ddd77dd346bb25b27b77c00f0d50bfd028",
+            "path": "\\wordIcons\\AI_runse_9.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_runse_9.png?[rand]"
+        },
+        {
+            "hash": "47822341cf13a4c6e29ed0a17391d8b2665c73ea11a2161e366267656a593677",
+            "path": "\\wordIcons\\AI_ZhiNengXieZuo.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_ZhiNengXieZuo.png?[rand]"
+        },
+        {
+            "hash": "e724220d793649c9bbf890c173a3fa331a19a2d6624f8501b5416dc4ddf408a0",
+            "path": "\\wordIcons\\AI_ZhiNengXieZuo2.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_ZhiNengXieZuo2.png?[rand]"
+        },
+        {
+            "hash": "c23f2d5be8f810b38f0b03e12bf2ce0a491a07c0cda58af9530c8886d6d70534",
+            "path": "\\wordIcons\\AI_ZhiNengXieZuo_New.png",
+            "url": "[host]\/[vision]\\wordIcons\\AI_ZhiNengXieZuo_New.png?[rand]"
+        },
+        {
+            "hash": "e36eb312efe39262a34f62bcafc52b48b9423d0ae8f2001eef8f5090b9d9696e",
             "path": "\\wordIcons\\ID_2228.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_2228.png?[rand]"
         },
         {
-            "hash": "1cf593f0b83f033aa65b8a96206e99ef9191f1a17484169e3c2c65ffe1f7d6ad",
+            "hash": "400038b52f2ee8a410dfe3d546ab2224688606d699a8694c4920e7609b988bb1",
             "path": "\\wordIcons\\ID_about.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_about.png?[rand]"
         },
         {
-            "hash": "e3ededee97fe45676a68816278d7a831b03779e3d320ec54a51df882d2c5e7e5",
+            "hash": "47d84b870927f0760805c028a24b502b561ceb6860308cb84185bbada736838a",
             "path": "\\wordIcons\\ID_AES.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_AES.png?[rand]"
         },
         {
-            "hash": "437a1f1237afef08757ef3042c0e83fb32a6c22ef6abad8e64ba11c88cab063a",
+            "hash": "cc021b280e71f90c94093cacf50b2b9e836209e80bcb7eef562732ff5f6a8327",
+            "path": "\\wordIcons\\ID_auto.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_auto.png?[rand]"
+        },
+        {
+            "hash": "1eeb88c45942d87dd6ac471b3f71c4e87f2cab5221c99bc977088e4665ec5aee",
             "path": "\\wordIcons\\ID_auto2.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_auto2.png?[rand]"
         },
         {
-            "hash": "b0827f04a477608299e3b4264deb4ed790dcef5e89d94bc32842cc852e896515",
+            "hash": "3539ac066ae17030d0fa3cd17e9e8c8cda69c2d46762c097c7d7efaf7452c8a3",
             "path": "\\wordIcons\\ID_baocun.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_baocun.png?[rand]"
         },
         {
-            "hash": "f3ddfa94aa99c43225e32a638de03190bf798794f1b29c42aee6f4ccaac4bb4f",
+            "hash": "d7aaa51b72c7e9329ea006c41645d3791b7f33af286bd27c0196352d0afc9c61",
             "path": "\\wordIcons\\ID_bianju.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_bianju.png?[rand]"
         },
         {
-            "hash": "721c7c570b12ad6e0256454468a12d144430afde6052d644285c7206cc652f39",
+            "hash": "16431bed39072789ae3d5d304d05a84f8f6b1e90d36c1af7de29be8e49f0f3c0",
             "path": "\\wordIcons\\ID_biaoge_1.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_1.png?[rand]"
         },
         {
-            "hash": "89c7594495679c781331a4db0336a24a73b893e458d3b28df2473f93720083d6",
+            "hash": "8a562a7e3654a833da378ae26933e206f6837f554f285674f0e1551802883b89",
             "path": "\\wordIcons\\ID_biaoge_2.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_2.png?[rand]"
         },
         {
-            "hash": "a36017ac51735565b209f5fd0042462707d04ae24a0283847cd127da05d6b115",
+            "hash": "2aa2205a59fe95d396a1faab0cb67a035e4822cb34ef0053490eaa235a825194",
             "path": "\\wordIcons\\ID_biaoge_3.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_3.png?[rand]"
         },
         {
-            "hash": "89c7594495679c781331a4db0336a24a73b893e458d3b28df2473f93720083d6",
+            "hash": "2aa2205a59fe95d396a1faab0cb67a035e4822cb34ef0053490eaa235a825194",
+            "path": "\\wordIcons\\ID_biaoge_4.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_4.png?[rand]"
+        },
+        {
+            "hash": "56a959f50b91100a39b73ace851959a985294c43c3d4741cabf69fc2ba001b3a",
+            "path": "\\wordIcons\\ID_biaoge_5.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_5.png?[rand]"
+        },
+        {
+            "hash": "8a562a7e3654a833da378ae26933e206f6837f554f285674f0e1551802883b89",
             "path": "\\wordIcons\\ID_biaoge_7.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_7.png?[rand]"
         },
         {
-            "hash": "124ec0798f75bbdf905fb48c1dd4d6e60bbcb5e626518840bd840f9cad3cf0a6",
+            "hash": "56a959f50b91100a39b73ace851959a985294c43c3d4741cabf69fc2ba001b3a",
             "path": "\\wordIcons\\ID_biaoge_jisuan.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_biaoge_jisuan.png?[rand]"
         },
         {
-            "hash": "16e2bf692d99731a979c60fa66264aecc47d2f8a02e40141fc63f40e50d7c25b",
+            "hash": "2d1038210a1de3dd0741d0e61e56be22d4e93a8d1c353753546b646d98b5db94",
+            "path": "\\wordIcons\\ID_cardid.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_cardid.png?[rand]"
+        },
+        {
+            "hash": "17e344d6324bbc848c1cf4f62c6b415f60130dc5603b1afb980a5835a2e0ccb4",
+            "path": "\\wordIcons\\ID_changtu1.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_changtu1.png?[rand]"
+        },
+        {
+            "hash": "ec46729102ed4f79fee9bbd8d10d7b44e6f30be14b4de65ba7665fe23dd7fcd5",
             "path": "\\wordIcons\\ID_chemistry.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_chemistry.png?[rand]"
         },
         {
-            "hash": "24f62644048259efbc3dd0a069bc0c7328ae68f60c102feb45cb8bed98517ea2",
+            "hash": "cd5bddf6513e0e27eb30623ec4431f63366a03463b96d031ab126748709545ae",
             "path": "\\wordIcons\\ID_code.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_code.png?[rand]"
         },
         {
-            "hash": "9f4ece108df1c045ac8fa7d155fb3690a31d5a30c447827f3dc9fa709406ec2b",
+            "hash": "fc7d25ea4d6ba62ed85689336534cc636b27b84495a5751431f26f2815ce435a",
+            "path": "\\wordIcons\\ID_Copilot.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_Copilot.png?[rand]"
+        },
+        {
+            "hash": "a8817d672471f10565d60412c8b9744852317c03570ed5f66d8bcd277fa77799",
+            "path": "\\wordIcons\\ID_coushu.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_coushu.png?[rand]"
+        },
+        {
+            "hash": "ad98d57938a2180aa62d57c94570fc60eb1eec18273ccd55989eb8fb7590fe38",
+            "path": "\\wordIcons\\ID_datamerge.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_datamerge.png?[rand]"
+        },
+        {
+            "hash": "953caaaa1079f4dbfdc0d84135979e8d470c79cfe8b46257f9bfc494fcf70ac0",
+            "path": "\\wordIcons\\ID_del_ani.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_del_ani.png?[rand]"
+        },
+        {
+            "hash": "6d65ea3fb311ca84b0b604ec13995d4cb8f6ce9641921b657d15915e6271e757",
+            "path": "\\wordIcons\\ID_design.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_design.png?[rand]"
+        },
+        {
+            "hash": "3fd3aa0649746b609a5656e4debf27733c40384a8db8392950dc07128db7c3d5",
             "path": "\\wordIcons\\ID_document.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_document.png?[rand]"
         },
         {
-            "hash": "271cb030b6b9a971082cc92ca54b4935e8d4ccb441ff2bc03353fbecf183277b",
+            "hash": "9b6b37d7731d96ceb1d1e6d1fc3952e7b002715172a3ce05f60a19b2b37b504d",
+            "path": "\\wordIcons\\ID_doc_iunsert.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_doc_iunsert.png?[rand]"
+        },
+        {
+            "hash": "c595e0d6d7a3bef1bd06cc4741e9ee66c3c2dd7f2f7f11399fcf2f70c3784a72",
             "path": "\\wordIcons\\ID_fanyi.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_fanyi.png?[rand]"
         },
         {
-            "hash": "874975b79bc4d7c95a8e43f9251ff608b64a51a576577851de77e335080d5ad9",
+            "hash": "797616343269be6dec0f4e6c22c75f1d249b53e5965701a7b626952773ea0cff",
             "path": "\\wordIcons\\ID_fuhao.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_fuhao.png?[rand]"
         },
         {
-            "hash": "4326d689182576053fb96fc43d03101533e9da675d7eef40870905e0295497aa",
+            "hash": "c572ec0cc1b3bc59fcd00a5930be113d45974106bba85e219d6816a7cb19f4c9",
+            "path": "\\wordIcons\\ID_gantetu.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_gantetu.png?[rand]"
+        },
+        {
+            "hash": "c595e0d6d7a3bef1bd06cc4741e9ee66c3c2dd7f2f7f11399fcf2f70c3784a72",
+            "path": "\\wordIcons\\ID_getfonts.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_getfonts.png?[rand]"
+        },
+        {
+            "hash": "a658668cd327c6e0eebae7df8aace34380378fbb2fa163f54173e1ebb7fb81ab",
             "path": "\\wordIcons\\ID_GONGWENBUJIAN.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_GONGWENBUJIAN.png?[rand]"
         },
         {
-            "hash": "9719a76c2675fddcf9b5ebbaeeb4387f2ed1206bb9b77c8cd006791e89a0a040",
+            "hash": "b22941250bc605a619894d1d5111fe332531ad52918e2f32bc39079e2dff158c",
+            "path": "\\wordIcons\\ID_gongzitiao.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_gongzitiao.png?[rand]"
+        },
+        {
+            "hash": "d380f21bc6f7f4a6813eb38414c078cbe58d1abc51c4c251d0618e55f5da3220",
+            "path": "\\wordIcons\\ID_green.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_green.png?[rand]"
+        },
+        {
+            "hash": "50bfa14fca7de469442f756acc09c78b9ce025cc12d7e10bc4af2618a16d56ab",
             "path": "\\wordIcons\\ID_h.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_h.png?[rand]"
         },
         {
-            "hash": "d982d1688f656bf2ab2af17c14fbf9346011934e7781446c44f03b8f2dd77051",
+            "hash": "ac623db21a966a4ff41e9df07685d87d33ff573b7843c36787acf5b2d19f8d5a",
             "path": "\\wordIcons\\ID_h1.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_h1.png?[rand]"
         },
         {
-            "hash": "e23ac7dab0e86272164b7cc8d2b03a5b56c8df5f5a2769b50e5c3b31307b2ba8",
+            "hash": "b2fa16ea09d02fcdbc3afa9187797f3a16b95f7e2301ddabb37b0eef6d9891b7",
             "path": "\\wordIcons\\ID_h2.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_h2.png?[rand]"
         },
         {
-            "hash": "ea48708306dd53f26af0bf03b4330811e954a49a42e2558e4a35721423291d78",
+            "hash": "2f1ea7da3f3b7853922f634dd60f0820eca7cffcd08660fcabb647f254ab1812",
             "path": "\\wordIcons\\ID_h3.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_h3.png?[rand]"
         },
         {
-            "hash": "15bde04ebf2912cda913f9d17d6bc6c35d5d84a547177cd17e6b21439336f41e",
+            "hash": "63ee4809e43a9837e24e5c4b81fc0ba6f491e2efc98b999877f837dc7549c0e2",
+            "path": "\\wordIcons\\ID_hanshu.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_hanshu.png?[rand]"
+        },
+        {
+            "hash": "3b4e68216cd368277834ddd3ea42ff91519ed6432f2e8718889419b0b7d9f31d",
             "path": "\\wordIcons\\ID_hh.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_hh.png?[rand]"
         },
         {
-            "hash": "53c29355d94d7fde0d3a093e80ba5aee683a8a9b3237239e1d0b3a946f23fe4d",
+            "hash": "e014d59805012a7a2ab6677df34b3b5cdf5cc80104bcb251c7790678b6e1e85f",
+            "path": "\\wordIcons\\ID_hongtou1.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_hongtou1.png?[rand]"
+        },
+        {
+            "hash": "9673727312a692ec3798728370e10348ede7fa0d7a704b843e2c48c968814c20",
+            "path": "\\wordIcons\\ID_hongtou2.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_hongtou2.png?[rand]"
+        },
+        {
+            "hash": "6a7082ce7b21b3045998a0bc2da8412d8d1c1fa15ff8048a5c0f90fddf6712f9",
+            "path": "\\wordIcons\\ID_hongtou3.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_hongtou3.png?[rand]"
+        },
+        {
+            "hash": "22af2ed3c6e139269adba1e6d694e7c04704185257b851c3209d2446db69845a",
+            "path": "\\wordIcons\\ID_hongtou4.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_hongtou4.png?[rand]"
+        },
+        {
+            "hash": "9f68a1090474a54a17470bd90a2b52afb921f2391bf6b9a1c2ddee46aa5f6e6d",
+            "path": "\\wordIcons\\ID_hongtou5.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_hongtou5.png?[rand]"
+        },
+        {
+            "hash": "94f704dd15442c4ccd1aa3300b29b5046375ab25023d5cd5ae8b0b899fe6e2b0",
             "path": "\\wordIcons\\ID_h_downgrade.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_h_downgrade.png?[rand]"
         },
         {
-            "hash": "a31b2ae22a3c33cbcf1e3add0d4d15bd5a52aed02c42a49669e9dc11a9075761",
+            "hash": "2d23218c082d76b52088539aed17ff45c7d6bc5d0205fb0083432b21ef5c4bf9",
             "path": "\\wordIcons\\ID_h_repair.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_h_repair.png?[rand]"
         },
         {
-            "hash": "bb978c6ea065a638ff1a2b32744620d2fb210948889f8a848188f87e16468e32",
+            "hash": "8476455f2329df15093796ee71d27358c1fa5913c51fa4b9c6ae5881b0b96bd5",
             "path": "\\wordIcons\\ID_h_upgrade.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_h_upgrade.png?[rand]"
         },
@@ -759,84 +1834,164 @@
             "url": "[host]\/[vision]\\wordIcons\\ID_insertdate.png?[rand]"
         },
         {
-            "hash": "a81e7a3ad898a08407f42c4ec98f8c58b53cb8b628116f418ca5d60374bd92e8",
+            "hash": "66bec70f72b87e49ac0270ce9d4972247dce809d18ceafffbb8468cdf3d0c885",
             "path": "\\wordIcons\\ID_jiami.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiami.png?[rand]"
         },
         {
-            "hash": "63528d57ba1f6865fb6b21ba788b4216380016f31ad7ee3050b12c52baae2fad",
+            "hash": "c29ed96780242512797edc0e94b4e6318f081e220326e082980c4cd964b929cc",
             "path": "\\wordIcons\\ID_jiaoshi_1.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_1.png?[rand]"
         },
         {
-            "hash": "0b24eb7955270a79167c78968caef95b74441ca5cecdda85f706cf0bd73e9a82",
+            "hash": "5f41ebfc3d149a2d6ac04dcb0c5eed8855646a220b199d31d95942a74dd69cde",
             "path": "\\wordIcons\\ID_jiaoshi_2.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_2.png?[rand]"
         },
         {
-            "hash": "1f9a5f79cf1b90b7c92155d214ea86ab40edd7b7994a36e8180ee3bbed7791b8",
+            "hash": "c587eb710c825b0c39c5b682339a2afc16110c48f7bed8777fbcf9541665959b",
+            "path": "\\wordIcons\\ID_jiaoshi_3.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_3.png?[rand]"
+        },
+        {
+            "hash": "bd7bc551e728cbd69a465fda4ef177cdfe197e8310493cce256a4295f94620e7",
             "path": "\\wordIcons\\ID_jiaoshi_4.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_4.png?[rand]"
         },
         {
-            "hash": "95318f6d86964fd71eabda85f1362b38a28802b7e5d388eab2d10f7b2880423e",
+            "hash": "ba0ce0ccb3185fd3c20667d87ec0369000e55a93e767e7b612108196dda79a01",
             "path": "\\wordIcons\\ID_jiaoshi_5.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_5.png?[rand]"
         },
         {
-            "hash": "cf6a660a4db360fe52198f60440f55940b71616f0e8e9299b4ff569c0940ae96",
+            "hash": "4dda98ea12641d2ab72543c9a145564b99845ba2d48f81150bcc0b7a9209f87f",
             "path": "\\wordIcons\\ID_jiaoshi_bujian.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_bujian.png?[rand]"
         },
         {
-            "hash": "800250097c642bfea3f5b16e284e397e5e459aab1282902a2d369fdedac67036",
+            "hash": "8ca63c9a9a5c40feebc99891e101b58277192482ab3e8b334235a29cdecc2b33",
             "path": "\\wordIcons\\ID_jiaoshi_pinyin.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiaoshi_pinyin.png?[rand]"
         },
         {
-            "hash": "547600aa25ee780968805a02387a9bb6d50f770a3a1d1dd20a00ace4a55a33a1",
+            "hash": "978e95511f5936c57a7a08d758340f3b2637487ba44b7a442ba357b27b6f0b62",
+            "path": "\\wordIcons\\ID_jindutiao.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_jindutiao.png?[rand]"
+        },
+        {
+            "hash": "c91943e4ffde6c03602942b02ab7f1d315bf6e62e4bcedb5d914946a093cc8ff",
+            "path": "\\wordIcons\\ID_jinshu.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_jinshu.png?[rand]"
+        },
+        {
+            "hash": "e15a69bdc86d0e9bc0cccd5fc3dd6a0215d01b07c0b3d99095790c7fea351e77",
             "path": "\\wordIcons\\ID_jiouyema.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_jiouyema.png?[rand]"
         },
         {
-            "hash": "20f581cb847a543e10a5f6f8b9de4e653d26f5fd819eca2c3c966b5d9a6908c9",
+            "hash": "37004e2088348c19664f180a901330a878f6e159cf67799799f8f67079306fc2",
+            "path": "\\wordIcons\\ID_juguangdeng.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_juguangdeng.png?[rand]"
+        },
+        {
+            "hash": "1c97a78ec4aac20fbe708f52dc7093c363c7465c02b657b481fec879c67f8110",
+            "path": "\\wordIcons\\ID_kuaye.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_kuaye.png?[rand]"
+        },
+        {
+            "hash": "2aa2205a59fe95d396a1faab0cb67a035e4822cb34ef0053490eaa235a825194",
+            "path": "\\wordIcons\\ID_MakeSheet.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_MakeSheet.png?[rand]"
+        },
+        {
+            "hash": "543c859d273bc0c854628294477df54d10309b4c5d9b47c6e725bbd9eb4cfa68",
+            "path": "\\wordIcons\\ID_mengceng.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_mengceng.png?[rand]"
+        },
+        {
+            "hash": "f972a78e007a5d944b709f32aa23a3f1575ed0198b9cc74cd741f63dd463b9fd",
             "path": "\\wordIcons\\ID_NAV.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_NAV.png?[rand]"
         },
         {
-            "hash": "6a6bec90011b5a46ad7cd17e42f3df0f17e000c461cbd619bce904aac65f8f6d",
+            "hash": "f4483975d08c0f56a1ebb0ad76a9ec2e15635f30870412abd1c0dd74fec2e1d6",
             "path": "\\wordIcons\\ID_nav_1.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_nav_1.png?[rand]"
         },
         {
-            "hash": "a05cceb2c27d3868f597eec5cac87aa08ebd861cc8328b69a6848c7ebace1eac",
+            "hash": "0824a666d874745a6ef4af580b5eb951f62a074dc3384b206b172d8b324865c3",
             "path": "\\wordIcons\\ID_nav_2.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_nav_2.png?[rand]"
         },
         {
-            "hash": "5552fd2bdd88085754e4ef9e798a5cd07575d0327307ab3112c6def1162d7cf0",
+            "hash": "5fdbfee44194b7d344b1b8e6feaece9c1caebc24bff72417c19b1ad4bb4b0097",
             "path": "\\wordIcons\\ID_nav_3.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_nav_3.png?[rand]"
         },
         {
-            "hash": "ed81ef2388c4ce40f493d3858faa61a7ab83904fc0a42344d4b47b3fe2e699fd",
+            "hash": "0f789575d0c2d7fcb36358ec386e25adb444be24fd8db883d174fdd03c363243",
             "path": "\\wordIcons\\ID_network.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_network.png?[rand]"
         },
         {
-            "hash": "27122f406804d35d87541a1dd590ae51727672baf6f2b640700323df92969fea",
+            "hash": "a80087864d01e57569b90cddbadf097e274258a5fd802069de7797fb6ef081d0",
             "path": "\\wordIcons\\ID_ocr.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_ocr.png?[rand]"
         },
         {
-            "hash": "04f7b79f2351ad42734f956ab292511af8059ebc2f1cb904c06b8bcc6f9fd713",
+            "hash": "3deaa56b44d754a49a538bb35bed46a81878bf4f2b1a89157e431681b80689b9",
             "path": "\\wordIcons\\ID_p.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_p.png?[rand]"
         },
         {
-            "hash": "4eac13162cc87e088b51c58f227cd242dca1575806fc5c94c482f65b87bc396e",
+            "hash": "246dc9914c356c05a40b14136e7874c3916882ef9cab0c9a48999d8bdc28846e",
             "path": "\\wordIcons\\ID_pozhidu.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_pozhidu.png?[rand]"
+        },
+        {
+            "hash": "5f41ebfc3d149a2d6ac04dcb0c5eed8855646a220b199d31d95942a74dd69cde",
+            "path": "\\wordIcons\\ID_ppt_exportimg.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_ppt_exportimg.png?[rand]"
+        },
+        {
+            "hash": "e36eb312efe39262a34f62bcafc52b48b9423d0ae8f2001eef8f5090b9d9696e",
+            "path": "\\wordIcons\\ID_ppt_image_clip.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_ppt_image_clip.png?[rand]"
+        },
+        {
+            "hash": "5407f2095c892e778397e93930fe3d67f4200ec881b98ead835e47cdb759785a",
+            "path": "\\wordIcons\\ID_ppt_image_clipout.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_ppt_image_clipout.png?[rand]"
+        },
+        {
+            "hash": "0eedf46c815be08417ed4c3ecc801326975cd2cb4d779213b31eebdf4d40fcf5",
+            "path": "\\wordIcons\\ID_ppt_prototype.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_ppt_prototype.png?[rand]"
+        },
+        {
+            "hash": "a730fa42693c165a7e1a9daa003f4f32c33130f6aa5e38ec98b05cc842726296",
+            "path": "\\wordIcons\\ID_ppt_word_split.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_ppt_word_split.png?[rand]"
+        },
+        {
+            "hash": "1858610a138856e3e6af6f644ac95362c273bf27a252898e87273c1b4e4a27f4",
+            "path": "\\wordIcons\\ID_qr_box.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_qr_box.png?[rand]"
+        },
+        {
+            "hash": "3d5a32eb39d960b15946ed0f1c305bb3c93580b96104cb4b9a632131adfb3b2e",
+            "path": "\\wordIcons\\ID_randImage.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_randImage.png?[rand]"
+        },
+        {
+            "hash": "9cc82d9c759b633241c4d07173fe9194e582676dbdd3b885724142317357eb3d",
+            "path": "\\wordIcons\\ID_regreplace.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_regreplace.png?[rand]"
+        },
+        {
+            "hash": "6a03044692257b2dd89d60d13eb4dd88626506d95b0498c0eb8516ab3212b123",
+            "path": "\\wordIcons\\ID_remote.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_remote.png?[rand]"
         },
         {
             "hash": "728d442e5dc71242c2897f45a7fb4daccc967e74debcb605814ccc7025e650e2",
@@ -844,114 +1999,444 @@
             "url": "[host]\/[vision]\\wordIcons\\ID_renyiyema.png?[rand]"
         },
         {
-            "hash": "1a00addfa51d097a42997075375e11377be96902e83d9f636a70e2d130043b82",
+            "hash": "a47c4a04ccb9eda944bf82cbd1152844c1a45697a31dc7f682027c845232fd42",
             "path": "\\wordIcons\\ID_Resource.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_Resource.png?[rand]"
         },
         {
-            "hash": "30cf170358d43693ce0e2e00a9b58901544953bb7fb35e5de1a3c5c15c03f9f8",
+            "hash": "9cc82d9c759b633241c4d07173fe9194e582676dbdd3b885724142317357eb3d",
+            "path": "\\wordIcons\\ID_score.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_score.png?[rand]"
+        },
+        {
+            "hash": "8499d91b473d067bbf2236b38c9cae8d3f58844d3149dc28e38e138c4b55ea1b",
             "path": "\\wordIcons\\ID_setting.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_setting.png?[rand]"
         },
         {
-            "hash": "25669f40a35136b110bd04d76cd0a110de25bffcad1dfd31240f9936aa8d41d6",
+            "hash": "bdd0b3311781facfddffb18e19e2f73998f19a56f8bc755b054379c89a3b4d07",
             "path": "\\wordIcons\\ID_setting2.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_setting2.png?[rand]"
         },
         {
-            "hash": "d3e4b8d1c93ae878e818c5dd5e9e20f64b1bf990f153aa480530049b581e7012",
+            "hash": "c23f2d5be8f810b38f0b03e12bf2ce0a491a07c0cda58af9530c8886d6d70534",
             "path": "\\wordIcons\\ID_shanchu.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_shanchu.png?[rand]"
         },
         {
-            "hash": "1b7a56ada6c7718572f3ea2071db57fd0801835602d94adf15c30460f77c5297",
+            "hash": "e36ba422b05f2f516bd2a64f897b202a44a5e1a331abafe160b7eef1b702f38e",
+            "path": "\\wordIcons\\ID_shanchu_1.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu_1.png?[rand]"
+        },
+        {
+            "hash": "88672083a69f1579263712c7a3b2707f3cae93170a7262b0c621a91c1b96891f",
+            "path": "\\wordIcons\\ID_shanchu_10.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu_10.png?[rand]"
+        },
+        {
+            "hash": "8f76b6d9954e27b2cdca39a0995fbe5071d5de4c7788b1f359f792498ed3963d",
+            "path": "\\wordIcons\\ID_shanchu_11.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu_11.png?[rand]"
+        },
+        {
+            "hash": "56eae2ba690d43090e625e7d0df810638de91043699d0f5fff76c2880fc6d740",
+            "path": "\\wordIcons\\ID_shanchu_12.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu_12.png?[rand]"
+        },
+        {
+            "hash": "12d92e7b87f7537e905b557ea1b40763fe9f2bf95031482db6e39d05df6686b5",
+            "path": "\\wordIcons\\ID_shanchu_13.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu_13.png?[rand]"
+        },
+        {
+            "hash": "93e6c8234887deb7791c16c8953617d885df92620d54d2cf835130d3c7201f22",
+            "path": "\\wordIcons\\ID_shanchu_2.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu_2.png?[rand]"
+        },
+        {
+            "hash": "e36ba422b05f2f516bd2a64f897b202a44a5e1a331abafe160b7eef1b702f38e",
+            "path": "\\wordIcons\\ID_shanchu_3.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu_3.png?[rand]"
+        },
+        {
+            "hash": "626d39fb6232cc421348acc1ad5e2b70cf9138b82ff84e0893cbf3a7c6390240",
+            "path": "\\wordIcons\\ID_shanchu_4.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu_4.png?[rand]"
+        },
+        {
+            "hash": "6dc5e077bf2d786fd8c1145ac6abf3a2351f020135b61bc3bb4ca0eb4461ff53",
+            "path": "\\wordIcons\\ID_shanchu_5.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu_5.png?[rand]"
+        },
+        {
+            "hash": "da30e41957fb0408c451a8d1569829be5bd65c82d42c7921c22764d5cb2fd0be",
+            "path": "\\wordIcons\\ID_shanchu_6.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu_6.png?[rand]"
+        },
+        {
+            "hash": "c9c9c6fc0238abce0896c8cb0456ab643f2eadb69b4399401feb3006a5d57944",
+            "path": "\\wordIcons\\ID_shanchu_7.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu_7.png?[rand]"
+        },
+        {
+            "hash": "628cc729a4e2da5b0a26ae03dc952466ec3561ca3d0d24fa42a207c139e4cc31",
+            "path": "\\wordIcons\\ID_shanchu_8.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu_8.png?[rand]"
+        },
+        {
+            "hash": "673f9eeecd30a0141a89d666acc247acd0589baf7597c662cb04005b2fd111e5",
+            "path": "\\wordIcons\\ID_shanchu_9.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu_9.png?[rand]"
+        },
+        {
+            "hash": "c23f2d5be8f810b38f0b03e12bf2ce0a491a07c0cda58af9530c8886d6d70534",
+            "path": "\\wordIcons\\ID_shanchu_ppt.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu_ppt.png?[rand]"
+        },
+        {
+            "hash": "953caaaa1079f4dbfdc0d84135979e8d470c79cfe8b46257f9bfc494fcf70ac0",
+            "path": "\\wordIcons\\ID_shanchu_ppt_1.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shanchu_ppt_1.png?[rand]"
+        },
+        {
+            "hash": "8f76b6d9954e27b2cdca39a0995fbe5071d5de4c7788b1f359f792498ed3963d",
+            "path": "\\wordIcons\\ID_sheet2xls.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_sheet2xls.png?[rand]"
+        },
+        {
+            "hash": "fa32342710b9945987eb8c6f1c104020d1ee9e2b825a962e2a40ec23fa84847a",
+            "path": "\\wordIcons\\ID_sheetshaixuan.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_sheetshaixuan.png?[rand]"
+        },
+        {
+            "hash": "5d7a952232c685e9b3245324939e317d81c057fe91ac5184cb97b148c2b9846d",
+            "path": "\\wordIcons\\ID_sheetsmerge.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_sheetsmerge.png?[rand]"
+        },
+        {
+            "hash": "6613a9e3211a51aecf9f8f1fe722001e91a89bd0fbbb64e91905fafd5c3f54c2",
+            "path": "\\wordIcons\\ID_sheetsplit.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_sheetsplit.png?[rand]"
+        },
+        {
+            "hash": "08afffa7c6bbba0bc9ea42a1ad28b745c8bc87cb1b5b06f171ce585a0fb934b9",
             "path": "\\wordIcons\\ID_shouxie.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_shouxie.png?[rand]"
         },
         {
-            "hash": "3fcabff3ad558b75390ae30e32c2e589e0312c89899acecb420b0769953dddd3",
+            "hash": "3ad18088636a6cc7029ba6b5bfbb1dfd9f9b440958e72f9eb9da3b6306d8b472",
+            "path": "\\wordIcons\\ID_shu2wen.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_shu2wen.png?[rand]"
+        },
+        {
+            "hash": "5932742a9e7b4d56016530926d91bc828f84db1a28f046a5f27d4479aef81095",
             "path": "\\wordIcons\\ID_speech.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_speech.png?[rand]"
         },
         {
-            "hash": "56b9d072ecc7f02877adebff334120b2f9a614adf55b33049732916e4f124521",
+            "hash": "e724220d793649c9bbf890c173a3fa331a19a2d6624f8501b5416dc4ddf408a0",
+            "path": "\\wordIcons\\ID_speech2.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_speech2.png?[rand]"
+        },
+        {
+            "hash": "98e873b9ce187db1d1156dd3a4c3bf4843a52e93f6c5cf4ec9be4ad9365af918",
+            "path": "\\wordIcons\\ID_splitcell.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_splitcell.png?[rand]"
+        },
+        {
+            "hash": "1c6a3480bd0cda2db15b3b16bfac8ab612121b3e6bcddb89a3c0952c59bf3908",
+            "path": "\\wordIcons\\ID_suiji.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_suiji.png?[rand]"
+        },
+        {
+            "hash": "980c2a861352dfca24a7ace0bfa3df669fdd2d967996969ee11af415517eb9e0",
             "path": "\\wordIcons\\ID_superreplace.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_superreplace.png?[rand]"
         },
         {
-            "hash": "24c3ccc48fe4a5919ab82a61436ac38bc5f6f67ed62b466d2d55536bab2259dc",
+            "hash": "50e841858fd5afcf496171027e255a8523f53a975034d77923dad6565647ab3e",
             "path": "\\wordIcons\\ID_SYSTEM.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_SYSTEM.png?[rand]"
         },
         {
-            "hash": "ed48c725c6bf624df12e7c2f544389ecc2506505fe431e8c1975868869c8bd90",
+            "hash": "673f9eeecd30a0141a89d666acc247acd0589baf7597c662cb04005b2fd111e5",
             "path": "\\wordIcons\\ID_TABLE.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_TABLE.png?[rand]"
         },
         {
-            "hash": "d610b8106dbb23a3f921935846d2264176ca768739759b628a7c86e24bbe51d8",
+            "hash": "e745e939434ec577efaaf69629f4d17ea2b082c3faed2e45761b2feeb8fd0cd9",
             "path": "\\wordIcons\\ID_tagzuo.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_tagzuo.png?[rand]"
         },
         {
-            "hash": "ded01143ec86cb2dfb7ee3e26e302749591b26f0aba10a62e6ad63cdd6f47464",
+            "hash": "f78794a1db579f979124115d718cd83f2b677dbd9071c56cb5f0071c3920489d",
             "path": "\\wordIcons\\ID_talk.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_talk.png?[rand]"
         },
         {
-            "hash": "2ef3eca9359bc901fdb2dfdfa62f529d420459cddbfa1fd8905611723c585a1a",
+            "hash": "4d8240d4843b49379a30b85a1d475296a166418b6eb548aa66aaa0082047f2b7",
             "path": "\\wordIcons\\ID_TEACHER.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_TEACHER.png?[rand]"
         },
         {
-            "hash": "1ad0ff3212f3aacfdcec3200c2dfdc431c073dc3cdc4b830f1ac4b026aaf08ff",
+            "hash": "3ad18088636a6cc7029ba6b5bfbb1dfd9f9b440958e72f9eb9da3b6306d8b472",
             "path": "\\wordIcons\\ID_ticiqi.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_ticiqi.png?[rand]"
         },
         {
-            "hash": "56b9d072ecc7f02877adebff334120b2f9a614adf55b33049732916e4f124521",
+            "hash": "3ad18088636a6cc7029ba6b5bfbb1dfd9f9b440958e72f9eb9da3b6306d8b472",
+            "path": "\\wordIcons\\ID_ticiqi2.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_ticiqi2.png?[rand]"
+        },
+        {
+            "hash": "3ad18088636a6cc7029ba6b5bfbb1dfd9f9b440958e72f9eb9da3b6306d8b472",
+            "path": "\\wordIcons\\ID_ticiqi3.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_ticiqi3.png?[rand]"
+        },
+        {
+            "hash": "980c2a861352dfca24a7ace0bfa3df669fdd2d967996969ee11af415517eb9e0",
             "path": "\\wordIcons\\ID_tihuan.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_tihuan.png?[rand]"
         },
         {
-            "hash": "0ad2db8adb8d9ee0b8bdec036bc5d3b6583452d767baa1cc52c061fa6565b4b8",
+            "hash": "b860cdb5122d041ae6b7437902b39e57c13945288af1020fff9e45b490fe48c3",
+            "path": "\\wordIcons\\ID_tihuan_1.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tihuan_1.png?[rand]"
+        },
+        {
+            "hash": "39f76da6cd82a065b5e14f79ec909794e88076687c9aa1ba2162c6fb0883c8a0",
+            "path": "\\wordIcons\\ID_tihuan_2.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tihuan_2.png?[rand]"
+        },
+        {
+            "hash": "39f76da6cd82a065b5e14f79ec909794e88076687c9aa1ba2162c6fb0883c8a0",
+            "path": "\\wordIcons\\ID_tihuan_3.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tihuan_3.png?[rand]"
+        },
+        {
+            "hash": "f7ce3af27fb5253c5fdc34711221ebc550f3eadc8a913dad62a9d9fb5edf0f5c",
+            "path": "\\wordIcons\\ID_tihuan_4.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tihuan_4.png?[rand]"
+        },
+        {
+            "hash": "680d168618ad4c70e5fde26e7100972094e693e8d0f296588950d2ecc9e1a2c1",
+            "path": "\\wordIcons\\ID_timer.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_timer.png?[rand]"
+        },
+        {
+            "hash": "bfbcaa7143e3586136ebf806160d352719cab28d047bcb538783ebc8e1c61c24",
+            "path": "\\wordIcons\\ID_tiqubenye.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tiqubenye.png?[rand]"
+        },
+        {
+            "hash": "55e43e59969d2dff634c87123c5548bc1661ada42724c0c8098c86d7d424c639",
+            "path": "\\wordIcons\\ID_tiqutupian.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tiqutupian.png?[rand]"
+        },
+        {
+            "hash": "48694d8a18e59dd57e0628b3b56207abad36efc0fa478de0f9dc3cf0d5d63f2c",
+            "path": "\\wordIcons\\ID_tools_1.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tools_1.png?[rand]"
+        },
+        {
+            "hash": "f46337a41b9608feb69ecb49d7071f3991e2ae1c3911303b1dd91e2bdf583f90",
+            "path": "\\wordIcons\\ID_tools_2.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tools_2.png?[rand]"
+        },
+        {
+            "hash": "bf54bb15699a661c3a486b2e3561626c3cacf54424ff0438f55a3cff54844ecb",
+            "path": "\\wordIcons\\ID_tools_3.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tools_3.png?[rand]"
+        },
+        {
+            "hash": "67e20bc533532f7d0c21f1b1f5d1e4c83b85fca34f70a9497396fe8705e34383",
+            "path": "\\wordIcons\\ID_tools_4.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tools_4.png?[rand]"
+        },
+        {
+            "hash": "2069ab38c951951dab979898cd1e5686131734958c7de7936cc6d6844a97f5e5",
+            "path": "\\wordIcons\\ID_tools_5.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tools_5.png?[rand]"
+        },
+        {
+            "hash": "d3e6f8beea63d6d386968b795dee22a8006b6a37d9b8c2ca9c4193a071e962b9",
+            "path": "\\wordIcons\\ID_tools_6.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tools_6.png?[rand]"
+        },
+        {
+            "hash": "dfaa92b870720a79f11cd7dd08c88b725b3c47c511e889551a2cd66eada4c686",
+            "path": "\\wordIcons\\ID_tools_7.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tools_7.png?[rand]"
+        },
+        {
+            "hash": "93e6c8234887deb7791c16c8953617d885df92620d54d2cf835130d3c7201f22",
+            "path": "\\wordIcons\\ID_tools_8.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tools_8.png?[rand]"
+        },
+        {
+            "hash": "effaa47e11928f93b4d8d3e32e8e962161cde15a7344fcb0428754822940ac57",
+            "path": "\\wordIcons\\ID_totemplate.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_totemplate.png?[rand]"
+        },
+        {
+            "hash": "ec1f32c92fe5bdf40a4ff952a0074fed8c7c17668ae39cd47f1c0f6ae1e94fb1",
+            "path": "\\wordIcons\\ID_trigger.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_trigger.png?[rand]"
+        },
+        {
+            "hash": "5932742a9e7b4d56016530926d91bc828f84db1a28f046a5f27d4479aef81095",
+            "path": "\\wordIcons\\ID_tts.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tts.png?[rand]"
+        },
+        {
+            "hash": "04c9feddbb22daf9710128f03597a54f852400ba699dd513be35a962d7c3209c",
             "path": "\\wordIcons\\ID_tupian.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_tupian.png?[rand]"
         },
         {
-            "hash": "1aaa5dacc2510c3f9e72b6a5c573f31c1c79629b09f0579547de882221e83d5a",
+            "hash": "3d5a32eb39d960b15946ed0f1c305bb3c93580b96104cb4b9a632131adfb3b2e",
+            "path": "\\wordIcons\\ID_tupianchicun.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tupianchicun.png?[rand]"
+        },
+        {
+            "hash": "55e43e59969d2dff634c87123c5548bc1661ada42724c0c8098c86d7d424c639",
+            "path": "\\wordIcons\\ID_tuqutupian.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_tuqutupian.png?[rand]"
+        },
+        {
+            "hash": "595958734d788d4e3fd4b6482d181f785d40f3a3e0d271286fb6c916e16c8faa",
             "path": "\\wordIcons\\ID_user.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_user.png?[rand]"
         },
         {
-            "hash": "9488e96ed99a2500bede066bebbb1f192c4cfff3af7a8023947194c5adf7912a",
+            "hash": "79dd0caf7aa8a77eb3a8ea9d76396343b76be98fc1b92443dcaa4183091e4e8e",
             "path": "\\wordIcons\\ID_vbas.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_vbas.png?[rand]"
         },
         {
-            "hash": "e56155eebebc37e31f256afa8fc759351c86142cf813bd2c94413c18a563da9b",
+            "hash": "24b55b35386f1bc650e73bd5f4b9cf9325d6ec915d6118b436984ff8403ddfe2",
             "path": "\\wordIcons\\ID_waci.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_waci.png?[rand]"
         },
         {
-            "hash": "a2fde48c6e2b1c607cbc435af6267d605fc92ffe88f91ba3d803974298564b73",
+            "hash": "8548f70d50ae381ba3ec14c101143f474678b36121b68f2df02547a720a7c96d",
+            "path": "\\wordIcons\\ID_waci1.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_waci1.png?[rand]"
+        },
+        {
+            "hash": "24b55b35386f1bc650e73bd5f4b9cf9325d6ec915d6118b436984ff8403ddfe2",
+            "path": "\\wordIcons\\ID_waci2.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_waci2.png?[rand]"
+        },
+        {
+            "hash": "8548f70d50ae381ba3ec14c101143f474678b36121b68f2df02547a720a7c96d",
+            "path": "\\wordIcons\\ID_waci4.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_waci4.png?[rand]"
+        },
+        {
+            "hash": "24b55b35386f1bc650e73bd5f4b9cf9325d6ec915d6118b436984ff8403ddfe2",
+            "path": "\\wordIcons\\ID_waci5.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_waci5.png?[rand]"
+        },
+        {
+            "hash": "f179bd6da6ece17e036342b99a779cf05cb648707201a6da9e94e3f101063ed0",
+            "path": "\\wordIcons\\ID_webbwoser.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_webbwoser.png?[rand]"
+        },
+        {
+            "hash": "67b8c0d6be8266ae23acb5f8075230bdbd9f4de644e98c7cceb330b9e1cf7adb",
             "path": "\\wordIcons\\ID_weibu.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_weibu.png?[rand]"
         },
         {
-            "hash": "2d4d2d3184101b6e22973580ecc71e6c3baed5164dc9500c4c774d9b5f9c3fe2",
+            "hash": "ed562b165f7e9c54b3b3af9664570a8a73c9d692d820e55ea7a4095770f6c986",
+            "path": "\\wordIcons\\ID_wen2shu.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_wen2shu.png?[rand]"
+        },
+        {
+            "hash": "d0315d73254eaf9f31f6d7396ed55550fefe37bbd1532f33b6a6165f36cc7eff",
+            "path": "\\wordIcons\\ID_wens2wen.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_wens2wen.png?[rand]"
+        },
+        {
+            "hash": "bfbcaa7143e3586136ebf806160d352719cab28d047bcb538783ebc8e1c61c24",
+            "path": "\\wordIcons\\ID_word2jpg.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_word2jpg.png?[rand]"
+        },
+        {
+            "hash": "b6662e7667a3df2963d2d23c25a00e46a925a7e4377351a3b186db9f2806f264",
             "path": "\\wordIcons\\ID_WOW.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_WOW.png?[rand]"
         },
         {
-            "hash": "c7b77d8f40c5622bbab95034606fa5a6c2a405ef0d272e84081f60138c30278a",
+            "hash": "f34c02f389cdb0b51ac85f65b03f22eafb25b1f91a62176ef2d8f9b09bc58fcd",
+            "path": "\\wordIcons\\ID_xingzhuangguodu.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_xingzhuangguodu.png?[rand]"
+        },
+        {
+            "hash": "fab4e415dab833082cacd75ceadb4daf1afe9e024dc2da52f0aeb01371a1970b",
+            "path": "\\wordIcons\\ID_xls_copy.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_xls_copy.png?[rand]"
+        },
+        {
+            "hash": "6613a9e3211a51aecf9f8f1fe722001e91a89bd0fbbb64e91905fafd5c3f54c2",
+            "path": "\\wordIcons\\ID_xls_gehangtianse.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_xls_gehangtianse.png?[rand]"
+        },
+        {
+            "hash": "baa8cc49c1c5157f8c694e0613e3b0b7ff0bf3983c2b7d81c8c4677f67c2a50c",
+            "path": "\\wordIcons\\ID_xls_micromsg.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_xls_micromsg.png?[rand]"
+        },
+        {
+            "hash": "58a3d3ae95f75b5b233c266f5530fa48d1e9683e3e5b6384922612439f40eb4e",
+            "path": "\\wordIcons\\ID_xls_msgout.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_xls_msgout.png?[rand]"
+        },
+        {
+            "hash": "d4037b4bcc3e7c04ff9f4bbdf73828e272e1220327a202e13da39588d0e49fb1",
+            "path": "\\wordIcons\\ID_xls_search.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_xls_search.png?[rand]"
+        },
+        {
+            "hash": "4d8240d4843b49379a30b85a1d475296a166418b6eb548aa66aaa0082047f2b7",
+            "path": "\\wordIcons\\ID_xls_teacher.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_xls_teacher.png?[rand]"
+        },
+        {
+            "hash": "9bf86afff6786dc2a8ca1bde58f492f97030fd8f8c3ebb690be50285b5123b4d",
+            "path": "\\wordIcons\\ID_xls_teacher_fenban.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_xls_teacher_fenban.png?[rand]"
+        },
+        {
+            "hash": "fb4b7e3257fd0293eeee97fa004710021122e2e96c0728a85b0e89a03aed4aff",
             "path": "\\wordIcons\\ID_yemian.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_yemian.png?[rand]"
         },
         {
-            "hash": "b14da545d5160e28836fc7aba3b1ece13ae2ee0eb2e0cef2cc296b23d7ecb306",
+            "hash": "47822341cf13a4c6e29ed0a17391d8b2665c73ea11a2161e366267656a593677",
             "path": "\\wordIcons\\ID_ZhiNengXieZuo.png",
             "url": "[host]\/[vision]\\wordIcons\\ID_ZhiNengXieZuo.png?[rand]"
+        },
+        {
+            "hash": "e724220d793649c9bbf890c173a3fa331a19a2d6624f8501b5416dc4ddf408a0",
+            "path": "\\wordIcons\\ID_ZhiNengXieZuo2.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_ZhiNengXieZuo2.png?[rand]"
+        },
+        {
+            "hash": "df8e6bedf0627852396c79fe1d1ca55ec25f84565cc24997b605782edba1b54f",
+            "path": "\\wordIcons\\ID_zhuanzhi.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_zhuanzhi.png?[rand]"
+        },
+        {
+            "hash": "3fd3aa0649746b609a5656e4debf27733c40384a8db8392950dc07128db7c3d5",
+            "path": "\\wordIcons\\ID_zhuijia.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_zhuijia.png?[rand]"
+        },
+        {
+            "hash": "8bb8ac56600860687daafd0546a188d5088cd7c31fb2474ed460f94f47d34fe8",
+            "path": "\\wordIcons\\ID_zhuzhuangtu.png",
+            "url": "[host]\/[vision]\\wordIcons\\ID_zhuzhuangtu.png?[rand]"
         },
         {
             "hash": "40b6521741205694e37cea952d3781b7ae13b84a008b50d58556fff0425c6c3f",
@@ -974,9 +2459,174 @@
             "url": "[host]\/[vision]\\x86\\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll?[rand]"
         },
         {
+            "hash": "edaf53674f5685ff89fa4f241d1c4e4a2f8b8bff9dcadcfff7f045cce1e49e74",
+            "path": "\\xlsIcons\\AI_Copilot_deepseek.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_Copilot_deepseek.png?[rand]"
+        },
+        {
+            "hash": "c20b14d06c7d6c1abe53c6f6c028c591bf62e09793d7287a7e0dc442471c0aad",
+            "path": "\\xlsIcons\\AI_Copilot_doubao.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_Copilot_doubao.png?[rand]"
+        },
+        {
+            "hash": "ed2e3473da01b9bce0924d1ef6f03fe8db3d43b34722bcf35cb32f0dcb7a0455",
+            "path": "\\xlsIcons\\AI_Copilot_kimi.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_Copilot_kimi.png?[rand]"
+        },
+        {
+            "hash": "1049a9e36aad223b6d313d68e05620835338c9809cd74d029b5c2da92fd91427",
+            "path": "\\xlsIcons\\AI_Copilot_lingxi.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_Copilot_lingxi.png?[rand]"
+        },
+        {
+            "hash": "987e8496647fe3ffc7442c0521c94b0f190e46346173a964d5d3c6108a21081d",
+            "path": "\\xlsIcons\\AI_Copilot_qwen.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_Copilot_qwen.png?[rand]"
+        },
+        {
+            "hash": "3e43bd5ad42b0d8898399c4aea089c273eda921e6e559a5ccbc099e6249753d3",
+            "path": "\\xlsIcons\\AI_gaixie_1.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_gaixie_1.png?[rand]"
+        },
+        {
+            "hash": "aa62b99158d58f5f39e8b41a192d69056bf2fe43d0b223071eb205e95ad0c908",
+            "path": "\\xlsIcons\\AI_gaixie_2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_gaixie_2.png?[rand]"
+        },
+        {
+            "hash": "a1684cb30536f78120f062ba9395f92fa4379804bb885f2844fb583555261dc9",
+            "path": "\\xlsIcons\\AI_gaixie_3.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_gaixie_3.png?[rand]"
+        },
+        {
+            "hash": "ce48fde6353cec14ade41a177c44180bbffd7418f927f3e1b5ae1d1f1e53be4e",
+            "path": "\\xlsIcons\\AI_gaixie_4.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_gaixie_4.png?[rand]"
+        },
+        {
+            "hash": "733a0015b1c319ba15fdb19dc36f13ff24f85e85c5daa862e9a791b89875a8f0",
+            "path": "\\xlsIcons\\AI_gaixie_5.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_gaixie_5.png?[rand]"
+        },
+        {
+            "hash": "7952569a55e761cd821f47a269a2336a2f00db5c0ee0365422de625ab62e832c",
+            "path": "\\xlsIcons\\AI_gaixie_6.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_gaixie_6.png?[rand]"
+        },
+        {
+            "hash": "77aa98cdfd0e46d95b519c36a7979016ae00d32450df7649de93f06b0ddb0b04",
+            "path": "\\xlsIcons\\AI_gaixie_7.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_gaixie_7.png?[rand]"
+        },
+        {
+            "hash": "02dbcb428acbdd7d6f31ad00be388f4ca9af7e14076405c26fa8eaa79816bb9f",
+            "path": "\\xlsIcons\\AI_gaixie_8.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_gaixie_8.png?[rand]"
+        },
+        {
+            "hash": "69e1ae8817ddc88e590ceb1071d2f0577a8a36e9ce8fb75933f0ff480a9335c3",
+            "path": "\\xlsIcons\\AI_gaixie_9.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_gaixie_9.png?[rand]"
+        },
+        {
+            "hash": "c52371665abd0bf6358d7199ee33c946e8f6e171a21b6eac079c2dbdc6b14c6c",
+            "path": "\\xlsIcons\\AI_gongneng_1.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_gongneng_1.png?[rand]"
+        },
+        {
+            "hash": "4f11f53c5b940c9e79d0182b8e4ae97b615c8a839c11b4fd5b5e0a72b5cd2b8f",
+            "path": "\\xlsIcons\\AI_gongneng_2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_gongneng_2.png?[rand]"
+        },
+        {
+            "hash": "4f11f53c5b940c9e79d0182b8e4ae97b615c8a839c11b4fd5b5e0a72b5cd2b8f",
+            "path": "\\xlsIcons\\AI_gongneng_3.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_gongneng_3.png?[rand]"
+        },
+        {
+            "hash": "3e43bd5ad42b0d8898399c4aea089c273eda921e6e559a5ccbc099e6249753d3",
+            "path": "\\xlsIcons\\AI_runse_1.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_runse_1.png?[rand]"
+        },
+        {
+            "hash": "aa62b99158d58f5f39e8b41a192d69056bf2fe43d0b223071eb205e95ad0c908",
+            "path": "\\xlsIcons\\AI_runse_2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_runse_2.png?[rand]"
+        },
+        {
+            "hash": "a1684cb30536f78120f062ba9395f92fa4379804bb885f2844fb583555261dc9",
+            "path": "\\xlsIcons\\AI_runse_3.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_runse_3.png?[rand]"
+        },
+        {
+            "hash": "ce48fde6353cec14ade41a177c44180bbffd7418f927f3e1b5ae1d1f1e53be4e",
+            "path": "\\xlsIcons\\AI_runse_4.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_runse_4.png?[rand]"
+        },
+        {
+            "hash": "733a0015b1c319ba15fdb19dc36f13ff24f85e85c5daa862e9a791b89875a8f0",
+            "path": "\\xlsIcons\\AI_runse_5.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_runse_5.png?[rand]"
+        },
+        {
+            "hash": "7952569a55e761cd821f47a269a2336a2f00db5c0ee0365422de625ab62e832c",
+            "path": "\\xlsIcons\\AI_runse_6.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_runse_6.png?[rand]"
+        },
+        {
+            "hash": "77aa98cdfd0e46d95b519c36a7979016ae00d32450df7649de93f06b0ddb0b04",
+            "path": "\\xlsIcons\\AI_runse_7.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_runse_7.png?[rand]"
+        },
+        {
+            "hash": "02dbcb428acbdd7d6f31ad00be388f4ca9af7e14076405c26fa8eaa79816bb9f",
+            "path": "\\xlsIcons\\AI_runse_8.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_runse_8.png?[rand]"
+        },
+        {
+            "hash": "69e1ae8817ddc88e590ceb1071d2f0577a8a36e9ce8fb75933f0ff480a9335c3",
+            "path": "\\xlsIcons\\AI_runse_9.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_runse_9.png?[rand]"
+        },
+        {
+            "hash": "b14da545d5160e28836fc7aba3b1ece13ae2ee0eb2e0cef2cc296b23d7ecb306",
+            "path": "\\xlsIcons\\AI_ZhiNengXieZuo.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_ZhiNengXieZuo.png?[rand]"
+        },
+        {
+            "hash": "d803a638a81dc6e5f061abe2e0168606f74f8db6ab42e919a6610f1471fd50ef",
+            "path": "\\xlsIcons\\AI_ZhiNengXieZuo2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_ZhiNengXieZuo2.png?[rand]"
+        },
+        {
+            "hash": "d3e4b8d1c93ae878e818c5dd5e9e20f64b1bf990f153aa480530049b581e7012",
+            "path": "\\xlsIcons\\AI_ZhiNengXieZuo_New.png",
+            "url": "[host]\/[vision]\\xlsIcons\\AI_ZhiNengXieZuo_New.png?[rand]"
+        },
+        {
+            "hash": "0b704211b6145b1addefdae42c5c28a10145e43945fe729ffa73b4581ccd0615",
+            "path": "\\xlsIcons\\ID_2228.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_2228.png?[rand]"
+        },
+        {
             "hash": "1cf593f0b83f033aa65b8a96206e99ef9191f1a17484169e3c2c65ffe1f7d6ad",
             "path": "\\xlsIcons\\ID_about.png",
             "url": "[host]\/[vision]\\xlsIcons\\ID_about.png?[rand]"
+        },
+        {
+            "hash": "e3ededee97fe45676a68816278d7a831b03779e3d320ec54a51df882d2c5e7e5",
+            "path": "\\xlsIcons\\ID_AES.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_AES.png?[rand]"
+        },
+        {
+            "hash": "f42c6a23635d61aab205cb6018750b5035599a2622ced31566f186e9d4303854",
+            "path": "\\xlsIcons\\ID_auto.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_auto.png?[rand]"
+        },
+        {
+            "hash": "437a1f1237afef08757ef3042c0e83fb32a6c22ef6abad8e64ba11c88cab063a",
+            "path": "\\xlsIcons\\ID_auto2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_auto2.png?[rand]"
         },
         {
             "hash": "b0827f04a477608299e3b4264deb4ed790dcef5e89d94bc32842cc852e896515",
@@ -984,9 +2634,69 @@
             "url": "[host]\/[vision]\\xlsIcons\\ID_baocun.png?[rand]"
         },
         {
+            "hash": "f3ddfa94aa99c43225e32a638de03190bf798794f1b29c42aee6f4ccaac4bb4f",
+            "path": "\\xlsIcons\\ID_bianju.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_bianju.png?[rand]"
+        },
+        {
+            "hash": "721c7c570b12ad6e0256454468a12d144430afde6052d644285c7206cc652f39",
+            "path": "\\xlsIcons\\ID_biaoge_1.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_biaoge_1.png?[rand]"
+        },
+        {
+            "hash": "89c7594495679c781331a4db0336a24a73b893e458d3b28df2473f93720083d6",
+            "path": "\\xlsIcons\\ID_biaoge_2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_biaoge_2.png?[rand]"
+        },
+        {
+            "hash": "a36017ac51735565b209f5fd0042462707d04ae24a0283847cd127da05d6b115",
+            "path": "\\xlsIcons\\ID_biaoge_3.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_biaoge_3.png?[rand]"
+        },
+        {
+            "hash": "a36017ac51735565b209f5fd0042462707d04ae24a0283847cd127da05d6b115",
+            "path": "\\xlsIcons\\ID_biaoge_4.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_biaoge_4.png?[rand]"
+        },
+        {
+            "hash": "124ec0798f75bbdf905fb48c1dd4d6e60bbcb5e626518840bd840f9cad3cf0a6",
+            "path": "\\xlsIcons\\ID_biaoge_5.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_biaoge_5.png?[rand]"
+        },
+        {
+            "hash": "89c7594495679c781331a4db0336a24a73b893e458d3b28df2473f93720083d6",
+            "path": "\\xlsIcons\\ID_biaoge_7.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_biaoge_7.png?[rand]"
+        },
+        {
+            "hash": "124ec0798f75bbdf905fb48c1dd4d6e60bbcb5e626518840bd840f9cad3cf0a6",
+            "path": "\\xlsIcons\\ID_biaoge_jisuan.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_biaoge_jisuan.png?[rand]"
+        },
+        {
             "hash": "b24eb52f0e435e7774ffc4d5fae3f22d38d8f4543deaf57a755b2d4735b0fbdf",
             "path": "\\xlsIcons\\ID_cardid.png",
             "url": "[host]\/[vision]\\xlsIcons\\ID_cardid.png?[rand]"
+        },
+        {
+            "hash": "7f1404225abe17e2e93ded861d6ba69836b37d49ee2734a53c4f0e908768339c",
+            "path": "\\xlsIcons\\ID_changtu1.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_changtu1.png?[rand]"
+        },
+        {
+            "hash": "16e2bf692d99731a979c60fa66264aecc47d2f8a02e40141fc63f40e50d7c25b",
+            "path": "\\xlsIcons\\ID_chemistry.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_chemistry.png?[rand]"
+        },
+        {
+            "hash": "24f62644048259efbc3dd0a069bc0c7328ae68f60c102feb45cb8bed98517ea2",
+            "path": "\\xlsIcons\\ID_code.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_code.png?[rand]"
+        },
+        {
+            "hash": "1049a9e36aad223b6d313d68e05620835338c9809cd74d029b5c2da92fd91427",
+            "path": "\\xlsIcons\\ID_Copilot.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_Copilot.png?[rand]"
         },
         {
             "hash": "af616a19ea815e9222df0d4e4b78cc1bf1e29aa33f2f57d82b63a5b406414311",
@@ -999,9 +2709,49 @@
             "url": "[host]\/[vision]\\xlsIcons\\ID_datamerge.png?[rand]"
         },
         {
+            "hash": "88f1f1abb2c1e1f1e15d1e5877077018c6ab266c1b4c8cd0490d35690ef3619a",
+            "path": "\\xlsIcons\\ID_del_ani.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_del_ani.png?[rand]"
+        },
+        {
+            "hash": "b0728d5bd20f9a7b3010d93ef146e7a797feba7d5a240c5ac5bd2239a7c97343",
+            "path": "\\xlsIcons\\ID_design.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_design.png?[rand]"
+        },
+        {
+            "hash": "9f4ece108df1c045ac8fa7d155fb3690a31d5a30c447827f3dc9fa709406ec2b",
+            "path": "\\xlsIcons\\ID_document.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_document.png?[rand]"
+        },
+        {
+            "hash": "9b77a507b6f5ac4f7b2eea66b35f39018d1438a5c1fd87be6be21bcabcc863bf",
+            "path": "\\xlsIcons\\ID_doc_iunsert.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_doc_iunsert.png?[rand]"
+        },
+        {
+            "hash": "271cb030b6b9a971082cc92ca54b4935e8d4ccb441ff2bc03353fbecf183277b",
+            "path": "\\xlsIcons\\ID_fanyi.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_fanyi.png?[rand]"
+        },
+        {
+            "hash": "874975b79bc4d7c95a8e43f9251ff608b64a51a576577851de77e335080d5ad9",
+            "path": "\\xlsIcons\\ID_fuhao.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_fuhao.png?[rand]"
+        },
+        {
             "hash": "1df0697fc9ebf0fa8de589b3a61a673095f860598b40435d3747f6f9ac045233",
             "path": "\\xlsIcons\\ID_gantetu.png",
             "url": "[host]\/[vision]\\xlsIcons\\ID_gantetu.png?[rand]"
+        },
+        {
+            "hash": "271cb030b6b9a971082cc92ca54b4935e8d4ccb441ff2bc03353fbecf183277b",
+            "path": "\\xlsIcons\\ID_getfonts.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_getfonts.png?[rand]"
+        },
+        {
+            "hash": "4326d689182576053fb96fc43d03101533e9da675d7eef40870905e0295497aa",
+            "path": "\\xlsIcons\\ID_GONGWENBUJIAN.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_GONGWENBUJIAN.png?[rand]"
         },
         {
             "hash": "6bf9b2d15c217b21a53fb507eb3f78a20fe9741353796277b2647aff6f35ad52",
@@ -1009,9 +2759,79 @@
             "url": "[host]\/[vision]\\xlsIcons\\ID_gongzitiao.png?[rand]"
         },
         {
+            "hash": "973d761e17bc56c7fc59152a68c8aea778bb0aace9cf7a5fd0f2ec30ef03043f",
+            "path": "\\xlsIcons\\ID_green.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_green.png?[rand]"
+        },
+        {
+            "hash": "9719a76c2675fddcf9b5ebbaeeb4387f2ed1206bb9b77c8cd006791e89a0a040",
+            "path": "\\xlsIcons\\ID_h.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_h.png?[rand]"
+        },
+        {
+            "hash": "d982d1688f656bf2ab2af17c14fbf9346011934e7781446c44f03b8f2dd77051",
+            "path": "\\xlsIcons\\ID_h1.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_h1.png?[rand]"
+        },
+        {
+            "hash": "e23ac7dab0e86272164b7cc8d2b03a5b56c8df5f5a2769b50e5c3b31307b2ba8",
+            "path": "\\xlsIcons\\ID_h2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_h2.png?[rand]"
+        },
+        {
+            "hash": "ea48708306dd53f26af0bf03b4330811e954a49a42e2558e4a35721423291d78",
+            "path": "\\xlsIcons\\ID_h3.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_h3.png?[rand]"
+        },
+        {
             "hash": "5bbd446f68ebfb7ee79f0992384a8f4af19d654b224efb6565dd56ee5c1196f2",
             "path": "\\xlsIcons\\ID_hanshu.png",
             "url": "[host]\/[vision]\\xlsIcons\\ID_hanshu.png?[rand]"
+        },
+        {
+            "hash": "15bde04ebf2912cda913f9d17d6bc6c35d5d84a547177cd17e6b21439336f41e",
+            "path": "\\xlsIcons\\ID_hh.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_hh.png?[rand]"
+        },
+        {
+            "hash": "46c6453ac2e93661be4f71e385af6cafdfc0bf3fed95f32da9c78370de074ea0",
+            "path": "\\xlsIcons\\ID_hongtou1.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_hongtou1.png?[rand]"
+        },
+        {
+            "hash": "b57cd9d8e1643b9c9ba5ad1bb6000f7caa22fda4498e3bd33182ac3df8e487bb",
+            "path": "\\xlsIcons\\ID_hongtou2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_hongtou2.png?[rand]"
+        },
+        {
+            "hash": "64423b838b9daab50d95305abe25cd1000324652b5a6cf56c6e197789e3321de",
+            "path": "\\xlsIcons\\ID_hongtou3.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_hongtou3.png?[rand]"
+        },
+        {
+            "hash": "365dfdef4da0b4472be95539b68bcff56051bff7466f8575d6bafe9c3ee7efc0",
+            "path": "\\xlsIcons\\ID_hongtou4.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_hongtou4.png?[rand]"
+        },
+        {
+            "hash": "a43c8d54806996ed46d14d2a25abf82ee59896bd99b26435fb4f0d0a6291917e",
+            "path": "\\xlsIcons\\ID_hongtou5.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_hongtou5.png?[rand]"
+        },
+        {
+            "hash": "53c29355d94d7fde0d3a093e80ba5aee683a8a9b3237239e1d0b3a946f23fe4d",
+            "path": "\\xlsIcons\\ID_h_downgrade.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_h_downgrade.png?[rand]"
+        },
+        {
+            "hash": "a31b2ae22a3c33cbcf1e3add0d4d15bd5a52aed02c42a49669e9dc11a9075761",
+            "path": "\\xlsIcons\\ID_h_repair.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_h_repair.png?[rand]"
+        },
+        {
+            "hash": "bb978c6ea065a638ff1a2b32744620d2fb210948889f8a848188f87e16468e32",
+            "path": "\\xlsIcons\\ID_h_upgrade.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_h_upgrade.png?[rand]"
         },
         {
             "hash": "a81e7a3ad898a08407f42c4ec98f8c58b53cb8b628116f418ca5d60374bd92e8",
@@ -1019,9 +2839,54 @@
             "url": "[host]\/[vision]\\xlsIcons\\ID_jiami.png?[rand]"
         },
         {
+            "hash": "63528d57ba1f6865fb6b21ba788b4216380016f31ad7ee3050b12c52baae2fad",
+            "path": "\\xlsIcons\\ID_jiaoshi_1.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_jiaoshi_1.png?[rand]"
+        },
+        {
+            "hash": "0b24eb7955270a79167c78968caef95b74441ca5cecdda85f706cf0bd73e9a82",
+            "path": "\\xlsIcons\\ID_jiaoshi_2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_jiaoshi_2.png?[rand]"
+        },
+        {
+            "hash": "7fea9e9e59a8c78bd36d5b25cf48d32110c3ef6d05edc045a1c9868ff3056f3f",
+            "path": "\\xlsIcons\\ID_jiaoshi_3.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_jiaoshi_3.png?[rand]"
+        },
+        {
+            "hash": "1f9a5f79cf1b90b7c92155d214ea86ab40edd7b7994a36e8180ee3bbed7791b8",
+            "path": "\\xlsIcons\\ID_jiaoshi_4.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_jiaoshi_4.png?[rand]"
+        },
+        {
+            "hash": "95318f6d86964fd71eabda85f1362b38a28802b7e5d388eab2d10f7b2880423e",
+            "path": "\\xlsIcons\\ID_jiaoshi_5.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_jiaoshi_5.png?[rand]"
+        },
+        {
+            "hash": "cf6a660a4db360fe52198f60440f55940b71616f0e8e9299b4ff569c0940ae96",
+            "path": "\\xlsIcons\\ID_jiaoshi_bujian.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_jiaoshi_bujian.png?[rand]"
+        },
+        {
+            "hash": "800250097c642bfea3f5b16e284e397e5e459aab1282902a2d369fdedac67036",
+            "path": "\\xlsIcons\\ID_jiaoshi_pinyin.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_jiaoshi_pinyin.png?[rand]"
+        },
+        {
             "hash": "51f82d1c9c94304c2c722d303779636c602074008cbbdc189bf0a537598d94ca",
             "path": "\\xlsIcons\\ID_jindutiao.png",
             "url": "[host]\/[vision]\\xlsIcons\\ID_jindutiao.png?[rand]"
+        },
+        {
+            "hash": "637b01156e6ae0a3c139e884343f003ad43beb8e3e5e91cd90f147528d7ee6a9",
+            "path": "\\xlsIcons\\ID_jinshu.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_jinshu.png?[rand]"
+        },
+        {
+            "hash": "547600aa25ee780968805a02387a9bb6d50f770a3a1d1dd20a00ace4a55a33a1",
+            "path": "\\xlsIcons\\ID_jiouyema.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_jiouyema.png?[rand]"
         },
         {
             "hash": "822017e913d8899c6f9e6bc55e5ef4bffb67fdf3026c7ebd3c65236644d1693f",
@@ -1029,9 +2894,19 @@
             "url": "[host]\/[vision]\\xlsIcons\\ID_juguangdeng.png?[rand]"
         },
         {
+            "hash": "ce313fd13a2c7cd78de2bc08c026f78c5fe1c127fcdd256850936e6e15ed7801",
+            "path": "\\xlsIcons\\ID_kuaye.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_kuaye.png?[rand]"
+        },
+        {
             "hash": "a36017ac51735565b209f5fd0042462707d04ae24a0283847cd127da05d6b115",
             "path": "\\xlsIcons\\ID_MakeSheet.png",
             "url": "[host]\/[vision]\\xlsIcons\\ID_MakeSheet.png?[rand]"
+        },
+        {
+            "hash": "cf52c90a7ef994c9b20c22b93073aa027140ece9fd4fa2bb2f292ce11ad29212",
+            "path": "\\xlsIcons\\ID_mengceng.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_mengceng.png?[rand]"
         },
         {
             "hash": "20f581cb847a543e10a5f6f8b9de4e653d26f5fd819eca2c3c966b5d9a6908c9",
@@ -1064,14 +2939,59 @@
             "url": "[host]\/[vision]\\xlsIcons\\ID_ocr.png?[rand]"
         },
         {
+            "hash": "04f7b79f2351ad42734f956ab292511af8059ebc2f1cb904c06b8bcc6f9fd713",
+            "path": "\\xlsIcons\\ID_p.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_p.png?[rand]"
+        },
+        {
             "hash": "4eac13162cc87e088b51c58f227cd242dca1575806fc5c94c482f65b87bc396e",
             "path": "\\xlsIcons\\ID_pozhidu.png",
             "url": "[host]\/[vision]\\xlsIcons\\ID_pozhidu.png?[rand]"
         },
         {
+            "hash": "0b24eb7955270a79167c78968caef95b74441ca5cecdda85f706cf0bd73e9a82",
+            "path": "\\xlsIcons\\ID_ppt_exportimg.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_ppt_exportimg.png?[rand]"
+        },
+        {
+            "hash": "0b704211b6145b1addefdae42c5c28a10145e43945fe729ffa73b4581ccd0615",
+            "path": "\\xlsIcons\\ID_ppt_image_clip.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_ppt_image_clip.png?[rand]"
+        },
+        {
+            "hash": "7d68a78ee48a1a73ebc58feeabd9339518a3f450fddd71532fc88fd9bc6e608d",
+            "path": "\\xlsIcons\\ID_ppt_image_clipout.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_ppt_image_clipout.png?[rand]"
+        },
+        {
+            "hash": "6e1980dd76aad71e9f8b02569cd86abeb6fb0faac21c55e6dbbb8b5ad9bb7433",
+            "path": "\\xlsIcons\\ID_ppt_prototype.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_ppt_prototype.png?[rand]"
+        },
+        {
+            "hash": "9f0d1328a4451d093968e8621eb72321f079a5f35faa9ea5afcb7483959d4acb",
+            "path": "\\xlsIcons\\ID_ppt_word_split.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_ppt_word_split.png?[rand]"
+        },
+        {
             "hash": "f5176219301cc4973e4bc13d25080973873ad0c28f91f7e533a910bd103ee455",
             "path": "\\xlsIcons\\ID_qr_box.png",
             "url": "[host]\/[vision]\\xlsIcons\\ID_qr_box.png?[rand]"
+        },
+        {
+            "hash": "f70eedce203bde7d833d4dbdd3ac41edc17e4ac2199e7ebc89cc2e8d36379480",
+            "path": "\\xlsIcons\\ID_randImage.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_randImage.png?[rand]"
+        },
+        {
+            "hash": "b735476b70cb19c2fccb3231486db701cbbfbb01faf9d9f33e480649c10822d9",
+            "path": "\\xlsIcons\\ID_regreplace.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_regreplace.png?[rand]"
+        },
+        {
+            "hash": "c1ed402d479cfdd3d9e04a72e86f6bedc5feb7a8d94bb99dad351ebbaf29cabd",
+            "path": "\\xlsIcons\\ID_remote.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_remote.png?[rand]"
         },
         {
             "hash": "1a00addfa51d097a42997075375e11377be96902e83d9f636a70e2d130043b82",
@@ -1099,6 +3019,81 @@
             "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu.png?[rand]"
         },
         {
+            "hash": "0aef91eeb98f5b7277874bade043a2b5e348693d75f80881bff20780ac57004c",
+            "path": "\\xlsIcons\\ID_shanchu_1.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu_1.png?[rand]"
+        },
+        {
+            "hash": "d420fc15920542699cc0ddbcbf65b6372d10be9701bf445fd00356f8550353c6",
+            "path": "\\xlsIcons\\ID_shanchu_10.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu_10.png?[rand]"
+        },
+        {
+            "hash": "43769fdf58a564487aa2bb1dea3c4d7505b3f8a5656ba1afe1db60dfe974b824",
+            "path": "\\xlsIcons\\ID_shanchu_11.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu_11.png?[rand]"
+        },
+        {
+            "hash": "1dd9208340355d8a1e68c47cea8c2fb9572f67e250c8aeae51716e2f97471274",
+            "path": "\\xlsIcons\\ID_shanchu_12.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu_12.png?[rand]"
+        },
+        {
+            "hash": "764b22fab514a95b3cb8c40758a4d3d590e7248d7455cb921b0904441c647f8f",
+            "path": "\\xlsIcons\\ID_shanchu_13.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu_13.png?[rand]"
+        },
+        {
+            "hash": "47b6185f681004f3ecc0ffcb88012d48d2dbef846e8d445a02228d0a744a1426",
+            "path": "\\xlsIcons\\ID_shanchu_2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu_2.png?[rand]"
+        },
+        {
+            "hash": "0aef91eeb98f5b7277874bade043a2b5e348693d75f80881bff20780ac57004c",
+            "path": "\\xlsIcons\\ID_shanchu_3.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu_3.png?[rand]"
+        },
+        {
+            "hash": "bc2418070a33e3b4331ed0ace5f141106802d748f1d9ddadf7e6d7bf5d6cc5a4",
+            "path": "\\xlsIcons\\ID_shanchu_4.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu_4.png?[rand]"
+        },
+        {
+            "hash": "d658a2f61272788554158f62d4f78d3bf1c929cb51d0bd64cf9fc44e85538b7d",
+            "path": "\\xlsIcons\\ID_shanchu_5.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu_5.png?[rand]"
+        },
+        {
+            "hash": "fffdebadc763e9e82e87833a5fad723960065be903f10215f2a7d991bfdf155b",
+            "path": "\\xlsIcons\\ID_shanchu_6.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu_6.png?[rand]"
+        },
+        {
+            "hash": "17182438da642cae7040a56f068de333187eaf03c86ade9d550e4d34e1a10652",
+            "path": "\\xlsIcons\\ID_shanchu_7.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu_7.png?[rand]"
+        },
+        {
+            "hash": "fcf2e16874e81757a375b5749a1d93285deffcff23aacde96d64e837b85d9ee9",
+            "path": "\\xlsIcons\\ID_shanchu_8.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu_8.png?[rand]"
+        },
+        {
+            "hash": "ed48c725c6bf624df12e7c2f544389ecc2506505fe431e8c1975868869c8bd90",
+            "path": "\\xlsIcons\\ID_shanchu_9.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu_9.png?[rand]"
+        },
+        {
+            "hash": "d3e4b8d1c93ae878e818c5dd5e9e20f64b1bf990f153aa480530049b581e7012",
+            "path": "\\xlsIcons\\ID_shanchu_ppt.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu_ppt.png?[rand]"
+        },
+        {
+            "hash": "88f1f1abb2c1e1f1e15d1e5877077018c6ab266c1b4c8cd0490d35690ef3619a",
+            "path": "\\xlsIcons\\ID_shanchu_ppt_1.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shanchu_ppt_1.png?[rand]"
+        },
+        {
             "hash": "43769fdf58a564487aa2bb1dea3c4d7505b3f8a5656ba1afe1db60dfe974b824",
             "path": "\\xlsIcons\\ID_sheet2xls.png",
             "url": "[host]\/[vision]\\xlsIcons\\ID_sheet2xls.png?[rand]"
@@ -1119,9 +3114,24 @@
             "url": "[host]\/[vision]\\xlsIcons\\ID_sheetsplit.png?[rand]"
         },
         {
+            "hash": "1b7a56ada6c7718572f3ea2071db57fd0801835602d94adf15c30460f77c5297",
+            "path": "\\xlsIcons\\ID_shouxie.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_shouxie.png?[rand]"
+        },
+        {
             "hash": "1ad0ff3212f3aacfdcec3200c2dfdc431c073dc3cdc4b830f1ac4b026aaf08ff",
             "path": "\\xlsIcons\\ID_shu2wen.png",
             "url": "[host]\/[vision]\\xlsIcons\\ID_shu2wen.png?[rand]"
+        },
+        {
+            "hash": "3fcabff3ad558b75390ae30e32c2e589e0312c89899acecb420b0769953dddd3",
+            "path": "\\xlsIcons\\ID_speech.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_speech.png?[rand]"
+        },
+        {
+            "hash": "d803a638a81dc6e5f061abe2e0168606f74f8db6ab42e919a6610f1471fd50ef",
+            "path": "\\xlsIcons\\ID_speech2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_speech2.png?[rand]"
         },
         {
             "hash": "b523e713d1fe17ef4bb0deb9489dd8eb2a708cc9bdf026fd23a21f8b059b5408",
@@ -1134,14 +3144,159 @@
             "url": "[host]\/[vision]\\xlsIcons\\ID_suiji.png?[rand]"
         },
         {
+            "hash": "56b9d072ecc7f02877adebff334120b2f9a614adf55b33049732916e4f124521",
+            "path": "\\xlsIcons\\ID_superreplace.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_superreplace.png?[rand]"
+        },
+        {
+            "hash": "24c3ccc48fe4a5919ab82a61436ac38bc5f6f67ed62b466d2d55536bab2259dc",
+            "path": "\\xlsIcons\\ID_SYSTEM.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_SYSTEM.png?[rand]"
+        },
+        {
+            "hash": "ed48c725c6bf624df12e7c2f544389ecc2506505fe431e8c1975868869c8bd90",
+            "path": "\\xlsIcons\\ID_TABLE.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_TABLE.png?[rand]"
+        },
+        {
+            "hash": "d610b8106dbb23a3f921935846d2264176ca768739759b628a7c86e24bbe51d8",
+            "path": "\\xlsIcons\\ID_tagzuo.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tagzuo.png?[rand]"
+        },
+        {
             "hash": "ded01143ec86cb2dfb7ee3e26e302749591b26f0aba10a62e6ad63cdd6f47464",
             "path": "\\xlsIcons\\ID_talk.png",
             "url": "[host]\/[vision]\\xlsIcons\\ID_talk.png?[rand]"
         },
         {
+            "hash": "2ef3eca9359bc901fdb2dfdfa62f529d420459cddbfa1fd8905611723c585a1a",
+            "path": "\\xlsIcons\\ID_TEACHER.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_TEACHER.png?[rand]"
+        },
+        {
+            "hash": "1ad0ff3212f3aacfdcec3200c2dfdc431c073dc3cdc4b830f1ac4b026aaf08ff",
+            "path": "\\xlsIcons\\ID_ticiqi.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_ticiqi.png?[rand]"
+        },
+        {
+            "hash": "1ad0ff3212f3aacfdcec3200c2dfdc431c073dc3cdc4b830f1ac4b026aaf08ff",
+            "path": "\\xlsIcons\\ID_ticiqi2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_ticiqi2.png?[rand]"
+        },
+        {
+            "hash": "1ad0ff3212f3aacfdcec3200c2dfdc431c073dc3cdc4b830f1ac4b026aaf08ff",
+            "path": "\\xlsIcons\\ID_ticiqi3.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_ticiqi3.png?[rand]"
+        },
+        {
+            "hash": "56b9d072ecc7f02877adebff334120b2f9a614adf55b33049732916e4f124521",
+            "path": "\\xlsIcons\\ID_tihuan.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tihuan.png?[rand]"
+        },
+        {
+            "hash": "004c7d4a50b8bc004ff8ff54bbbcedae8fc49ba82c380d33b1d043ac45033bf0",
+            "path": "\\xlsIcons\\ID_tihuan_1.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tihuan_1.png?[rand]"
+        },
+        {
+            "hash": "4f11f53c5b940c9e79d0182b8e4ae97b615c8a839c11b4fd5b5e0a72b5cd2b8f",
+            "path": "\\xlsIcons\\ID_tihuan_2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tihuan_2.png?[rand]"
+        },
+        {
+            "hash": "4f11f53c5b940c9e79d0182b8e4ae97b615c8a839c11b4fd5b5e0a72b5cd2b8f",
+            "path": "\\xlsIcons\\ID_tihuan_3.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tihuan_3.png?[rand]"
+        },
+        {
+            "hash": "d10ec370e042e5067bae62974b9eb04728bb7d3b780988ba1075976a9b1dde49",
+            "path": "\\xlsIcons\\ID_tihuan_4.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tihuan_4.png?[rand]"
+        },
+        {
+            "hash": "f4943b642f5b0d211175600e09567f4b37210b3778218c3788697abff21b18a1",
+            "path": "\\xlsIcons\\ID_timer.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_timer.png?[rand]"
+        },
+        {
+            "hash": "08d54c68ebc892f3a90331176b8a2c0bba6f7112cdece15b1804e559afedb666",
+            "path": "\\xlsIcons\\ID_tiqubenye.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tiqubenye.png?[rand]"
+        },
+        {
+            "hash": "e088e73def7e16f757a2631b6f64ff91bd6e33537e523384d0695e2a18f0aa98",
+            "path": "\\xlsIcons\\ID_tiqutupian.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tiqutupian.png?[rand]"
+        },
+        {
+            "hash": "8ca82555ffc4b8ab4763f3f001fde0e1402e43bced26148565dfe576732bf56e",
+            "path": "\\xlsIcons\\ID_tools_1.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tools_1.png?[rand]"
+        },
+        {
+            "hash": "1c77ede8255b1705f46dc744d64d3f067cb3c796e8cfbf0f3db69684752b9588",
+            "path": "\\xlsIcons\\ID_tools_2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tools_2.png?[rand]"
+        },
+        {
+            "hash": "9358a759371ba24ccbca05e9b6da57ed4671501a124c695902aa23787c23088f",
+            "path": "\\xlsIcons\\ID_tools_3.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tools_3.png?[rand]"
+        },
+        {
+            "hash": "347f63c00904c20b45e0851482280a25a6a6897d74d0a66bcbf49dfb33f6b7c9",
+            "path": "\\xlsIcons\\ID_tools_4.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tools_4.png?[rand]"
+        },
+        {
+            "hash": "c7ed3fae1b7c51cf259c0c3b3d8e2564b5123d37918344b63f914e102cdd4523",
+            "path": "\\xlsIcons\\ID_tools_5.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tools_5.png?[rand]"
+        },
+        {
+            "hash": "cd79f8a4aa603e04ee95efa7c7764cd811a767f33cf0d4f728d31ba87c0038fc",
+            "path": "\\xlsIcons\\ID_tools_6.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tools_6.png?[rand]"
+        },
+        {
+            "hash": "b1716b7e3de0271f694b0401413af19696c0922d176c04ca94e1b7f0486b1d96",
+            "path": "\\xlsIcons\\ID_tools_7.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tools_7.png?[rand]"
+        },
+        {
+            "hash": "47b6185f681004f3ecc0ffcb88012d48d2dbef846e8d445a02228d0a744a1426",
+            "path": "\\xlsIcons\\ID_tools_8.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tools_8.png?[rand]"
+        },
+        {
             "hash": "968d19b97d4fb3d492ae745cf50786f14faf17a1659df65539584f9f76c9c138",
             "path": "\\xlsIcons\\ID_totemplate.png",
             "url": "[host]\/[vision]\\xlsIcons\\ID_totemplate.png?[rand]"
+        },
+        {
+            "hash": "6d23ca287fb8cf46d175e5dc57717f2b2d17671008ec631d4856d435d3c46d4e",
+            "path": "\\xlsIcons\\ID_trigger.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_trigger.png?[rand]"
+        },
+        {
+            "hash": "3fcabff3ad558b75390ae30e32c2e589e0312c89899acecb420b0769953dddd3",
+            "path": "\\xlsIcons\\ID_tts.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tts.png?[rand]"
+        },
+        {
+            "hash": "0ad2db8adb8d9ee0b8bdec036bc5d3b6583452d767baa1cc52c061fa6565b4b8",
+            "path": "\\xlsIcons\\ID_tupian.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tupian.png?[rand]"
+        },
+        {
+            "hash": "f70eedce203bde7d833d4dbdd3ac41edc17e4ac2199e7ebc89cc2e8d36379480",
+            "path": "\\xlsIcons\\ID_tupianchicun.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tupianchicun.png?[rand]"
+        },
+        {
+            "hash": "e088e73def7e16f757a2631b6f64ff91bd6e33537e523384d0695e2a18f0aa98",
+            "path": "\\xlsIcons\\ID_tuqutupian.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_tuqutupian.png?[rand]"
         },
         {
             "hash": "1aaa5dacc2510c3f9e72b6a5c573f31c1c79629b09f0579547de882221e83d5a",
@@ -1154,9 +3309,64 @@
             "url": "[host]\/[vision]\\xlsIcons\\ID_vbas.png?[rand]"
         },
         {
+            "hash": "e56155eebebc37e31f256afa8fc759351c86142cf813bd2c94413c18a563da9b",
+            "path": "\\xlsIcons\\ID_waci.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_waci.png?[rand]"
+        },
+        {
+            "hash": "67c5455055b95846bb1e058c2b8b4e615d7bb1ca98d44cfdf673de7f739d92dc",
+            "path": "\\xlsIcons\\ID_waci1.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_waci1.png?[rand]"
+        },
+        {
+            "hash": "e56155eebebc37e31f256afa8fc759351c86142cf813bd2c94413c18a563da9b",
+            "path": "\\xlsIcons\\ID_waci2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_waci2.png?[rand]"
+        },
+        {
+            "hash": "67c5455055b95846bb1e058c2b8b4e615d7bb1ca98d44cfdf673de7f739d92dc",
+            "path": "\\xlsIcons\\ID_waci4.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_waci4.png?[rand]"
+        },
+        {
+            "hash": "e56155eebebc37e31f256afa8fc759351c86142cf813bd2c94413c18a563da9b",
+            "path": "\\xlsIcons\\ID_waci5.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_waci5.png?[rand]"
+        },
+        {
+            "hash": "bafe96aeffc8f836a8bf6d74c742b6735a068d155c21af940e84953fb7e81abe",
+            "path": "\\xlsIcons\\ID_webbwoser.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_webbwoser.png?[rand]"
+        },
+        {
+            "hash": "a2fde48c6e2b1c607cbc435af6267d605fc92ffe88f91ba3d803974298564b73",
+            "path": "\\xlsIcons\\ID_weibu.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_weibu.png?[rand]"
+        },
+        {
             "hash": "c7a4e1de5aea59ad9fc87ef6c34fd0c006d0beffc81b4d91e8c7b70211257b56",
             "path": "\\xlsIcons\\ID_wen2shu.png",
             "url": "[host]\/[vision]\\xlsIcons\\ID_wen2shu.png?[rand]"
+        },
+        {
+            "hash": "4b1ca745bf47b852f4d259f298ec8bd9219fb1d6e70524d808de2277d92f0b3d",
+            "path": "\\xlsIcons\\ID_wens2wen.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_wens2wen.png?[rand]"
+        },
+        {
+            "hash": "08d54c68ebc892f3a90331176b8a2c0bba6f7112cdece15b1804e559afedb666",
+            "path": "\\xlsIcons\\ID_word2jpg.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_word2jpg.png?[rand]"
+        },
+        {
+            "hash": "2d4d2d3184101b6e22973580ecc71e6c3baed5164dc9500c4c774d9b5f9c3fe2",
+            "path": "\\xlsIcons\\ID_WOW.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_WOW.png?[rand]"
+        },
+        {
+            "hash": "bd404236dd063b455fc11e9c975d831e1f42e928fe9fcb7f6f77326ec209cbf9",
+            "path": "\\xlsIcons\\ID_xingzhuangguodu.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_xingzhuangguodu.png?[rand]"
         },
         {
             "hash": "054187e4492a6b33d899a81b6b695cd1723e92a68d7a9a2b07426e8ac2becdc9",
@@ -1184,14 +3394,39 @@
             "url": "[host]\/[vision]\\xlsIcons\\ID_xls_search.png?[rand]"
         },
         {
+            "hash": "2ef3eca9359bc901fdb2dfdfa62f529d420459cddbfa1fd8905611723c585a1a",
+            "path": "\\xlsIcons\\ID_xls_teacher.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_xls_teacher.png?[rand]"
+        },
+        {
             "hash": "8e4ec4cdb4647a3a6782058c155132823daa0ea32a8adf294334192b3236b2b3",
             "path": "\\xlsIcons\\ID_xls_teacher_fenban.png",
             "url": "[host]\/[vision]\\xlsIcons\\ID_xls_teacher_fenban.png?[rand]"
         },
         {
+            "hash": "c7b77d8f40c5622bbab95034606fa5a6c2a405ef0d272e84081f60138c30278a",
+            "path": "\\xlsIcons\\ID_yemian.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_yemian.png?[rand]"
+        },
+        {
+            "hash": "b14da545d5160e28836fc7aba3b1ece13ae2ee0eb2e0cef2cc296b23d7ecb306",
+            "path": "\\xlsIcons\\ID_ZhiNengXieZuo.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_ZhiNengXieZuo.png?[rand]"
+        },
+        {
+            "hash": "d803a638a81dc6e5f061abe2e0168606f74f8db6ab42e919a6610f1471fd50ef",
+            "path": "\\xlsIcons\\ID_ZhiNengXieZuo2.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_ZhiNengXieZuo2.png?[rand]"
+        },
+        {
             "hash": "9b1f11a351a94a4006e192a8f77c89f9a3dde07407ce0036bee80c4f882f5361",
             "path": "\\xlsIcons\\ID_zhuanzhi.png",
             "url": "[host]\/[vision]\\xlsIcons\\ID_zhuanzhi.png?[rand]"
+        },
+        {
+            "hash": "9f4ece108df1c045ac8fa7d155fb3690a31d5a30c447827f3dc9fa709406ec2b",
+            "path": "\\xlsIcons\\ID_zhuijia.png",
+            "url": "[host]\/[vision]\\xlsIcons\\ID_zhuijia.png?[rand]"
         },
         {
             "hash": "97cce842839988ecd2a20cd8a0272f350aed78b7dc4c197335bc9581910476b4",
@@ -1205,5 +3440,5 @@
         }
     ],
     "VSTO": "https:\/\/download.microsoft.com\/download\/5\/d\/2\/5d24f8f8-efbb-4b63-aa33-3785e3104713\/vstor_redist.exe",
-    "Vison": "2025.02.17.1"
+    "Vison": "2025.02.18"
 }
