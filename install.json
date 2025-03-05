@@ -24,7 +24,7 @@
             "url": "[host]\/[vision]\\BKOffice.exe.config?[rand]"
         },
         {
-            "hash": "0a97dedbae099942d855c7a206cf13e31e55b46b2acf2dc7507e46766e5c8212",
+            "hash": "1c153c9ab52c19c1ecc0fbc6456a976582ee73f0f00cf2d1f9266cbc5f67207b",
             "path": "\\BKOffice2025.Excel.dll",
             "url": "[host]\/[vision]\\BKOffice2025.Excel.dll?[rand]"
         },
@@ -39,7 +39,7 @@
             "url": "[host]\/[vision]\\BKOffice2025.Excel.vsto?[rand]"
         },
         {
-            "hash": "3390794b7c1d59a796db50607dc753f2a987565f741fbbc36541c1041839b528",
+            "hash": "0cd53bb8c17cdce392dda76b82ef6d3741fd99e6eb19f94d3ef72e7dd2df94fc",
             "path": "\\BKOffice2025.PPT.dll",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.dll?[rand]"
         },
@@ -54,7 +54,7 @@
             "url": "[host]\/[vision]\\BKOffice2025.PPT.vsto?[rand]"
         },
         {
-            "hash": "047b0a538d80282b6b0b628bf3c07bb87fdef16698365ac77e009cf7157bf62e",
+            "hash": "51c020151fe0960768b17e75581e36d71b6df4fbda963df526d26284bf114a42",
             "path": "\\BKOffice2025.Word.dll",
             "url": "[host]\/[vision]\\BKOffice2025.Word.dll?[rand]"
         },
@@ -84,7 +84,7 @@
             "url": "[host]\/[vision]\\BKOfficeDNA.dll?[rand]"
         },
         {
-            "hash": "078edb18ad6e18fb0e42ea6b80a5b49f948d473249cb29256300cddc8e6b8038",
+            "hash": "d00c0c6971263fd13f703e43c625eae651da409673717c3441a6c875ea8a9ef3",
             "path": "\\BKOfficeService.exe",
             "url": "[host]\/[vision]\\BKOfficeService.exe?[rand]"
         },
@@ -114,7 +114,7 @@
             "url": "[host]\/[vision]\\HotkeyListener.dll?[rand]"
         },
         {
-            "hash": "05a5d47e84a2c4c58c1045dfc7f5545a789452aa0590d1e807c2927889fedb56",
+            "hash": "9097d62ce680b7368968b4466d3778375bbb199bb9d02a92c9fce50daf4a44ca",
             "path": "\\Library.dll",
             "url": "[host]\/[vision]\\Library.dll?[rand]"
         },
