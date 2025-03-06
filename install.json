@@ -39,17 +39,17 @@
             "url": "[host]\/[vision]\\BKOffice2025.Excel.vsto?[rand]"
         },
         {
-            "hash": "0cd53bb8c17cdce392dda76b82ef6d3741fd99e6eb19f94d3ef72e7dd2df94fc",
+            "hash": "1ee34ac370c82cf852ae9b1f46e84f1a80ae49b4b41934c40625a2dec2d8f953",
             "path": "\\BKOffice2025.PPT.dll",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.dll?[rand]"
         },
         {
-            "hash": "85fd7e0f6d29faf33f20ed6e383fabe3945e0583cd8f0d4d5c1416e24ca4d056",
+            "hash": "f3765866436a09e333c2019e2b975b79bb395557f4f0be6d2ae7c22c7eaa1ad0",
             "path": "\\BKOffice2025.PPT.dll.manifest",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.dll.manifest?[rand]"
         },
         {
-            "hash": "ce411624cbdc9950e40ddf76dd79ba55c124c87b377caba71abeb9050fe5cb1c",
+            "hash": "ce30490df89ae19dd2a42d5878e8445fbe628cd1d7183ad83d1093f08b536701",
             "path": "\\BKOffice2025.PPT.vsto",
             "url": "[host]\/[vision]\\BKOffice2025.PPT.vsto?[rand]"
         },
@@ -84,7 +84,7 @@
             "url": "[host]\/[vision]\\BKOfficeDNA.dll?[rand]"
         },
         {
-            "hash": "d00c0c6971263fd13f703e43c625eae651da409673717c3441a6c875ea8a9ef3",
+            "hash": "c6fed2d27dc34bf8eec8141ecd2ec69a42317675766333da0d19d9cbc29e04d7",
             "path": "\\BKOfficeService.exe",
             "url": "[host]\/[vision]\\BKOfficeService.exe?[rand]"
         },
@@ -114,7 +114,7 @@
             "url": "[host]\/[vision]\\HotkeyListener.dll?[rand]"
         },
         {
-            "hash": "9097d62ce680b7368968b4466d3778375bbb199bb9d02a92c9fce50daf4a44ca",
+            "hash": "38fb163d63f2b11a0afe676b77d8f14bea0334016471c92d6a87b183f7f952c9",
             "path": "\\Library.dll",
             "url": "[host]\/[vision]\\Library.dll?[rand]"
         },
@@ -3470,5 +3470,5 @@
         }
     ],
     "VSTO": "https:\/\/download.microsoft.com\/download\/5\/d\/2\/5d24f8f8-efbb-4b63-aa33-3785e3104713\/vstor_redist.exe",
-    "Vison": "2025.03.06.03"
+    "Vison": "2025.03.06.04"
 }
